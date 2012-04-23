@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglleft" format="1">
+  <advance width="615"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="322" y="947" type="line"/>
+      <point x="342" y="981"/>
+      <point x="391" y="1009"/>
+      <point x="416" y="1009" type="qcurve"/>
+      <point x="433" y="1009"/>
+      <point x="463" y="997"/>
+      <point x="486" y="977"/>
+      <point x="500" y="949"/>
+      <point x="500" y="933" type="qcurve"/>
+      <point x="500" y="916"/>
+      <point x="493" y="901" type="qcurve"/>
+      <point x="325" y="537" type="line"/>
+      <point x="493" y="172" type="line"/>
+      <point x="500" y="157"/>
+      <point x="500" y="140" type="qcurve"/>
+      <point x="500" y="124"/>
+      <point x="486" y="96"/>
+      <point x="463" y="76"/>
+      <point x="433" y="64"/>
+      <point x="416" y="64" type="qcurve"/>
+      <point x="392" y="64"/>
+      <point x="341" y="92"/>
+      <point x="322" y="126" type="qcurve"/>
+      <point x="88" y="537" type="line"/>
+    </contour>
+  </outline>
+</glyph>

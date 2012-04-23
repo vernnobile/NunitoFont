@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="1">
+  <advance width="626"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="155" y="-7" type="line"/>
+      <point x="144" y="-38"/>
+      <point x="101" y="-66"/>
+      <point x="76" y="-66" type="qcurve"/>
+      <point x="60" y="-66"/>
+      <point x="29" y="-55"/>
+      <point x="5" y="-34"/>
+      <point x="-10" y="-4"/>
+      <point x="-10" y="15" type="qcurve"/>
+      <point x="-10" y="22"/>
+      <point x="-8" y="38"/>
+      <point x="-5" y="46" type="qcurve"/>
+      <point x="468" y="1467" type="line"/>
+      <point x="479" y="1499"/>
+      <point x="525" y="1527"/>
+      <point x="551" y="1527" type="qcurve"/>
+      <point x="567" y="1527"/>
+      <point x="598" y="1516"/>
+      <point x="622" y="1495"/>
+      <point x="637" y="1466"/>
+      <point x="637" y="1447" type="qcurve"/>
+      <point x="637" y="1432"/>
+      <point x="631" y="1414" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="1">
+  <advance width="1287"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="1159" y="341" type="line"/>
+      <point x="1159" y="314"/>
+      <point x="1141" y="276"/>
+      <point x="1111" y="252"/>
+      <point x="1074" y="240"/>
+      <point x="1056" y="240" type="qcurve"/>
+      <point x="1001" y="240"/>
+      <point x="954" y="311"/>
+      <point x="954" y="380" type="qcurve"/>
+      <point x="954" y="639" type="line"/>
+      <point x="289" y="639" type="line"/>
+      <point x="259" y="639"/>
+      <point x="201" y="646"/>
+      <point x="157" y="668"/>
+      <point x="130" y="708"/>
+      <point x="130" y="742" type="qcurve"/>
+      <point x="130" y="844"/>
+      <point x="268" y="844" type="qcurve"/>
+      <point x="1015" y="844" type="line"/>
+      <point x="1044" y="844"/>
+      <point x="1096" y="834"/>
+      <point x="1136" y="807"/>
+      <point x="1159" y="759"/>
+      <point x="1159" y="722" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

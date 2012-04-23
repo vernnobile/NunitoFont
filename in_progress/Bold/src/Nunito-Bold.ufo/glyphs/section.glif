@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="section" format="1">
+  <advance width="1299"/>
+  <unicode hex="00A7"/>
+  <outline>
+    <contour>
+      <point x="610" y="911" type="qcurve"/>
+      <point x="580" y="893"/>
+      <point x="531" y="859"/>
+      <point x="496" y="824"/>
+      <point x="478" y="786"/>
+      <point x="478" y="762" type="qcurve"/>
+      <point x="478" y="732"/>
+      <point x="514" y="687"/>
+      <point x="571" y="650"/>
+      <point x="641" y="618"/>
+      <point x="675" y="603" type="qcurve"/>
+      <point x="706" y="620"/>
+      <point x="760" y="655"/>
+      <point x="801" y="692"/>
+      <point x="824" y="734"/>
+      <point x="824" y="758" type="qcurve"/>
+      <point x="824" y="786"/>
+      <point x="790" y="829"/>
+      <point x="732" y="864"/>
+      <point x="654" y="894"/>
+    </contour>
+    <contour>
+      <point x="983" y="1477" type="qcurve"/>
+      <point x="1025" y="1468"/>
+      <point x="1063" y="1414"/>
+      <point x="1063" y="1385" type="qcurve"/>
+      <point x="1063" y="1366"/>
+      <point x="1049" y="1332"/>
+      <point x="1025" y="1306"/>
+      <point x="990" y="1290"/>
+      <point x="969" y="1290" type="qcurve"/>
+      <point x="953" y="1290"/>
+      <point x="938" y="1295" type="qcurve"/>
+      <point x="891" y="1304" type="line"/>
+      <point x="858" y="1310"/>
+      <point x="797" y="1320"/>
+      <point x="762" y="1320" type="qcurve"/>
+      <point x="735" y="1320"/>
+      <point x="679" y="1311"/>
+      <point x="634" y="1288"/>
+      <point x="605" y="1251"/>
+      <point x="605" y="1223" type="qcurve"/>
+      <point x="605" y="1191"/>
+      <point x="647" y="1146"/>
+      <point x="716" y="1110"/>
+      <point x="804" y="1078"/>
+      <point x="897" y="1042"/>
+      <point x="985" y="997"/>
+      <point x="1054" y="934"/>
+      <point x="1096" y="848"/>
+      <point x="1096" y="790" type="qcurve"/>
+      <point x="1096" y="694"/>
+      <point x="977" y="551"/>
+      <point x="871" y="511" type="qcurve"/>
+      <point x="913" y="494"/>
+      <point x="981" y="448"/>
+      <point x="1030" y="389"/>
+      <point x="1057" y="315"/>
+      <point x="1057" y="271" type="qcurve"/>
+      <point x="1057" y="199"/>
+      <point x="998" y="87"/>
+      <point x="889" y="9"/>
+      <point x="734" y="-34"/>
+      <point x="638" y="-35" type="qcurve"/>
+      <point x="604" y="-35" type="line"/>
+      <point x="514" y="-35"/>
+      <point x="337" y="-11"/>
+      <point x="252" y="10" type="qcurve"/>
+      <point x="210" y="21"/>
+      <point x="174" y="68"/>
+      <point x="174" y="97" type="qcurve"/>
+      <point x="174" y="116"/>
+      <point x="189" y="151"/>
+      <point x="214" y="178"/>
+      <point x="249" y="195"/>
+      <point x="270" y="195" type="qcurve"/>
+      <point x="296" y="195"/>
+      <point x="363" y="173"/>
+      <point x="394" y="168" type="qcurve"/>
+      <point x="423" y="163"/>
+      <point x="487" y="159"/>
+      <point x="525" y="159" type="qcurve"/>
+      <point x="558" y="159"/>
+      <point x="620" y="174"/>
+      <point x="669" y="206"/>
+      <point x="698" y="255"/>
+      <point x="698" y="289" type="qcurve"/>
+      <point x="698" y="321"/>
+      <point x="655" y="366"/>
+      <point x="584" y="402"/>
+      <point x="494" y="433"/>
+      <point x="400" y="468"/>
+      <point x="310" y="513"/>
+      <point x="239" y="576"/>
+      <point x="196" y="662"/>
+      <point x="196" y="721" type="qcurve"/>
+      <point x="196" y="762"/>
+      <point x="229" y="843"/>
+      <point x="288" y="913"/>
+      <point x="372" y="968"/>
+      <point x="423" y="982" type="qcurve"/>
+      <point x="418" y="984"/>
+      <point x="416" y="988" type="qcurve"/>
+      <point x="330" y="1023"/>
+      <point x="240" y="1142"/>
+      <point x="240" y="1219" type="qcurve"/>
+      <point x="240" y="1514"/>
+      <point x="685" y="1514" type="qcurve"/>
+      <point x="763" y="1514"/>
+      <point x="908" y="1493"/>
+    </contour>
+  </outline>
+</glyph>
