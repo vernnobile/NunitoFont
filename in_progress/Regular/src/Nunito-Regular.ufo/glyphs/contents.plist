@@ -24,8 +24,6 @@
 	<string>B_.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
-	<key>CR</key>
-	<string>C_R_.glif</string>
 	<key>Ccedilla</key>
 	<string>C_cedilla.glif</string>
 	<key>D</key>
@@ -72,8 +70,6 @@
 	<string>M_.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
-	<key>NULL</key>
-	<string>N_U_L_L_.glif</string>
 	<key>Ntilde</key>
 	<string>N_tilde.glif</string>
 	<key>O</key>

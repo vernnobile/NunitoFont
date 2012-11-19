@@ -4,31 +4,31 @@
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="353" y="999" type="line"/>
-      <point x="332" y="988"/>
-      <point x="311" y="982"/>
-      <point x="291" y="982" type="curve" smooth="yes"/>
-      <point x="222" y="982"/>
-      <point x="171" y="1042"/>
-      <point x="171" y="1106" type="curve" smooth="yes"/>
-      <point x="171" y="1154"/>
-      <point x="196" y="1185"/>
-      <point x="252" y="1220" type="curve"/>
-      <point x="584" y="1409" type="line" smooth="yes"/>
-      <point x="623" y="1432"/>
-      <point x="664" y="1454"/>
-      <point x="712" y="1454" type="curve" smooth="yes"/>
-      <point x="831" y="1454"/>
-      <point x="884" y="1367"/>
-      <point x="884" y="1208" type="curve" smooth="yes"/>
-      <point x="884" y="241" type="line" smooth="yes"/>
-      <point x="884" y="110"/>
-      <point x="847" y="1"/>
       <point x="703" y="1" type="curve" smooth="yes"/>
-      <point x="578" y="1"/>
-      <point x="525" y="89"/>
-      <point x="525" y="264" type="curve" smooth="yes"/>
+      <point x="847" y="1"/>
+      <point x="884" y="110"/>
+      <point x="884" y="241" type="curve" smooth="yes"/>
+      <point x="884" y="1208" type="line" smooth="yes"/>
+      <point x="884" y="1367"/>
+      <point x="831" y="1454"/>
+      <point x="712" y="1454" type="curve" smooth="yes"/>
+      <point x="664" y="1454"/>
+      <point x="623" y="1432"/>
+      <point x="584" y="1409" type="curve" smooth="yes"/>
+      <point x="252" y="1220" type="line"/>
+      <point x="196" y="1185"/>
+      <point x="171" y="1154"/>
+      <point x="171" y="1106" type="curve" smooth="yes"/>
+      <point x="171" y="1042"/>
+      <point x="222" y="982"/>
+      <point x="291" y="982" type="curve" smooth="yes"/>
+      <point x="311" y="982"/>
+      <point x="332" y="988"/>
+      <point x="353" y="999" type="curve"/>
       <point x="525" y="1104" type="line"/>
+      <point x="525" y="264" type="line" smooth="yes"/>
+      <point x="525" y="89"/>
+      <point x="578" y="1"/>
     </contour>
   </outline>
 </glyph>
