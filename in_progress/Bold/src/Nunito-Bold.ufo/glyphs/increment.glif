@@ -2,7 +2,6 @@
 <glyph name="increment" format="1">
   <advance width="1351"/>
   <unicode hex="0394"/>
-  <unicode hex="2206"/>
   <outline>
     <contour>
       <point x="106" y="183" type="line"/>

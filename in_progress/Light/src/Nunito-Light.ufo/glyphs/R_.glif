@@ -20,8 +20,8 @@
       <point x="1218" y="30"/>
       <point x="1218" y="87" type="curve"/>
       <point x="1211" y="178" type="line" smooth="yes"/>
-      <point x="1197.76891096" y="334.126850638"/>
-      <point x="1241.23843536" y="691.776409012"/>
+      <point x="1197.77" y="334.127"/>
+      <point x="1241.24" y="691.776"/>
       <point x="931" y="740" type="curve"/>
       <point x="931" y="744" type="line"/>
       <point x="1118" y="785"/>

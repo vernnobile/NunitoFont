@@ -3,6 +3,6 @@
   <advance width="1032"/>
   <unicode hex="00BF"/>
   <outline>
-    <component base="question" xScale="-0.999877929688" yScale="-0.999877929688" xOffset="1024" yOffset="1115"/>
+    <component base="question" xScale="-1" yScale="-1" xOffset="1024" yOffset="1115"/>
   </outline>
 </glyph>
