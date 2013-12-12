@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02C9" format="1">
+  <advance width="569"/>
+  <unicode hex="02C9"/>
+  <outline>
+    <contour>
+      <point x="289" y="1040" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

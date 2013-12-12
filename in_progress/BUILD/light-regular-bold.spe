@@ -1,0 +1,54 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="131028_2106_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="new_axis_1" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="Auto" />
+<data name="previewtext" value="MOH" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.68434230589" />
+<!-- axis definitions -->
+<axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="Nunito-Bold.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1000" />
+</location>
+<!-- color for Nunito-Bold.ufo -->
+<color a="1.000000" b="0.500000" g="1.000000" r="1.000000" />
+</master>
+<master filename="Nunito-Light.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="0" />
+</location>
+<!-- color for Nunito-Light.ufo -->
+<color a="1.000000" b="1.000000" g="1.000000" r="0.000000" />
+</master>
+<master filename="Nunito-Regular.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="500" />
+</location>
+<!-- color for Nunito-Regular.ufo -->
+<color a="1.000000" b="0.500000" g="0.500000" r="1.000000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Nunito" sequence="" stylename="--0_xx-512_16">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="0" />
+</location>
+</instance>
+<instance familyname="Nunito" sequence="" stylename="--0_xx-527_27">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="-527.2708" />
+</location>
+</instance>
+</designspace>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a" format="1">
+  <advance width="1105"/>
+  <unicode hex="0061"/>
+  <outline>
+    <contour>
+      <point x="382" y="-12" type="curve" smooth="yes"/>
+      <point x="527" y="-17"/>
+      <point x="636" y="41"/>
+      <point x="705" y="188" type="curve"/>
+      <point x="705" y="157" type="line" smooth="yes"/>
+      <point x="705" y="45"/>
+      <point x="756" y="0"/>
+      <point x="845" y="0" type="curve" smooth="yes"/>
+      <point x="968" y="0"/>
+      <point x="987" y="78"/>
+      <point x="987" y="200" type="curve" smooth="yes"/>
+      <point x="987" y="600" type="line" smooth="yes"/>
+      <point x="987" y="916"/>
+      <point x="806" y="1023"/>
+      <point x="551" y="1023" type="curve" smooth="yes"/>
+      <point x="418" y="1023"/>
+      <point x="257" y="986"/>
+      <point x="168" y="944" type="curve" smooth="yes"/>
+      <point x="54" y="890"/>
+      <point x="133" y="712"/>
+      <point x="246" y="753" type="curve" smooth="yes"/>
+      <point x="313" y="777"/>
+      <point x="413" y="816"/>
+      <point x="530" y="816" type="curve" smooth="yes"/>
+      <point x="630" y="816"/>
+      <point x="694" y="770"/>
+      <point x="694" y="658" type="curve" smooth="yes"/>
+      <point x="694" y="595" type="line"/>
+      <point x="228" y="595"/>
+      <point x="56" y="532"/>
+      <point x="56" y="274" type="curve" smooth="yes"/>
+      <point x="56" y="102"/>
+      <point x="194" y="-6"/>
+    </contour>
+    <contour>
+      <point x="447" y="160" type="curve" smooth="yes"/>
+      <point x="378" y="163"/>
+      <point x="336" y="211"/>
+      <point x="336" y="296" type="curve" smooth="yes"/>
+      <point x="336" y="443"/>
+      <point x="456" y="460"/>
+      <point x="693" y="460" type="curve"/>
+      <point x="693" y="447" type="line" smooth="yes"/>
+      <point x="693" y="291"/>
+      <point x="559" y="155"/>
+    </contour>
+    <contour>
+      <point x="849" y="31" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="561" y="1001" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>b</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>lib</key>
+      <dict>
+      </dict>
+      <key>name</key>
+      <string>a</string>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <integer>1101</integer>
+    </dict>
+  </lib>
+</glyph>
