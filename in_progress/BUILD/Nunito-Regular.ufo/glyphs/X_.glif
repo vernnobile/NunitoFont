@@ -4,26 +4,28 @@
   <unicode hex="0058"/>
   <outline>
     <contour>
+      <point x="278" y="47" type="curve" smooth="yes"/>
+      <point x="673" y="558" type="line"/>
+      <point x="811" y="703" type="line"/>
+      <point x="1253" y="1279" type="line" smooth="yes"/>
+      <point x="1344" y="1398"/>
+      <point x="1174" y="1533"/>
+      <point x="1061" y="1388" type="curve" smooth="yes"/>
+      <point x="671" y="887" type="line"/>
+      <point x="537" y="742" type="line"/>
+      <point x="88" y="175" type="line" smooth="yes"/>
+      <point x="-18" y="41"/>
+      <point x="176" y="-85"/>
+    </contour>
+    <contour>
       <point x="1028" y="38" type="line" smooth="yes"/>
       <point x="1122" y="-87"/>
       <point x="1338" y="42"/>
       <point x="1234" y="181" type="curve" smooth="yes"/>
-      <point x="822" y="729" type="line"/>
-      <point x="1251" y="1281" type="line" smooth="yes"/>
-      <point x="1343" y="1399"/>
-      <point x="1176" y="1532"/>
-      <point x="1062" y="1388" type="curve" smooth="yes"/>
-      <point x="685" y="911" type="line"/>
       <point x="324" y="1391" type="line" smooth="yes"/>
-      <point x="208" y="1546"/>
+      <point x="217" y="1533"/>
       <point x="23" y="1373"/>
-      <point x="113" y="1254" type="curve" smooth="yes"/>
-      <point x="518" y="716" type="line"/>
-      <point x="89" y="171" type="line" smooth="yes"/>
-      <point x="-16" y="37"/>
-      <point x="177" y="-84"/>
-      <point x="278" y="48" type="curve" smooth="yes"/>
-      <point x="653" y="537" type="line"/>
+      <point x="115" y="1250" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -46,6 +48,83 @@
           </array>
           <key>contours</key>
           <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <integer>1028</integer>
+                  <key>y</key>
+                  <integer>38</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1122</integer>
+                  <key>y</key>
+                  <integer>-87</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1338</integer>
+                  <key>y</key>
+                  <integer>42</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <integer>1234</integer>
+                  <key>y</key>
+                  <integer>181</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <integer>324</integer>
+                  <key>y</key>
+                  <integer>1391</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>208</integer>
+                  <key>y</key>
+                  <integer>1546</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>23</integer>
+                  <key>y</key>
+                  <integer>1373</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <integer>113</integer>
+                  <key>y</key>
+                  <integer>1254</integer>
+                </dict>
+              </array>
+            </dict>
           </array>
           <key>lib</key>
           <dict>

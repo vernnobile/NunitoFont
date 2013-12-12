@@ -8,10 +8,10 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="Auto" />
-<data name="previewtext" value="MOH" />
+<data name="previewTypeSize" value="48.0" />
+<data name="previewtext" value="noxonzno" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68434230589" />
+<data name="projectionAngle" value="2.68564524638" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
@@ -39,16 +39,44 @@
 </master>
 
 <!-- instance definitions -->
-<instance familyname="Nunito" sequence="" stylename="--0_xx-512_16">
+<instance familyname="Nunito" sequence="" stylename="100">
 <location>
-<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="-200" />
+</location>
+</instance>
+<instance familyname="Nunito" sequence="" stylename="200">
+<location>
 <dimension name="new_axis_1" xvalue="0" />
 </location>
 </instance>
-<instance familyname="Nunito" sequence="" stylename="--0_xx-527_27">
+<instance familyname="Nunito" sequence="" stylename="300">
 <location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="-527.2708" />
+<dimension name="new_axis_1" xvalue="200" />
+</location>
+</instance>
+<instance familyname="Nunito" sequence="" stylename="400">
+<location>
+<dimension name="new_axis_1" xvalue="400" />
+</location>
+</instance>
+<instance familyname="Nunito" sequence="" stylename="500">
+<location>
+<dimension name="new_axis_1" xvalue="600" />
+</location>
+</instance>
+<instance familyname="Nunito" sequence="" stylename="600">
+<location>
+<dimension name="new_axis_1" xvalue="800" />
+</location>
+</instance>
+<instance familyname="Nunito" sequence="" stylename="700">
+<location>
+<dimension name="new_axis_1" xvalue="1000" />
+</location>
+</instance>
+<instance familyname="Nunito" sequence="" stylename="800">
+<location>
+<dimension name="new_axis_1" xvalue="1200" />
 </location>
 </instance>
 </designspace>

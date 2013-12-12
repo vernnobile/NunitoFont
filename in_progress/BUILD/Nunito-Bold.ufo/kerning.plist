@@ -609,8 +609,6 @@
 	<dict>
 		<key>comma</key>
 		<integer>-23</integer>
-		<key>h</key>
-		<integer>-71</integer>
 		<key>k</key>
 		<integer>-71</integer>
 		<key>period</key>
@@ -940,8 +938,6 @@
 		<integer>-11</integer>
 		<key>hyphen</key>
 		<integer>-177</integer>
-		<key>n</key>
-		<integer>11</integer>
 		<key>o</key>
 		<integer>-11</integer>
 		<key>period</key>
