@@ -19,13 +19,14 @@
           <key>contours</key>
           <array/>
           <key>lib</key>
-          <dict/>
+          <dict>
+      </dict>
           <key>name</key>
           <string>amacron</string>
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1040</integer>
+          <string>1040</string>
         </dict>
       </dict>
     </dict>

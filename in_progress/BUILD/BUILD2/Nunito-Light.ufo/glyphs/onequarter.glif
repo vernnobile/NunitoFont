@@ -104,13 +104,14 @@
           <key>contours</key>
           <array/>
           <key>lib</key>
-          <dict/>
+          <dict>
+      </dict>
           <key>name</key>
           <string>onequarter</string>
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1543</integer>
+          <string>1543</string>
         </dict>
       </dict>
     </dict>

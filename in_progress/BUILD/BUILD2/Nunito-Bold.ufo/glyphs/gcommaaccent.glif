@@ -19,13 +19,14 @@
           <key>contours</key>
           <array/>
           <key>lib</key>
-          <dict/>
+          <dict>
+      </dict>
           <key>name</key>
           <string>gcommaaccent</string>
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1168</integer>
+          <string>1168</string>
         </dict>
       </dict>
     </dict>

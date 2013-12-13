@@ -34,13 +34,14 @@
           <key>contours</key>
           <array/>
           <key>lib</key>
-          <dict/>
+          <dict>
+      </dict>
           <key>name</key>
           <string>dollar</string>
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1274</integer>
+          <string>1274</string>
         </dict>
       </dict>
     </dict>

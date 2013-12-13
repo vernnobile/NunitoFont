@@ -47,7 +47,8 @@
       <key>anchors</key>
       <array/>
       <key>b</key>
-      <dict/>
+      <dict>
+      </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -59,13 +60,14 @@
           <key>contours</key>
           <array/>
           <key>lib</key>
-          <dict/>
+          <dict>
+      </dict>
           <key>name</key>
           <string>N</string>
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1499</integer>
+          <string>1499</string>
         </dict>
       </dict>
       <key>components</key>
@@ -73,13 +75,14 @@
       <key>contours</key>
       <array/>
       <key>lib</key>
-      <dict/>
+      <dict>
+      </dict>
       <key>name</key>
       <string>N</string>
       <key>unicodes</key>
       <array/>
       <key>width</key>
-      <integer>1557</integer>
+      <string>1557</string>
     </dict>
   </lib>
 </glyph>

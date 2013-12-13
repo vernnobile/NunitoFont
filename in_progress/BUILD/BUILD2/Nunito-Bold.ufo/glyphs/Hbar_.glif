@@ -18,13 +18,14 @@
           <key>contours</key>
           <array/>
           <key>lib</key>
-          <dict/>
+          <dict>
+      </dict>
           <key>name</key>
           <string>Hbar</string>
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1460</integer>
+          <string>1460</string>
         </dict>
       </dict>
     </dict>

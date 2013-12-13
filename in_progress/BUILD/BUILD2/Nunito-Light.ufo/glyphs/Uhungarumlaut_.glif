@@ -19,13 +19,14 @@
           <key>contours</key>
           <array/>
           <key>lib</key>
-          <dict/>
+          <dict>
+      </dict>
           <key>name</key>
           <string>Uhungarumlaut</string>
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1490</integer>
+          <string>1490</string>
         </dict>
       </dict>
     </dict>

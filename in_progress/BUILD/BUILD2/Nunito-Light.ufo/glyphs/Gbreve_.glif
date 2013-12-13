@@ -19,13 +19,14 @@
           <key>contours</key>
           <array/>
           <key>lib</key>
-          <dict/>
+          <dict>
+      </dict>
           <key>name</key>
           <string>Gbreve</string>
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1443</integer>
+          <string>1443</string>
         </dict>
       </dict>
     </dict>

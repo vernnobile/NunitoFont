@@ -32,13 +32,14 @@
           <key>contours</key>
           <array/>
           <key>lib</key>
-          <dict/>
+          <dict>
+      </dict>
           <key>name</key>
           <string>Eng</string>
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1495</integer>
+          <string>1495</string>
         </dict>
       </dict>
     </dict>

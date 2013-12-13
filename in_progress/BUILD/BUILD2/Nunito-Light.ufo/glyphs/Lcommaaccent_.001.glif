@@ -18,13 +18,14 @@
           <key>contours</key>
           <array/>
           <key>lib</key>
-          <dict/>
+          <dict>
+      </dict>
           <key>name</key>
           <string>Lcommaaccent.001</string>
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1093</integer>
+          <string>1093</string>
         </dict>
       </dict>
     </dict>

@@ -16,103 +16,103 @@
 	<string>Light</string>
 	<key>com.typemytype.robofont.b.layerStrokeColor</key>
 	<array>
-		<real>0.5</real>
-		<integer>1</integer>
-		<integer>0</integer>
-		<real>0.7</real>
+		<string>0.5</string>
+		<string>1</string>
+		<string>0</string>
+		<string>0.7</string>
 	</array>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
-		<real>0.5</real>
-		<integer>0</integer>
-		<real>0.5</real>
-		<real>0.7</real>
+		<string>0.5</string>
+		<string>0</string>
+		<string>0.5</string>
+		<string>0.7</string>
 	</array>
 	<key>com.typemytype.robofont.guides</key>
 	<array>
 		<dict>
 			<key>angle</key>
-			<integer>0</integer>
+			<string>0</string>
 			<key>isGlobal</key>
-			<integer>1</integer>
+			<string>1</string>
 			<key>magnetic</key>
-			<integer>5</integer>
+			<string>5</string>
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>587</integer>
+			<string>587</string>
 			<key>y</key>
-			<integer>1013</integer>
+			<string>1013</string>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<integer>0</integer>
+			<string>0</string>
 			<key>isGlobal</key>
-			<integer>1</integer>
+			<string>1</string>
 			<key>magnetic</key>
-			<integer>5</integer>
+			<string>5</string>
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>595</integer>
+			<string>595</string>
 			<key>y</key>
-			<integer>903</integer>
+			<string>903</string>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<integer>0</integer>
+			<string>0</string>
 			<key>isGlobal</key>
-			<integer>1</integer>
+			<string>1</string>
 			<key>magnetic</key>
-			<integer>5</integer>
+			<string>5</string>
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>780</integer>
+			<string>780</string>
 			<key>y</key>
-			<integer>120</integer>
+			<string>120</string>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<integer>0</integer>
+			<string>0</string>
 			<key>isGlobal</key>
-			<integer>1</integer>
+			<string>1</string>
 			<key>magnetic</key>
-			<integer>5</integer>
+			<string>5</string>
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>907</integer>
+			<string>907</string>
 			<key>y</key>
 			<string>-22</string>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<integer>0</integer>
+			<string>0</string>
 			<key>isGlobal</key>
-			<integer>1</integer>
+			<string>1</string>
 			<key>magnetic</key>
-			<integer>5</integer>
+			<string>5</string>
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>786</integer>
+			<string>786</string>
 			<key>y</key>
-			<integer>1296</integer>
+			<string>1296</string>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<integer>0</integer>
+			<string>0</string>
 			<key>isGlobal</key>
-			<integer>1</integer>
+			<string>1</string>
 			<key>magnetic</key>
-			<integer>5</integer>
+			<string>5</string>
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>772</integer>
+			<string>772</string>
 			<key>y</key>
-			<integer>1438</integer>
+			<string>1438</string>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.layerOrder</key>
@@ -530,262 +530,262 @@
 	<dict>
 		<key>@MMK_L_A_Left</key>
 		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>1</string>
+			<string>0</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_B_Left</key>
 		<array>
-			<integer>0</integer>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>0</string>
+			<string>1</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_H_Left</key>
 		<array>
-			<integer>1</integer>
-			<real>0.5</real>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>1</string>
+			<string>0.5</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_O_Left</key>
 		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>1</string>
+			<string>0</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_P_Left</key>
 		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.5</real>
-			<real>0.25</real>
+			<string>1</string>
+			<string>0</string>
+			<string>0.5</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_R_Left</key>
 		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>1</string>
+			<string>0</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_S_Left</key>
 		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>1</string>
+			<string>0</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_T_Left</key>
 		<array>
-			<integer>0</integer>
-			<integer>1</integer>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>0</string>
+			<string>1</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_U_Left</key>
 		<array>
-			<integer>0</integer>
-			<real>0.5</real>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>0</string>
+			<string>0.5</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_V_Left</key>
 		<array>
-			<integer>0</integer>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>0</string>
+			<string>0</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_W_Left</key>
 		<array>
-			<real>0.5</real>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>0.5</string>
+			<string>0</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_X_Left</key>
 		<array>
-			<integer>1</integer>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>1</string>
+			<string>1</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_Y_Left</key>
 		<array>
-			<integer>1</integer>
-			<real>0.5</real>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>1</string>
+			<string>0.5</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_k_Left</key>
 		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.5</real>
-			<real>0.25</real>
+			<string>1</string>
+			<string>0</string>
+			<string>0.5</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_n_Left</key>
 		<array>
-			<integer>0</integer>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>0</string>
+			<string>1</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_o_Left</key>
 		<array>
-			<integer>1</integer>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>1</string>
+			<string>1</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_r_Left</key>
 		<array>
-			<integer>0</integer>
-			<integer>1</integer>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>0</string>
+			<string>1</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_t_Left</key>
 		<array>
-			<integer>0</integer>
-			<real>0.5</real>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>0</string>
+			<string>0.5</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_v_Left</key>
 		<array>
-			<integer>0</integer>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>0</string>
+			<string>0</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_w_Left</key>
 		<array>
-			<real>0.5</real>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>0.5</string>
+			<string>0</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_L_y_Left</key>
 		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>1</string>
+			<string>0</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_R_A_Right</key>
 		<array>
-			<integer>0</integer>
-			<integer>1</integer>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>0</string>
+			<string>1</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_R_H_Right</key>
 		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>1</string>
+			<string>0</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_R_O_Right</key>
 		<array>
-			<integer>1</integer>
-			<real>0.5</real>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>1</string>
+			<string>0.5</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_R_S_Right</key>
 		<array>
-			<integer>0</integer>
-			<real>0.5</real>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>0</string>
+			<string>0.5</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_R_T_Right</key>
 		<array>
-			<integer>0</integer>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>0</string>
+			<string>0</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_R_U_Right</key>
 		<array>
-			<integer>0</integer>
-			<real>0.5</real>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>0</string>
+			<string>0.5</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_R_V_Right</key>
 		<array>
-			<real>0.5</real>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>0.5</string>
+			<string>0</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_R_W_Right</key>
 		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>1</string>
+			<string>0</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_R_Y_Right</key>
 		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.5</real>
-			<real>0.25</real>
+			<string>1</string>
+			<string>0</string>
+			<string>0.5</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_R_a_Right</key>
 		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>1</string>
+			<string>0</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_R_n_Right</key>
 		<array>
-			<integer>0</integer>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>0</string>
+			<string>1</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_R_o_Right</key>
 		<array>
-			<integer>1</integer>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>1</string>
+			<string>1</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_R_u_Left</key>
 		<array>
-			<integer>1</integer>
-			<real>0.5</real>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>1</string>
+			<string>0.5</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_R_v_Left</key>
 		<array>
-			<integer>1</integer>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>1</string>
+			<string>1</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_R_w_Left</key>
 		<array>
-			<integer>0</integer>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.25</real>
+			<string>0</string>
+			<string>1</string>
+			<string>0</string>
+			<string>0.25</string>
 		</array>
 		<key>@MMK_R_y_Left</key>
 		<array>
-			<integer>0</integer>
-			<integer>1</integer>
-			<integer>1</integer>
-			<real>0.25</real>
+			<string>0</string>
+			<string>1</string>
+			<string>1</string>
+			<string>0.25</string>
 		</array>
 	</dict>
 	<key>org.robofab.glyphOrder</key>

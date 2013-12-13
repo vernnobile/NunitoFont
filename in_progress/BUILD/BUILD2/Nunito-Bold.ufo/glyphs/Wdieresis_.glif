@@ -19,13 +19,14 @@
           <key>contours</key>
           <array/>
           <key>lib</key>
-          <dict/>
+          <dict>
+      </dict>
           <key>name</key>
           <string>Wdieresis</string>
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>2126</integer>
+          <string>2126</string>
         </dict>
       </dict>
     </dict>

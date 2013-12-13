@@ -97,13 +97,14 @@
           <key>contours</key>
           <array/>
           <key>lib</key>
-          <dict/>
+          <dict>
+      </dict>
           <key>name</key>
           <string>numbersign</string>
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1169</integer>
+          <string>1169</string>
         </dict>
       </dict>
     </dict>
