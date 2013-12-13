@@ -68,9 +68,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>595</integer>
+			<integer>780</integer>
 			<key>y</key>
-			<integer>90</integer>
+			<integer>120</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -82,9 +82,37 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>625</integer>
+			<integer>907</integer>
 			<key>y</key>
-			<integer>-20</integer>
+			<integer>-22</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>786</integer>
+			<key>y</key>
+			<integer>1296</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>772</integer>
+			<key>y</key>
+			<integer>1438</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.layerOrder</key>

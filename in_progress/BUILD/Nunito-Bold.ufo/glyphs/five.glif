@@ -37,10 +37,7 @@
       <point x="549" y="684"/>
       <point x="615" y="684" type="curve" smooth="yes"/>
       <point x="734" y="684"/>
-      <point x="837" y="612"/>
-      <point x="847" y="472" type="curve" smooth="yes"/>
-      <point x="848" y="462"/>
-      <point x="848" y="451"/>
+      <point x="848" y="604"/>
       <point x="848" y="442" type="curve" smooth="yes"/>
       <point x="848" y="284"/>
       <point x="759" y="218"/>
@@ -49,19 +46,39 @@
       <point x="424" y="265"/>
       <point x="355" y="325" type="curve" smooth="yes"/>
       <point x="338" y="339"/>
-      <point x="320" y="346"/>
-      <point x="302" y="346" type="curve" smooth="yes"/>
-      <point x="240" y="346"/>
-      <point x="177" y="274"/>
-      <point x="177" y="206" type="curve" smooth="yes"/>
-      <point x="177" y="201"/>
-      <point x="177" y="197"/>
-      <point x="178" y="192" type="curve" smooth="yes"/>
-      <point x="181" y="171"/>
       <point x="191" y="150"/>
       <point x="210" y="133" type="curve" smooth="yes"/>
       <point x="290" y="62"/>
       <point x="430" y="-26"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>five</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1299</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

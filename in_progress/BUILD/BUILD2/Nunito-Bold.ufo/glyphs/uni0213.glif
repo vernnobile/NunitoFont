@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0213" format="1">
+  <advance width="824"/>
+  <unicode hex="0213"/>
+  <outline>
+    <component base="r"/>
+    <component base="uni0311" xOffset="92" yOffset="-39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>b</key>
+      <dict/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>uni0213</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>709</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>lib</key>
+      <dict/>
+      <key>name</key>
+      <string>uni0213</string>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>763</integer>
+    </dict>
+  </lib>
+</glyph>

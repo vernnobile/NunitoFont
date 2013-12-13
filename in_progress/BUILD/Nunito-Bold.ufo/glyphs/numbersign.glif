@@ -88,9 +88,38 @@
     </contour>
     <contour>
       <point x="535" y="612" type="line"/>
-      <point x="740" y="612" type="line"/>
-      <point x="774" y="852" type="line"/>
       <point x="568" y="852" type="line"/>
+      <point x="774" y="852" type="line"/>
+      <point x="740" y="612" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>numbersign</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1299</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

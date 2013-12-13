@@ -8,10 +8,10 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="48.0" />
-<data name="previewtext" value="noxonzno" />
+<data name="previewTypeSize" value="400.0" />
+<data name="previewtext" value="ion" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68564524638" />
+<data name="projectionAngle" value="2.68561526992" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
