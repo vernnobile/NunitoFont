@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="1">
+  <advance width="1034.6"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="554.48" y="-268.04" type="curve" smooth="yes"/>
+      <point x="581.12" y="-268.04"/>
+      <point x="607.04" y="-250.6"/>
+      <point x="607.04" y="-213.96" type="curve" smooth="yes"/>
+      <point x="607.04" y="41.56" type="line"/>
+      <point x="500.92" y="42.32" type="line"/>
+      <point x="500.92" y="-213.96" type="line" smooth="yes"/>
+      <point x="500.92" y="-249.6"/>
+      <point x="527.84" y="-268.04"/>
+    </contour>
+    <contour>
+      <point x="500.92" y="956.36" type="line"/>
+      <point x="607.04" y="957.12" type="line"/>
+      <point x="607.04" y="1212.64" type="line" smooth="yes"/>
+      <point x="607.04" y="1249.28"/>
+      <point x="581.12" y="1266.72"/>
+      <point x="554.48" y="1266.72" type="curve" smooth="yes"/>
+      <point x="527.84" y="1266.72"/>
+      <point x="500.92" y="1248.28"/>
+      <point x="500.92" y="1212.64" type="curve" smooth="yes"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>cent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1031</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

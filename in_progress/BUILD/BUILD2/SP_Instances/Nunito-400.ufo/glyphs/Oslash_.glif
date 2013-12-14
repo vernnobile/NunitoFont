@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="1">
+  <advance width="1598.8"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <contour>
+      <point x="279.92" y="-133.0" type="curve" smooth="yes"/>
+      <point x="302.68" y="-133.0"/>
+      <point x="322.04" y="-121.64"/>
+      <point x="343.0" y="-92.48" type="curve"/>
+      <point x="1391.0" y="1438.12" type="line" smooth="yes"/>
+      <point x="1405.36" y="1459.84"/>
+      <point x="1412.2" y="1480.28"/>
+      <point x="1412.2" y="1497.72" type="curve" smooth="yes"/>
+      <point x="1412.2" y="1533.76"/>
+      <point x="1383.92" y="1557.44"/>
+      <point x="1351.76" y="1557.44" type="curve" smooth="yes"/>
+      <point x="1331.08" y="1557.44"/>
+      <point x="1307.48" y="1549.48"/>
+      <point x="1289.24" y="1521.76" type="curve" smooth="yes"/>
+      <point x="234.4" y="-31.4" type="line" smooth="yes"/>
+      <point x="224.44" y="-46.08"/>
+      <point x="219.48" y="-61.24"/>
+      <point x="219.48" y="-75.04" type="curve" smooth="yes"/>
+      <point x="219.48" y="-108.04"/>
+      <point x="247.64" y="-133.0"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Oslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1597</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="1478.4"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="762.44" y="1438.0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="275.36" y="0.48" type="curve" smooth="yes"/>
+      <point x="325.88" y="0.48"/>
+      <point x="375.92" y="31.32"/>
+      <point x="375.92" y="95.28" type="curve" smooth="yes"/>
+      <point x="375.92" y="661.8" type="line"/>
+      <point x="1102.48" y="661.8" type="line"/>
+      <point x="1102.48" y="95.28" type="line" smooth="yes"/>
+      <point x="1102.48" y="32.08"/>
+      <point x="1151.76" y="0.48"/>
+      <point x="1201.28" y="0.48" type="curve" smooth="yes"/>
+      <point x="1251.8" y="0.48"/>
+      <point x="1301.6" y="31.32"/>
+      <point x="1301.6" y="95.28" type="curve" smooth="yes"/>
+      <point x="1301.6" y="1333.6" type="line" smooth="yes"/>
+      <point x="1301.6" y="1396.8"/>
+      <point x="1252.56" y="1428.4"/>
+      <point x="1202.28" y="1428.4" type="curve" smooth="yes"/>
+      <point x="1151.76" y="1428.4"/>
+      <point x="1102.48" y="1395.8"/>
+      <point x="1102.48" y="1333.6" type="curve" smooth="yes"/>
+      <point x="1102.48" y="820.6" type="line"/>
+      <point x="375.92" y="820.6" type="line"/>
+      <point x="375.92" y="1333.6" type="line" smooth="yes"/>
+      <point x="375.92" y="1396.8"/>
+      <point x="326.64" y="1428.4"/>
+      <point x="277.12" y="1428.4" type="curve" smooth="yes"/>
+      <point x="226.6" y="1428.4"/>
+      <point x="176.8" y="1395.8"/>
+      <point x="176.8" y="1333.6" type="curve" smooth="yes"/>
+      <point x="176.8" y="95.28" type="line" smooth="yes"/>
+      <point x="176.8" y="32.08"/>
+      <point x="225.84" y="0.48"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>b</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>H</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1464</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>lib</key>
+      <dict>
+      </dict>
+      <key>name</key>
+      <string>H</string>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <integer>1524</integer>
+    </dict>
+  </lib>
+</glyph>

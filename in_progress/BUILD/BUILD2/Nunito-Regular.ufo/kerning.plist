@@ -57,10 +57,6 @@
 		<integer>-57</integer>
 		<key>@MMK_R_Y_Right</key>
 		<integer>-108</integer>
-		<key>@MMK_R_a_Right</key>
-		<integer>-29</integer>
-		<key>@MMK_R_o_Right</key>
-		<integer>-24</integer>
 	</dict>
 	<key>@MMK_L_H_Left</key>
 	<dict>
@@ -104,12 +100,6 @@
 	<dict>
 		<key>@MMK_R_A_Right</key>
 		<integer>-153</integer>
-		<key>@MMK_R_a_Right</key>
-		<integer>-54</integer>
-		<key>@MMK_R_o_Right</key>
-		<integer>-102</integer>
-		<key>@MMK_R_u_Left</key>
-		<integer>-29</integer>
 		<key>hyphen</key>
 		<integer>-57</integer>
 		<key>r</key>
@@ -131,12 +121,6 @@
 		<integer>-29</integer>
 		<key>@MMK_R_Y_Right</key>
 		<integer>-80</integer>
-		<key>@MMK_R_a_Right</key>
-		<integer>-14</integer>
-		<key>@MMK_R_o_Right</key>
-		<integer>-29</integer>
-		<key>@MMK_R_u_Left</key>
-		<integer>-29</integer>
 		<key>quoteright</key>
 		<integer>-29</integer>
 	</dict>

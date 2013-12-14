@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="1">
+  <advance width="1495.52"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="761.28" y="1438.0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="867.84" y="9.0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="747.64" y="-22.0" type="curve" smooth="yes"/>
+      <point x="1044.04" y="-22.0"/>
+      <point x="1312.56" y="145.72"/>
+      <point x="1312.56" y="496.96" type="curve" smooth="yes"/>
+      <point x="1312.56" y="1335.24" type="line" smooth="yes"/>
+      <point x="1312.56" y="1399.2"/>
+      <point x="1263.52" y="1430.8"/>
+      <point x="1214.0" y="1430.8" type="curve" smooth="yes"/>
+      <point x="1162.72" y="1430.8"/>
+      <point x="1113.44" y="1398.44"/>
+      <point x="1113.44" y="1335.24" type="curve" smooth="yes"/>
+      <point x="1113.44" y="501.92" type="line" smooth="yes"/>
+      <point x="1113.44" y="251.6"/>
+      <point x="930.16" y="136.8"/>
+      <point x="747.64" y="136.8" type="curve" smooth="yes"/>
+      <point x="565.6" y="136.8"/>
+      <point x="383.08" y="251.6"/>
+      <point x="383.08" y="501.92" type="curve" smooth="yes"/>
+      <point x="383.08" y="1335.24" type="line" smooth="yes"/>
+      <point x="383.08" y="1399.2"/>
+      <point x="333.8" y="1430.8"/>
+      <point x="284.28" y="1430.8" type="curve" smooth="yes"/>
+      <point x="233.0" y="1430.8"/>
+      <point x="183.96" y="1398.44"/>
+      <point x="183.96" y="1335.24" type="curve" smooth="yes"/>
+      <point x="183.96" y="496.96" type="line" smooth="yes"/>
+      <point x="183.96" y="145.72"/>
+      <point x="451.24" y="-22.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>b</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>U</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1490</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>lib</key>
+      <dict>
+      </dict>
+      <key>name</key>
+      <string>U</string>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <integer>1513</integer>
+    </dict>
+  </lib>
+</glyph>

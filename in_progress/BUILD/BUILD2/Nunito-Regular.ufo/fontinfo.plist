@@ -11,17 +11,13 @@
 	<key>descender</key>
 	<integer>-675</integer>
 	<key>familyName</key>
-	<string>Nunito 100</string>
-	<key>macintoshFONDFamilyID</key>
-	<integer>128</integer>
-	<key>macintoshFONDName</key>
-	<string>Nunito Regular</string>
-	<key>openTypeHeadCreated</key>
-	<string>2013/12/10 09:46:51</string>
-	<key>openTypeHeadLowestRecPPEM</key>
-	<integer>8</integer>
-	<key>openTypeNameCompatibleFullName</key>
-	<string>Nunito Regular</string>
+	<string>Nunito</string>
+	<key>openTypeHheaAscender</key>
+	<integer>1779</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-673</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
 	<key>openTypeNameDescription</key>
 	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
 	<key>openTypeNameDesigner</key>
@@ -36,14 +32,8 @@ This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameManufacturer</key>
 	<string>vernon adams</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Nunito</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>100</string>
-	<key>openTypeNameUniqueID</key>
-	<string>vernonadams: Nunito: 2011</string>
-	<key>openTypeNameVersion</key>
-	<string>Version 2.000</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>www.newtypography.co.uk</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -90,6 +80,12 @@ This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>openTypeOS2Type</key>
 	<array>
 	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>1779</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-673</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
 	<key>openTypeOS2UnicodeRanges</key>
 	<array>
 		<integer>0</integer>
@@ -111,13 +107,17 @@ This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>openTypeOS2VendorID</key>
 	<string>newt</string>
 	<key>openTypeOS2WeightClass</key>
-	<integer>250</integer>
+	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>1779</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>673</integer>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.039600000000000003</real>
+	<real>0.0396</real>
 	<key>postscriptBlueShift</key>
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
@@ -131,10 +131,14 @@ This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	</array>
 	<key>postscriptDefaultWidthX</key>
 	<integer>500</integer>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
 	<key>postscriptForceBold</key>
 	<false/>
-	<key>postscriptFullName</key>
-	<string>Nunito Light</string>
 	<key>postscriptIsFixedPitch</key>
 	<false/>
 	<key>postscriptOtherBlues</key>
@@ -150,8 +154,9 @@ This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 		<integer>210</integer>
 		<integer>260</integer>
 	</array>
-	<key>postscriptUniqueID</key>
-	<integer>-1</integer>
+	<key>postscriptStemSnapV</key>
+	<array>
+	</array>
 	<key>postscriptWindowsCharacterSet</key>
 	<integer>1</integer>
 	<key>styleMapStyleName</key>
@@ -165,7 +170,7 @@ This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>4</integer>
 	<key>xHeight</key>
 	<integer>1040</integer>
 	<key>year</key>

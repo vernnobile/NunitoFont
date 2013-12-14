@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two" format="1">
+  <advance width="1176.68"/>
+  <unicode hex="0032"/>
+  <outline>
+    <contour>
+      <point x="265.76" y="0.0" type="curve" smooth="yes"/>
+      <point x="952.88" y="0.0" type="line" smooth="yes"/>
+      <point x="1005.32" y="0.0"/>
+      <point x="1031.16" y="37.08"/>
+      <point x="1031.16" y="74.8" type="curve" smooth="yes"/>
+      <point x="1031.16" y="112.52"/>
+      <point x="1004.56" y="149.12"/>
+      <point x="952.88" y="149.12" type="curve" smooth="yes"/>
+      <point x="351.0" y="149.12" type="line"/>
+      <point x="807.48" y="597.56" type="line" smooth="yes"/>
+      <point x="977.64" y="756.52"/>
+      <point x="1044.08" y="886.0"/>
+      <point x="1044.08" y="1037.8" type="curve" smooth="yes"/>
+      <point x="1044.08" y="1257.76"/>
+      <point x="861.84" y="1438.6"/>
+      <point x="612.4" y="1439.68" type="curve" smooth="yes"/>
+      <point x="413.76" y="1440.28"/>
+      <point x="304.52" y="1382.52"/>
+      <point x="196.64" y="1316.56" type="curve" smooth="yes"/>
+      <point x="107.64" y="1262.88"/>
+      <point x="192.92" y="1142.96"/>
+      <point x="265.8" y="1181.16" type="curve" smooth="yes"/>
+      <point x="344.24" y="1222.88"/>
+      <point x="404.68" y="1285.28"/>
+      <point x="594.76" y="1285.28" type="curve" smooth="yes"/>
+      <point x="739.36" y="1285.28"/>
+      <point x="860.28" y="1182.48"/>
+      <point x="860.28" y="1020.52" type="curve" smooth="yes"/>
+      <point x="860.28" y="923.8"/>
+      <point x="810.16" y="835.56"/>
+      <point x="702.08" y="725.84" type="curve" smooth="yes"/>
+      <point x="181.8" y="198.72" type="line" smooth="yes"/>
+      <point x="88.0" y="104.04"/>
+      <point x="144.28" y="0.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>two</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1160</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
