@@ -16,11 +16,11 @@
 <axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
 <!-- master definitions -->
-<master filename="Nunito-Regular-master.ufo">
+<master filename="Nunito-Regular.ufo">
 <location>
 <dimension name="new_axis_1" xvalue="500" />
 </location>
-<!-- color for Nunito-Regular-master.ufo -->
+<!-- color for Nunito-Regular.ufo -->
 <color a="1.000000" b="0.500000" g="0.500000" r="1.000000" />
 </master>
 <master filename="Nunito-bold-master.ufo">
