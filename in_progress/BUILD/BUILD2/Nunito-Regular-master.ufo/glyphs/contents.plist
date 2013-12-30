@@ -18,6 +18,8 @@
 	<string>E_.glif</string>
 	<key>Eng</key>
 	<string>Eng_.glif</string>
+	<key>Eth</key>
+	<string>Eth_.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>G</key>
@@ -52,6 +54,8 @@
 	<string>R_.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
+	<key>Scommaaccent</key>
+	<string>Scommaaccent_.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
 	<key>Thorn</key>
@@ -140,6 +144,10 @@
 	<string>estimated.glif</string>
 	<key>eth</key>
 	<string>eth.glif</string>
+	<key>exclam</key>
+	<string>exclam.glif</string>
+	<key>exclamdown</key>
+	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>fi</key>
@@ -280,6 +288,8 @@
 	<string>scommaaccent.glif</string>
 	<key>section</key>
 	<string>section.glif</string>
+	<key>semicolon</key>
+	<string>semicolon.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
 	<key>six</key>

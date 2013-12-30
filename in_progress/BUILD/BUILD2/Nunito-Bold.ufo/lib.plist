@@ -6,39 +6,32 @@
 	<dict>
 		<key>EBB1D39D-5A31-45B3-B44F-04CD128BFFB4</key>
 		<dict>
-	</dict>
+		</dict>
 		<key>F10CBA7B-FAF3-4DDE-A14D-E99DB7E222CB</key>
 		<dict>
-	</dict>
-	</dict>
-	<key>com.schriftgestaltung.fontMaster.userData</key>
-	<dict>
-		<key>GSOffsetHorizontal</key>
-		<real>-15</real>
-		<key>GSOffsetVertical</key>
-		<real>-10</real>
+		</dict>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>FB5FCFFA-D9F2-48E1-8F42-8D172ED4E960</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<false/>
 	<key>com.schriftgestaltung.weight</key>
-	<string>Light</string>
+	<string>Bold</string>
 	<key>com.schriftgestaltung.weightValue</key>
-	<real>700</real>
+	<real>700.0</real>
 	<key>com.typemytype.robofont.b.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
 		<integer>1</integer>
 		<integer>0</integer>
-		<real>0.69999999999999996</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
 		<integer>0</integer>
 		<real>0.5</real>
-		<real>0.69999999999999996</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.guides</key>
 	<array>
