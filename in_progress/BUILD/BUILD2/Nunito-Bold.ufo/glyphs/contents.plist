@@ -34,8 +34,6 @@
 	<string>B_.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
-	<key>CR</key>
-	<string>CR_.glif</string>
 	<key>Cacute</key>
 	<string>Cacute_.glif</string>
 	<key>Ccaron</key>
@@ -450,12 +448,6 @@
 	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
-	<key>f_f</key>
-	<string>f_f.glif</string>
-	<key>f_f_i</key>
-	<string>f_f_i.glif</string>
-	<key>f_f_l</key>
-	<string>f_f_l.glif</string>
 	<key>ff</key>
 	<string>ff.glif</string>
 	<key>ffi</key>
@@ -526,16 +518,12 @@
 	<string>ibreve.glif</string>
 	<key>icircumflex</key>
 	<string>icircumflex.glif</string>
-	<key>idblgrave</key>
-	<string>idblgrave.glif</string>
 	<key>idieresis</key>
 	<string>idieresis.glif</string>
 	<key>idotaccent</key>
 	<string>idotaccent.glif</string>
 	<key>igrave</key>
 	<string>igrave.glif</string>
-	<key>iinvertedbreve</key>
-	<string>iinvertedbreve.glif</string>
 	<key>ij</key>
 	<string>ij.glif</string>
 	<key>imacron</key>
@@ -800,16 +788,8 @@
 	<string>uni01C5_.glif</string>
 	<key>uni01C6</key>
 	<string>uni01C6_.glif</string>
-	<key>uni01C7</key>
-	<string>uni01C7_.glif</string>
-	<key>uni01C8</key>
-	<string>uni01C8_.glif</string>
 	<key>uni01C9</key>
 	<string>uni01C9_.glif</string>
-	<key>uni01CA</key>
-	<string>uni01CA_.glif</string>
-	<key>uni01CB</key>
-	<string>uni01CB_.glif</string>
 	<key>uni01CC</key>
 	<string>uni01CC_.glif</string>
 	<key>uni01CD</key>
@@ -908,14 +888,6 @@
 	<string>uni0216.glif</string>
 	<key>uni0217</key>
 	<string>uni0217.glif</string>
-	<key>uni0218</key>
-	<string>uni0218.glif</string>
-	<key>uni0219</key>
-	<string>uni0219.glif</string>
-	<key>uni021A</key>
-	<string>uni021A_.glif</string>
-	<key>uni021B</key>
-	<string>uni021B_.glif</string>
 	<key>uni021E</key>
 	<string>uni021E_.glif</string>
 	<key>uni021F</key>
@@ -944,8 +916,6 @@
 	<string>uni03A9_.glif</string>
 	<key>uni03BC</key>
 	<string>uni03BC_.glif</string>
-	<key>uni0C29</key>
-	<string>uni0C29_.glif</string>
 	<key>uni1E02</key>
 	<string>uni1E02_.glif</string>
 	<key>uni1E03</key>

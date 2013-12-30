@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="1263"/>
+  <advance width="1253"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
@@ -8,6 +8,9 @@
     </contour>
     <contour>
       <point x="835" y="9" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="682" y="0" type="move" name="bot"/>
     </contour>
     <contour>
       <point x="318" y="0" type="curve" smooth="yes"/>

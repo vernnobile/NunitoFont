@@ -88,5 +88,37 @@
       <point x="1418" y="764"/>
       <point x="1429" y="588" type="curve"/>
     </contour>
+    <contour>
+      <point x="871" y="1013" type="move" name="top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ae</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1734</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

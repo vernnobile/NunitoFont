@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Utilde" format="1">
-  <advance width="1499"/>
+  <advance width="1501"/>
   <unicode hex="0168"/>
   <outline>
     <component base="U"/>

@@ -20,10 +20,42 @@
       <point x="195" y="0"/>
     </contour>
     <contour>
+      <point x="253" y="1040" type="move" name="caron.alt"/>
+    </contour>
+    <contour>
       <point x="252" y="0" type="move" name="bot"/>
     </contour>
     <contour>
       <point x="218" y="1438" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>l</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>511</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

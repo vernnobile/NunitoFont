@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t" format="1">
-  <advance width="756"/>
+  <advance width="765"/>
   <unicode hex="0074"/>
   <outline>
+    <contour>
+      <point x="384" y="1182" type="move" name="caron.alt"/>
+    </contour>
     <contour>
       <point x="469" y="6" type="move" name="bot"/>
     </contour>

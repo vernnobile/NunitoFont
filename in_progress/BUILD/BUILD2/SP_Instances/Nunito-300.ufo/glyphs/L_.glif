@@ -7,7 +7,13 @@
       <point x="357" y="1454" type="move" name="top"/>
     </contour>
     <contour>
+      <point x="467" y="989" type="move" name="caron.alt"/>
+    </contour>
+    <contour>
       <point x="656" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="264" y="697" type="move" name="mid"/>
     </contour>
     <contour>
       <point x="266" y="0" type="curve" smooth="yes"/>

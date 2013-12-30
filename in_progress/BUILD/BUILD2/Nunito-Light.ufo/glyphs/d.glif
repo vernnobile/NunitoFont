@@ -53,7 +53,7 @@
       <point x="529" y="1077" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="944" y="991" type="move" name="caron.alt"/>
+      <point x="911" y="991" type="move" name="caron.alt"/>
     </contour>
   </outline>
   <lib>

@@ -4,6 +4,9 @@
   <unicode hex="0326"/>
   <outline>
     <contour>
+      <point x="359" y="0" type="move" name="_bot"/>
+    </contour>
+    <contour>
       <point x="137" y="-681" type="curve"/>
       <point x="269" y="-681" type="line"/>
       <point x="298" y="-682"/>
@@ -21,46 +24,54 @@
       <point x="111" y="-650"/>
       <point x="109" y="-680"/>
     </contour>
-    <contour>
-      <point x="359" y="0" type="move" name="_bot"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
-      <array/>
+      <array>
+      </array>
       <key>b</key>
-      <dict/>
+      <dict>
+      </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>uni0326</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>584</integer>
         </dict>
       </dict>
       <key>components</key>
-      <array/>
+      <array>
+      </array>
       <key>contours</key>
-      <array/>
+      <array>
+      </array>
       <key>lib</key>
-      <dict/>
+      <dict>
+      </dict>
       <key>name</key>
       <string>uni0326</string>
       <key>unicodes</key>
-      <array/>
+      <array>
+      </array>
       <key>width</key>
       <integer>615</integer>
     </dict>

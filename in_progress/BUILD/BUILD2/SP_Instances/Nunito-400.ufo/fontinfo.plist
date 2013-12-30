@@ -51,7 +51,7 @@
 	<key>openTypeOS2SuperscriptYSize</key>
 	<integer>5155</integer>
 	<key>openTypeOS2WeightClass</key>
-	<integer>286</integer>
+	<integer>292</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>postscriptBlueFuzz</key>
@@ -64,13 +64,19 @@
 	<array>
 		<integer>-25</integer>
 		<integer>1</integer>
-		<integer>993</integer>
+		<integer>994</integer>
 		<integer>1013</integer>
 		<integer>1428</integer>
-		<integer>1446</integer>
+		<integer>1447</integer>
 	</array>
 	<key>postscriptDefaultWidthX</key>
 	<integer>500</integer>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
 	<key>postscriptFullName</key>
 	<string>Nunito 400</string>
 	<key>postscriptOtherBlues</key>
@@ -82,14 +88,12 @@
 	<real>0.0</real>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>133</integer>
-		<integer>161</integer>
-		<integer>211</integer>
+		<integer>135</integer>
+		<integer>163</integer>
+		<integer>213</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>198</integer>
-		<integer>229</integer>
 	</array>
 	<key>postscriptWeightName</key>
 	<string>Light</string>
@@ -98,6 +102,6 @@
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>xHeight</key>
-	<integer>1003</integer>
+	<integer>1005</integer>
 </dict>
 </plist>

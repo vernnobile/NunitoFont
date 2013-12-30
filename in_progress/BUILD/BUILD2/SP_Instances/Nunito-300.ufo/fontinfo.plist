@@ -71,6 +71,12 @@
 	</array>
 	<key>postscriptDefaultWidthX</key>
 	<integer>500</integer>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
 	<key>postscriptFullName</key>
 	<string>Nunito 300</string>
 	<key>postscriptOtherBlues</key>
@@ -88,8 +94,6 @@
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>154</integer>
-		<integer>178</integer>
 	</array>
 	<key>postscriptWeightName</key>
 	<string>Extra-light</string>

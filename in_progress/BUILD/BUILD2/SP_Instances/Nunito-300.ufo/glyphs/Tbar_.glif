@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tbar" format="1">
-  <advance width="1156"/>
+  <advance width="1157"/>
   <unicode hex="0166"/>
   <outline>
     <component base="macron" xOffset="297" yOffset="-570"/>

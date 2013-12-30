@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kcommaaccent" format="1">
-  <advance width="1402"/>
+  <advance width="1421"/>
   <unicode hex="0136"/>
   <outline>
     <component base="K"/>
@@ -25,7 +25,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1208</integer>
+          <integer>1210</integer>
         </dict>
       </dict>
     </dict>

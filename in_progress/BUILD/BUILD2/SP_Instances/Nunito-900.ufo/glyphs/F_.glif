@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="F" format="1">
-  <advance width="1200"/>
+  <advance width="1166"/>
   <unicode hex="0046"/>
   <outline>
     <contour>
@@ -37,17 +37,21 @@
   <lib>
     <dict>
       <key>anchors</key>
-      <array/>
+      <array>
+      </array>
       <key>b</key>
-      <dict/>
+      <dict>
+      </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -355,25 +359,31 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>F</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1142</integer>
         </dict>
       </dict>
       <key>components</key>
-      <array/>
+      <array>
+      </array>
       <key>contours</key>
-      <array/>
+      <array>
+      </array>
       <key>lib</key>
-      <dict/>
+      <dict>
+      </dict>
       <key>name</key>
       <string>F</string>
       <key>unicodes</key>
-      <array/>
+      <array>
+      </array>
       <key>width</key>
       <integer>1175</integer>
     </dict>

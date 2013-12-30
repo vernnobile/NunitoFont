@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Udieresis" format="1">
-  <advance width="1499"/>
+  <advance width="1501"/>
   <unicode hex="00DC"/>
   <outline>
     <component base="dieresis" xOffset="473" yOffset="398"/>

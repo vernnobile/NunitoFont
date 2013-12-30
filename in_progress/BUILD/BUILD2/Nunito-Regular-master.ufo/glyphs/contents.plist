@@ -12,14 +12,10 @@
 	<string>C_.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
-	<key>Dcroat</key>
-	<string>Dcroat_.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
 	<key>Eng</key>
 	<string>Eng_.glif</string>
-	<key>Eth</key>
-	<string>Eth_.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>G</key>
@@ -54,8 +50,6 @@
 	<string>R_.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
-	<key>Scommaaccent</key>
-	<string>Scommaaccent_.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
 	<key>Thorn</key>
@@ -106,8 +100,6 @@
 	<string>cent.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
-	<key>colon</key>
-	<string>colon.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
 	<key>currency</key>
@@ -118,8 +110,6 @@
 	<string>dagger.glif</string>
 	<key>daggerdbl</key>
 	<string>daggerdbl.glif</string>
-	<key>dcroat</key>
-	<string>dcroat.glif</string>
 	<key>degree</key>
 	<string>degree.glif</string>
 	<key>divide</key>
@@ -144,8 +134,6 @@
 	<string>estimated.glif</string>
 	<key>eth</key>
 	<string>eth.glif</string>
-	<key>exclam</key>
-	<string>exclam.glif</string>
 	<key>exclamdown</key>
 	<string>exclamdown.glif</string>
 	<key>f</key>
@@ -254,8 +242,6 @@
 	<string>plusminus.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
-	<key>question</key>
-	<string>question.glif</string>
 	<key>questiondown</key>
 	<string>questiondown.glif</string>
 	<key>quotedbl</key>
@@ -284,12 +270,8 @@
 	<string>ring.glif</string>
 	<key>scaron</key>
 	<string>scaron.glif</string>
-	<key>scommaaccent</key>
-	<string>scommaaccent.glif</string>
 	<key>section</key>
 	<string>section.glif</string>
-	<key>semicolon</key>
-	<string>semicolon.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
 	<key>six</key>
@@ -300,8 +282,6 @@
 	<string>summation.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
-	<key>tbar</key>
-	<string>tbar.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
 	<key>three</key>

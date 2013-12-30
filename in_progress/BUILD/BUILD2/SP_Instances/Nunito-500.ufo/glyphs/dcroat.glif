@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcroat" format="1">
-  <advance width="1193"/>
+  <advance width="1209"/>
   <unicode hex="0111"/>
   <outline>
-    <component base="macron" xOffset="602" yOffset="-142"/>
+    <component base="macron" xOffset="625" yOffset="-117"/>
     <component base="d"/>
   </outline>
   <lib>

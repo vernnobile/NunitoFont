@@ -12,8 +12,6 @@
 	<integer>-675</integer>
 	<key>familyName</key>
 	<string>Nunito</string>
-	<key>openTypeHeadCreated</key>
-	<string>2013/12/13 18:57:37</string>
 	<key>openTypeNameDescription</key>
 	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
 	<key>openTypeNameDesigner</key>
@@ -107,7 +105,7 @@ This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.039600000000000003</real>
+	<real>0.0396</real>
 	<key>postscriptBlueShift</key>
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
@@ -121,6 +119,12 @@ This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	</array>
 	<key>postscriptDefaultWidthX</key>
 	<integer>500</integer>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptIsFixedPitch</key>
@@ -137,6 +141,9 @@ This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 		<integer>160</integer>
 		<integer>210</integer>
 		<integer>260</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
 	</array>
 	<key>postscriptWindowsCharacterSet</key>
 	<integer>1</integer>

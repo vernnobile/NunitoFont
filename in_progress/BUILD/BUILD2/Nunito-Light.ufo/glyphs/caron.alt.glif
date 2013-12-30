@@ -21,7 +21,7 @@
       <point x="261" y="305"/>
     </contour>
     <contour>
-      <point x="3" y="0" type="move" name="_caron.alt"/>
+      <point x="3" y="309" type="move" name="_caron.alt"/>
     </contour>
   </outline>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Agrave" format="1">
-  <advance width="1469"/>
+  <advance width="1458"/>
   <unicode hex="00C0"/>
   <outline>
     <component base="A"/>
-    <component base="grave" xOffset="283" yOffset="398"/>
+    <component base="grave" xOffset="282" yOffset="398"/>
   </outline>
   <lib>
     <dict>

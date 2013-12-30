@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t" format="1">
-  <advance width="768"/>
+  <advance width="774.714425262"/>
   <unicode hex="0074"/>
   <outline>
     <contour>
@@ -43,6 +43,9 @@
       <point x="214" y="293" type="line" smooth="yes"/>
       <point x="214" y="109"/>
       <point x="321" y="-8"/>
+    </contour>
+    <contour>
+      <point x="395" y="1230" type="move" name="caron.alt"/>
     </contour>
     <contour>
       <point x="476" y="5" type="move" name="bot"/>
@@ -417,7 +420,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>768</integer>
+          <real>774.7144252618123</real>
         </dict>
       </dict>
       <key>components</key>

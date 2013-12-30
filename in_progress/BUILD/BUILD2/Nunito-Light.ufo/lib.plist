@@ -6,10 +6,10 @@
 	<dict>
 		<key>EBB1D39D-5A31-45B3-B44F-04CD128BFFB4</key>
 		<dict>
-		</dict>
+	</dict>
 		<key>F10CBA7B-FAF3-4DDE-A14D-E99DB7E222CB</key>
 		<dict>
-		</dict>
+	</dict>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>F10CBA7B-FAF3-4DDE-A14D-E99DB7E222CB</string>
@@ -22,14 +22,14 @@
 		<real>0.5</real>
 		<integer>1</integer>
 		<integer>0</integer>
-		<real>0.7</real>
+		<real>0.69999999999999996</real>
 	</array>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
 		<integer>0</integer>
 		<real>0.5</real>
-		<real>0.7</real>
+		<real>0.69999999999999996</real>
 	</array>
 	<key>com.typemytype.robofont.guides</key>
 	<array>
@@ -529,268 +529,6 @@
 			<string>glyphList</string>
 		</dict>
 	</array>
-	<key>com.typesupply.MetricsMachine4.groupColors</key>
-	<dict>
-		<key>@MMK_L_A_Left</key>
-		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_B_Left</key>
-		<array>
-			<integer>0</integer>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_H_Left</key>
-		<array>
-			<integer>1</integer>
-			<real>0.5</real>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_O_Left</key>
-		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_P_Left</key>
-		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.5</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_R_Left</key>
-		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_S_Left</key>
-		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_T_Left</key>
-		<array>
-			<integer>0</integer>
-			<integer>1</integer>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_U_Left</key>
-		<array>
-			<integer>0</integer>
-			<real>0.5</real>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_V_Left</key>
-		<array>
-			<integer>0</integer>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_W_Left</key>
-		<array>
-			<real>0.5</real>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_X_Left</key>
-		<array>
-			<integer>1</integer>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_Y_Left</key>
-		<array>
-			<integer>1</integer>
-			<real>0.5</real>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_k_Left</key>
-		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.5</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_n_Left</key>
-		<array>
-			<integer>0</integer>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_o_Left</key>
-		<array>
-			<integer>1</integer>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_r_Left</key>
-		<array>
-			<integer>0</integer>
-			<integer>1</integer>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_t_Left</key>
-		<array>
-			<integer>0</integer>
-			<real>0.5</real>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_v_Left</key>
-		<array>
-			<integer>0</integer>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_w_Left</key>
-		<array>
-			<real>0.5</real>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_y_Left</key>
-		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_A_Right</key>
-		<array>
-			<integer>0</integer>
-			<integer>1</integer>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_H_Right</key>
-		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_O_Right</key>
-		<array>
-			<integer>1</integer>
-			<real>0.5</real>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_S_Right</key>
-		<array>
-			<integer>0</integer>
-			<real>0.5</real>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_T_Right</key>
-		<array>
-			<integer>0</integer>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_U_Right</key>
-		<array>
-			<integer>0</integer>
-			<real>0.5</real>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_V_Right</key>
-		<array>
-			<real>0.5</real>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_W_Right</key>
-		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_Y_Right</key>
-		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.5</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_a_Right</key>
-		<array>
-			<integer>1</integer>
-			<integer>0</integer>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_n_Right</key>
-		<array>
-			<integer>0</integer>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_o_Right</key>
-		<array>
-			<integer>1</integer>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_u_Left</key>
-		<array>
-			<integer>1</integer>
-			<real>0.5</real>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_v_Left</key>
-		<array>
-			<integer>1</integer>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_w_Left</key>
-		<array>
-			<integer>0</integer>
-			<integer>1</integer>
-			<integer>0</integer>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_y_Left</key>
-		<array>
-			<integer>0</integer>
-			<integer>1</integer>
-			<integer>1</integer>
-			<real>0.25</real>
-		</array>
-	</dict>
 	<key>org.robofab.glyphOrder</key>
 	<array>
 		<string>.notdef</string>
@@ -1321,8 +1059,6 @@
 		<string>zcaron</string>
 		<string>uni02C9</string>
 		<string>uni03A9</string>
-		<string>uni021A</string>
-		<string>uni021B</string>
 		<string>oe</string>
 		<string>guilsinglleft</string>
 		<string>uni03BC</string>
@@ -1341,7 +1077,6 @@
 		<string>uni2215</string>
 		<string>uni00AD</string>
 		<string>quotedblbase</string>
-		<string>uni0219</string>
 		<string>Ydieresis</string>
 		<string>fl</string>
 		<string>greaterequal</string>
@@ -1357,7 +1092,6 @@
 		<string>product</string>
 		<string>approxequal</string>
 		<string>emdash</string>
-		<string>uni0218</string>
 		<string>fi</string>
 		<string>bullet</string>
 		<string>guilsinglright</string>
@@ -1489,10 +1223,6 @@
 		<string>Utilde</string>
 		<string>uni01C4</string>
 		<string>uni01C5</string>
-		<string>uni01C7</string>
-		<string>uni01C8</string>
-		<string>uni01CA</string>
-		<string>uni01CB</string>
 		<string>uni01CD</string>
 		<string>uni01CF</string>
 		<string>uni01D1</string>
@@ -1528,8 +1258,6 @@
 		<string>gcircumflex</string>
 		<string>hcircumflex</string>
 		<string>ibreve</string>
-		<string>idblgrave</string>
-		<string>iinvertedbreve</string>
 		<string>itilde</string>
 		<string>dotlessj</string>
 		<string>jcircumflex</string>
@@ -1566,9 +1294,6 @@
 		<string>uni1EBD</string>
 		<string>uni1EF9</string>
 		<string>utilde</string>
-		<string>f_f</string>
-		<string>f_f_i</string>
-		<string>f_f_l</string>
 		<string>uniFB00</string>
 		<string>uniFB03</string>
 		<string>uniFB04</string>
@@ -1578,7 +1303,6 @@
 		<string>uni022F</string>
 		<string>guillemotleft</string>
 		<string>guillemotright</string>
-		<string>CR</string>
 		<string>uni000D</string>
 		<string>Euro</string>
 		<string>uni2113</string>
@@ -1601,7 +1325,6 @@
 		<string>uni0002</string>
 		<string>uni0009</string>
 		<string>uni000A</string>
-		<string>uni0C29</string>
 	</array>
 </dict>
 </plist>

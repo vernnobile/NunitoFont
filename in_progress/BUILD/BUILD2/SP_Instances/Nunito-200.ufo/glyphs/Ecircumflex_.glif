@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecircumflex" format="1">
-  <advance width="1227"/>
+  <advance width="1231"/>
   <unicode hex="00CA"/>
   <outline>
     <component base="circumflex" xOffset="347" yOffset="398"/>

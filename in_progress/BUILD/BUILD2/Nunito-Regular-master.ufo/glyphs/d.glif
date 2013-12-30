@@ -47,6 +47,9 @@
       <point x="777" y="146"/>
     </contour>
     <contour>
+      <point x="960" y="1039" type="move" name="caron.alt"/>
+    </contour>
+    <contour>
       <point x="904" y="1175" type="move" name="mid"/>
     </contour>
   </outline>

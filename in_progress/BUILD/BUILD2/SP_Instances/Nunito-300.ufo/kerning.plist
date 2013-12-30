@@ -5,1145 +5,540 @@
 	<key>@MMK_L_A_Left</key>
 	<dict>
 		<key>@MMK_R_O_Right</key>
-		<integer>1</integer>
+		<integer>-35</integer>
 		<key>@MMK_R_S_Right</key>
-		<integer>1</integer>
+		<integer>-36</integer>
 		<key>@MMK_R_T_Right</key>
-		<integer>6</integer>
+		<integer>-142</integer>
 		<key>@MMK_R_U_Right</key>
-		<integer>3</integer>
+		<integer>-66</integer>
 		<key>@MMK_R_V_Right</key>
-		<integer>5</integer>
+		<integer>-125</integer>
 		<key>@MMK_R_W_Right</key>
-		<integer>3</integer>
+		<integer>-80</integer>
 		<key>@MMK_R_Y_Right</key>
-		<integer>8</integer>
+		<integer>-199</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>1</integer>
+		<integer>-26</integer>
 		<key>@MMK_R_u_Left</key>
-		<integer>1</integer>
+		<integer>-36</integer>
 		<key>@MMK_R_v_Left</key>
-		<integer>4</integer>
+		<integer>-90</integer>
 		<key>@MMK_R_w_Left</key>
-		<integer>3</integer>
+		<integer>-82</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>4</integer>
+		<integer>-93</integer>
 		<key>g</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>guillemetleft</key>
 		<integer>3</integer>
 		<key>guillemetright</key>
 		<integer>3</integer>
+		<key>p</key>
+		<integer>6</integer>
 		<key>quotedblleft</key>
-		<integer>10</integer>
+		<integer>-251</integer>
 		<key>quotedblright</key>
-		<integer>12</integer>
+		<integer>-296</integer>
 		<key>quoteleft</key>
-		<integer>10</integer>
+		<integer>-251</integer>
 		<key>quoteright</key>
-		<integer>12</integer>
+		<integer>-296</integer>
 	</dict>
 	<key>@MMK_L_B_Left</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>1</integer>
+		<integer>-36</integer>
 		<key>@MMK_R_U_Right</key>
-		<integer>1</integer>
+		<integer>-20</integer>
 		<key>@MMK_R_V_Right</key>
-		<integer>3</integer>
+		<integer>-79</integer>
 		<key>@MMK_R_W_Right</key>
-		<integer>2</integer>
+		<integer>-57</integer>
 		<key>@MMK_R_Y_Right</key>
-		<integer>4</integer>
+		<integer>-108</integer>
 	</dict>
 	<key>@MMK_L_O_Left</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>3</integer>
+		<integer>-74</integer>
 		<key>@MMK_R_O_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_T_Right</key>
-		<integer>4</integer>
+		<integer>-90</integer>
 		<key>@MMK_R_U_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_V_Right</key>
-		<integer>1</integer>
+		<integer>-18</integer>
 		<key>@MMK_R_W_Right</key>
-		<integer>1</integer>
+		<integer>-14</integer>
 		<key>@MMK_R_Y_Right</key>
-		<integer>3</integer>
+		<integer>-73</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_v_Left</key>
-		<integer>1</integer>
+		<integer>-22</integer>
 		<key>@MMK_R_w_Left</key>
-		<integer>1</integer>
+		<integer>-22</integer>
 		<key>X</key>
-		<integer>3</integer>
+		<integer>-69</integer>
 		<key>quotedblright</key>
-		<integer>3</integer>
+		<integer>-71</integer>
 		<key>quoteright</key>
-		<integer>1</integer>
+		<integer>-36</integer>
 	</dict>
 	<key>@MMK_L_P_Left</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>6</integer>
+		<integer>-153</integer>
 		<key>hyphen</key>
-		<integer>2</integer>
+		<integer>-57</integer>
 		<key>r</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 	</dict>
 	<key>@MMK_L_R_Left</key>
 	<dict>
 		<key>@MMK_R_O_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_S_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_T_Right</key>
-		<integer>2</integer>
+		<integer>-40</integer>
 		<key>@MMK_R_U_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_V_Right</key>
-		<integer>1</integer>
+		<integer>-34</integer>
 		<key>@MMK_R_W_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_Y_Right</key>
-		<integer>3</integer>
+		<integer>-80</integer>
 		<key>quoteright</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 	</dict>
 	<key>@MMK_L_S_Left</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>1</integer>
+		<integer>-36</integer>
 		<key>@MMK_R_T_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_V_Right</key>
-		<integer>1</integer>
+		<integer>-36</integer>
 		<key>@MMK_R_Y_Right</key>
-		<integer>3</integer>
+		<integer>-71</integer>
 		<key>@MMK_R_v_Left</key>
-		<integer>1</integer>
+		<integer>-36</integer>
 		<key>@MMK_R_w_Left</key>
-		<integer>1</integer>
+		<integer>-36</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>1</integer>
+		<integer>-36</integer>
 	</dict>
 	<key>@MMK_L_T_Left</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>6</integer>
+		<integer>-142</integer>
 		<key>@MMK_R_O_Right</key>
-		<integer>4</integer>
+		<integer>-90</integer>
 		<key>@MMK_R_a_Right</key>
-		<integer>8</integer>
+		<integer>-205</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>9</integer>
+		<integer>-103</integer>
 		<key>@MMK_R_u_Left</key>
-		<integer>9</integer>
+		<integer>-222</integer>
 		<key>@MMK_R_w_Left</key>
-		<integer>9</integer>
+		<integer>-233</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>9</integer>
+		<integer>-233</integer>
 		<key>J</key>
-		<integer>7</integer>
-		<key>colon</key>
-		<integer>10</integer>
+		<integer>-179</integer>
 		<key>guillemetleft</key>
 		<integer>11</integer>
 		<key>guillemetright</key>
 		<integer>11</integer>
 		<key>guilsinglleft</key>
-		<integer>10</integer>
+		<integer>-251</integer>
 		<key>guilsinglright</key>
-		<integer>9</integer>
+		<integer>-215</integer>
 		<key>h</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>hyphen</key>
-		<integer>12</integer>
+		<integer>-294</integer>
 		<key>r</key>
-		<integer>9</integer>
-		<key>semicolon</key>
-		<integer>10</integer>
+		<integer>-222</integer>
 	</dict>
 	<key>@MMK_L_U_Left</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>2</integer>
+		<integer>-47</integer>
 		<key>@MMK_R_T_Right</key>
-		<integer>3</integer>
+		<integer>-64</integer>
 	</dict>
 	<key>@MMK_L_V_Left</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>5</integer>
+		<integer>-125</integer>
 		<key>@MMK_R_O_Right</key>
-		<integer>1</integer>
+		<integer>-18</integer>
 		<key>@MMK_R_Y_Right</key>
-		<integer>-1</integer>
+		<integer>29</integer>
 		<key>@MMK_R_a_Right</key>
-		<integer>5</integer>
+		<integer>-113</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>6</integer>
+		<integer>-53</integer>
 		<key>@MMK_R_u_Left</key>
-		<integer>3</integer>
+		<integer>-73</integer>
 		<key>C</key>
-		<integer>3</integer>
-		<key>colon</key>
-		<integer>5</integer>
+		<integer>-79</integer>
 		<key>guillemetleft</key>
 		<integer>6</integer>
 		<key>guillemetright</key>
 		<integer>4</integer>
 		<key>guilsinglleft</key>
-		<integer>3</integer>
+		<integer>-71</integer>
 		<key>guilsinglright</key>
-		<integer>1</integer>
+		<integer>-36</integer>
 		<key>hyphen</key>
-		<integer>5</integer>
+		<integer>-113</integer>
 		<key>i</key>
-		<integer>2</integer>
-		<key>semicolon</key>
-		<integer>5</integer>
+		<integer>-40</integer>
 	</dict>
 	<key>@MMK_L_W_Left</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>3</integer>
+		<integer>-80</integer>
 		<key>@MMK_R_O_Right</key>
-		<integer>1</integer>
+		<integer>-14</integer>
 		<key>@MMK_R_Y_Right</key>
-		<integer>-1</integer>
+		<integer>29</integer>
 		<key>@MMK_R_a_Right</key>
-		<integer>3</integer>
+		<integer>-80</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>3</integer>
+		<integer>-20</integer>
 		<key>@MMK_R_u_Left</key>
-		<integer>3</integer>
+		<integer>-69</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>2</integer>
-		<key>colon</key>
-		<integer>2</integer>
+		<integer>-57</integer>
 		<key>guillemetleft</key>
 		<integer>4</integer>
 		<key>guillemetright</key>
 		<integer>3</integer>
 		<key>guilsinglleft</key>
-		<integer>3</integer>
+		<integer>-71</integer>
 		<key>guilsinglright</key>
-		<integer>1</integer>
+		<integer>-36</integer>
 		<key>hyphen</key>
-		<integer>2</integer>
+		<integer>-40</integer>
 		<key>i</key>
-		<integer>-1</integer>
+		<integer>29</integer>
 		<key>r</key>
-		<integer>2</integer>
-		<key>semicolon</key>
-		<integer>2</integer>
+		<integer>-57</integer>
 	</dict>
 	<key>@MMK_L_X_Left</key>
 	<dict>
 		<key>@MMK_R_O_Right</key>
-		<integer>2</integer>
+		<integer>-57</integer>
 	</dict>
 	<key>@MMK_L_Y_Left</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>8</integer>
+		<integer>-199</integer>
 		<key>@MMK_R_O_Right</key>
-		<integer>3</integer>
+		<integer>-73</integer>
 		<key>@MMK_R_S_Right</key>
-		<integer>4</integer>
+		<integer>-90</integer>
 		<key>@MMK_R_a_Right</key>
-		<integer>9</integer>
+		<integer>-233</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>10</integer>
+		<integer>-101</integer>
 		<key>@MMK_R_u_Left</key>
-		<integer>8</integer>
-		<key>colon</key>
-		<integer>8</integer>
+		<integer>-200</integer>
 		<key>guillemetleft</key>
 		<integer>10</integer>
 		<key>guillemetright</key>
 		<integer>6</integer>
 		<key>guilsinglleft</key>
-		<integer>7</integer>
+		<integer>-179</integer>
 		<key>guilsinglright</key>
-		<integer>6</integer>
+		<integer>-144</integer>
 		<key>hyphen</key>
-		<integer>13</integer>
+		<integer>-319</integer>
 		<key>i</key>
-		<integer>3</integer>
-		<key>semicolon</key>
-		<integer>8</integer>
+		<integer>-73</integer>
 	</dict>
 	<key>@MMK_L_k_Left</key>
 	<dict>
 		<key>@MMK_R_o_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>-1</integer>
+		<integer>29</integer>
 		<key>g</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 	</dict>
 	<key>@MMK_L_n_Left</key>
 	<dict>
 		<key>@MMK_R_v_Left</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_w_Left</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>quotedblright</key>
-		<integer>4</integer>
+		<integer>-108</integer>
 		<key>quoteright</key>
-		<integer>4</integer>
+		<integer>-108</integer>
 	</dict>
 	<key>@MMK_L_o_Left</key>
 	<dict>
 		<key>@MMK_R_v_Left</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_w_Left</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>quotedblleft</key>
-		<integer>4</integer>
+		<integer>-108</integer>
 		<key>quotedblright</key>
-		<integer>4</integer>
+		<integer>-108</integer>
 		<key>quoteright</key>
-		<integer>1</integer>
+		<integer>-36</integer>
 		<key>x</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 	</dict>
 	<key>@MMK_L_r_Left</key>
 	<dict>
+		<key>@MMK_R_n_Right</key>
+		<integer>11</integer>
+		<key>@MMK_R_o_Right</key>
+		<integer>-7</integer>
 		<key>@MMK_R_u_Left</key>
-		<integer>1</integer>
+		<integer>-36</integer>
 		<key>@MMK_R_v_Left</key>
-		<integer>-2</integer>
+		<integer>57</integer>
 		<key>@MMK_R_w_Left</key>
-		<integer>-1</integer>
+		<integer>24</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>-2</integer>
+		<integer>57</integer>
 		<key>hyphen</key>
-		<integer>7</integer>
+		<integer>-177</integer>
 		<key>quoteright</key>
-		<integer>-1</integer>
+		<integer>36</integer>
 		<key>r</key>
-		<integer>1</integer>
+		<integer>-14</integer>
 		<key>x</key>
-		<integer>-1</integer>
+		<integer>29</integer>
 		<key>z</key>
-		<integer>-1</integer>
+		<integer>29</integer>
 	</dict>
 	<key>@MMK_L_t_Left</key>
 	<dict>
 		<key>@MMK_R_a_Right</key>
-		<integer>-1</integer>
+		<integer>32</integer>
 		<key>@MMK_R_u_Left</key>
-		<integer>1</integer>
+		<integer>-36</integer>
 		<key>@MMK_R_w_Left</key>
-		<integer>-1</integer>
+		<integer>29</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>-1</integer>
+		<integer>29</integer>
 		<key>t</key>
-		<integer>3</integer>
+		<integer>-71</integer>
 	</dict>
 	<key>@MMK_L_v_Left</key>
 	<dict>
 		<key>@MMK_R_a_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_v_Left</key>
-		<integer>-1</integer>
+		<integer>29</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>-1</integer>
+		<integer>29</integer>
 		<key>hyphen</key>
-		<integer>1</integer>
+		<integer>-14</integer>
 	</dict>
 	<key>@MMK_L_w_Left</key>
 	<dict>
 		<key>@MMK_R_a_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>1</integer>
+		<integer>-21</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>-1</integer>
+		<integer>29</integer>
 		<key>hyphen</key>
-		<integer>2</integer>
+		<integer>-57</integer>
 	</dict>
 	<key>@MMK_L_y_Left</key>
 	<dict>
 		<key>@MMK_R_a_Right</key>
-		<integer>1</integer>
-		<key>@MMK_R_o_Right</key>
-		<integer>1</integer>
-		<key>g</key>
-		<integer>1</integer>
-		<key>hyphen</key>
-		<integer>1</integer>
-	</dict>
-	<key>A</key>
-	<dict>
-		<key>C</key>
-		<integer>-105</integer>
-		<key>G</key>
-		<integer>-105</integer>
-		<key>O</key>
-		<integer>-37</integer>
-		<key>Q</key>
-		<integer>-37</integer>
-		<key>S</key>
-		<integer>-46</integer>
-		<key>T</key>
-		<integer>-150</integer>
-		<key>U</key>
-		<integer>-78</integer>
-		<key>V</key>
-		<integer>-117</integer>
-		<key>W</key>
-		<integer>-81</integer>
-		<key>Y</key>
-		<integer>-203</integer>
-		<key>c</key>
-		<integer>-37</integer>
-		<key>d</key>
-		<integer>-37</integer>
-		<key>e</key>
-		<integer>-76</integer>
-		<key>g</key>
-		<integer>-37</integer>
-		<key>guillemotleft</key>
-		<integer>-96</integer>
-		<key>guillemotright</key>
-		<integer>-96</integer>
-		<key>o</key>
-		<integer>-37</integer>
-		<key>p</key>
-		<integer>2</integer>
-		<key>q</key>
-		<integer>-37</integer>
-		<key>quotedblleft</key>
-		<integer>-325</integer>
-		<key>quotedblright</key>
-		<integer>-339</integer>
-		<key>quoteleft</key>
-		<integer>-325</integer>
-		<key>quoteright</key>
-		<integer>-339</integer>
-		<key>s</key>
 		<integer>-29</integer>
-		<key>u</key>
-		<integer>-46</integer>
-		<key>v</key>
-		<integer>-106</integer>
-		<key>w</key>
-		<integer>-104</integer>
-		<key>y</key>
-		<integer>-118</integer>
-	</dict>
-	<key>B</key>
-	<dict>
-		<key>A</key>
-		<integer>-46</integer>
-		<key>V</key>
-		<integer>-103</integer>
-		<key>W</key>
-		<integer>-75</integer>
-		<key>Y</key>
-		<integer>-140</integer>
-		<key>a</key>
-		<integer>-38</integer>
-		<key>comma</key>
-		<integer>-56</integer>
-		<key>e</key>
-		<integer>-38</integer>
-		<key>o</key>
-		<integer>-38</integer>
-		<key>period</key>
-		<integer>-56</integer>
+		<key>@MMK_R_o_Right</key>
+		<integer>-29</integer>
+		<key>g</key>
+		<integer>-29</integer>
+		<key>hyphen</key>
+		<integer>-29</integer>
 	</dict>
 	<key>C</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>1</integer>
+		<integer>-24</integer>
 		<key>@MMK_R_Y_Right</key>
-		<integer>2</integer>
+		<integer>-42</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>1</integer>
-		<key>comma</key>
-		<integer>-8</integer>
-		<key>period</key>
-		<integer>-8</integer>
-		<key>y</key>
-		<integer>-46</integer>
+		<integer>-36</integer>
 	</dict>
 	<key>D</key>
 	<dict>
 		<key>@MMK_R_V_Right</key>
-		<integer>2</integer>
+		<integer>-43</integer>
 		<key>@MMK_R_W_Right</key>
-		<integer>1</integer>
+		<integer>-17</integer>
 		<key>@MMK_R_Y_Right</key>
-		<integer>4</integer>
-		<key>A</key>
-		<integer>-106</integer>
+		<integer>-90</integer>
 		<key>J</key>
-		<integer>-103</integer>
-		<key>O</key>
-		<integer>-37</integer>
-		<key>V</key>
-		<integer>-83</integer>
-		<key>W</key>
-		<integer>-37</integer>
-		<key>Y</key>
-		<integer>-118</integer>
-		<key>comma</key>
-		<integer>-107</integer>
-		<key>period</key>
-		<integer>-107</integer>
+		<integer>-79</integer>
 	</dict>
 	<key>E</key>
 	<dict>
 		<key>@MMK_R_T_Right</key>
-		<integer>1</integer>
-		<key>T</key>
-		<integer>-46</integer>
+		<integer>-36</integer>
 	</dict>
 	<key>F</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>6</integer>
+		<integer>-148</integer>
 		<key>@MMK_R_a_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>2</integer>
+		<integer>-17</integer>
 		<key>@MMK_R_u_Left</key>
-		<integer>3</integer>
-		<key>A</key>
-		<integer>-189</integer>
+		<integer>-79</integer>
 		<key>J</key>
-		<integer>-325</integer>
-		<key>a</key>
-		<integer>-37</integer>
-		<key>adieresis</key>
-		<integer>-28</integer>
-		<key>agrave</key>
-		<integer>-28</integer>
-		<key>atilde</key>
-		<integer>-28</integer>
-		<key>comma</key>
-		<integer>-439</integer>
-		<key>e</key>
-		<integer>-75</integer>
-		<key>edieresis</key>
-		<integer>-55</integer>
+		<integer>-251</integer>
 		<key>g</key>
-		<integer>1</integer>
+		<integer>-28</integer>
 		<key>hyphen</key>
-		<integer>-232</integer>
-		<key>o</key>
-		<integer>-75</integer>
-		<key>period</key>
-		<integer>-439</integer>
+		<integer>-179</integer>
 		<key>r</key>
-		<integer>-103</integer>
-		<key>u</key>
-		<integer>-103</integer>
+		<integer>-79</integer>
 	</dict>
 	<key>G</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>1</integer>
-		<key>A</key>
-		<integer>-37</integer>
-		<key>comma</key>
-		<integer>-11</integer>
-		<key>period</key>
-		<integer>-11</integer>
+		<integer>-29</integer>
 	</dict>
 	<key>H</key>
 	<dict>
 		<key>O</key>
-		<integer>-37</integer>
+		<integer>-29</integer>
 		<key>T</key>
-		<integer>-84</integer>
+		<integer>-64</integer>
 	</dict>
 	<key>I</key>
 	<dict>
 		<key>@MMK_R_T_Right</key>
-		<integer>1</integer>
-		<key>T</key>
-		<integer>-37</integer>
+		<integer>-29</integer>
 	</dict>
 	<key>J</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>2</integer>
+		<integer>-57</integer>
 		<key>@MMK_R_O_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_a_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_u_Left</key>
-		<integer>1</integer>
-		<key>A</key>
-		<integer>-75</integer>
-		<key>O</key>
-		<integer>-37</integer>
-		<key>a</key>
-		<integer>-37</integer>
-		<key>comma</key>
-		<integer>-60</integer>
-		<key>e</key>
-		<integer>-37</integer>
-		<key>o</key>
-		<integer>-37</integer>
-		<key>period</key>
-		<integer>-60</integer>
-		<key>u</key>
-		<integer>-37</integer>
+		<integer>-29</integer>
 	</dict>
 	<key>K</key>
 	<dict>
 		<key>@MMK_R_O_Right</key>
-		<integer>3</integer>
+		<integer>-80</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>2</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_u_Left</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_w_Left</key>
-		<integer>3</integer>
+		<integer>-79</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>4</integer>
-		<key>O</key>
-		<integer>-81</integer>
-		<key>e</key>
-		<integer>-41</integer>
-		<key>o</key>
-		<integer>-41</integer>
-		<key>u</key>
-		<integer>-37</integer>
-		<key>w</key>
 		<integer>-103</integer>
-		<key>y</key>
-		<integer>-88</integer>
 	</dict>
 	<key>L</key>
 	<dict>
 		<key>@MMK_R_S_Right</key>
-		<integer>2</integer>
+		<integer>-57</integer>
 		<key>@MMK_R_T_Right</key>
-		<integer>8</integer>
+		<integer>-193</integer>
 		<key>@MMK_R_V_Right</key>
-		<integer>9</integer>
+		<integer>-222</integer>
 		<key>@MMK_R_W_Right</key>
-		<integer>8</integer>
+		<integer>-199</integer>
 		<key>@MMK_R_Y_Right</key>
-		<integer>11</integer>
+		<integer>-269</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>5</integer>
-		<key>S</key>
-		<integer>-75</integer>
-		<key>T</key>
-		<integer>-194</integer>
-		<key>V</key>
-		<integer>-231</integer>
-		<key>W</key>
-		<integer>-225</integer>
-		<key>Y</key>
-		<integer>-281</integer>
-		<key>e</key>
-		<integer>-37</integer>
+		<integer>-131</integer>
 		<key>hyphen</key>
-		<integer>-372</integer>
-		<key>o</key>
-		<integer>-37</integer>
+		<integer>-287</integer>
 		<key>quotedblleft</key>
-		<integer>-604</integer>
+		<integer>-466</integer>
 		<key>quotedblright</key>
-		<integer>-572</integer>
+		<integer>-475</integer>
 		<key>quoteleft</key>
-		<integer>-437</integer>
+		<integer>-337</integer>
 		<key>quoteright</key>
-		<integer>-451</integer>
-		<key>y</key>
-		<integer>-147</integer>
-	</dict>
-	<key>N</key>
-	<dict>
-		<key>comma</key>
-		<integer>-8</integer>
-		<key>period</key>
-		<integer>-8</integer>
-	</dict>
-	<key>O</key>
-	<dict>
-		<key>A</key>
-		<integer>-106</integer>
-		<key>G</key>
-		<integer>-37</integer>
-		<key>O</key>
-		<integer>-37</integer>
-		<key>T</key>
-		<integer>-106</integer>
-		<key>U</key>
-		<integer>-37</integer>
-		<key>V</key>
-		<integer>-28</integer>
-		<key>W</key>
-		<integer>-45</integer>
-		<key>X</key>
-		<integer>-78</integer>
-		<key>Y</key>
-		<integer>-66</integer>
-		<key>comma</key>
-		<integer>-60</integer>
-		<key>e</key>
-		<integer>-37</integer>
-		<key>period</key>
-		<integer>-60</integer>
-		<key>quotedblright</key>
-		<integer>-93</integer>
-		<key>quoteright</key>
-		<integer>-46</integer>
-		<key>v</key>
-		<integer>-28</integer>
-		<key>w</key>
-		<integer>-28</integer>
-	</dict>
-	<key>P</key>
-	<dict>
-		<key>A</key>
-		<integer>-154</integer>
-		<key>a</key>
-		<integer>-61</integer>
-		<key>adieresis</key>
-		<integer>-31</integer>
-		<key>comma</key>
-		<integer>-506</integer>
-		<key>e</key>
-		<integer>-113</integer>
-		<key>hyphen</key>
-		<integer>-75</integer>
-		<key>o</key>
-		<integer>-113</integer>
-		<key>period</key>
-		<integer>-506</integer>
-		<key>r</key>
-		<integer>-37</integer>
-		<key>u</key>
-		<integer>-38</integer>
-	</dict>
-	<key>R</key>
-	<dict>
-		<key>C</key>
-		<integer>-37</integer>
-		<key>G</key>
-		<integer>-37</integer>
-		<key>O</key>
-		<integer>-37</integer>
-		<key>S</key>
-		<integer>-37</integer>
-		<key>T</key>
-		<integer>-41</integer>
-		<key>U</key>
-		<integer>-37</integer>
-		<key>V</key>
-		<integer>-39</integer>
-		<key>W</key>
-		<integer>-37</integer>
-		<key>Y</key>
-		<integer>-81</integer>
-		<key>a</key>
-		<integer>-19</integer>
-		<key>e</key>
-		<integer>-38</integer>
-		<key>o</key>
-		<integer>-38</integer>
-		<key>quoteright</key>
-		<integer>-37</integer>
-		<key>u</key>
-		<integer>-38</integer>
-	</dict>
-	<key>S</key>
-	<dict>
-		<key>A</key>
-		<integer>-46</integer>
-		<key>T</key>
-		<integer>-37</integer>
-		<key>V</key>
-		<integer>-46</integer>
-		<key>Y</key>
-		<integer>-93</integer>
-		<key>comma</key>
-		<integer>-56</integer>
-		<key>period</key>
-		<integer>-56</integer>
-		<key>v</key>
-		<integer>-46</integer>
-		<key>w</key>
-		<integer>-46</integer>
-		<key>y</key>
-		<integer>-46</integer>
-	</dict>
-	<key>T</key>
-	<dict>
-		<key>A</key>
-		<integer>-150</integer>
-		<key>J</key>
-		<integer>-232</integer>
-		<key>O</key>
-		<integer>-106</integer>
-		<key>a</key>
-		<integer>-198</integer>
-		<key>acircumflex</key>
-		<integer>-96</integer>
-		<key>adieresis</key>
-		<integer>-44</integer>
-		<key>agrave</key>
-		<integer>-96</integer>
-		<key>aring</key>
-		<integer>-96</integer>
-		<key>atilde</key>
-		<integer>-96</integer>
-		<key>colon</key>
-		<integer>-285</integer>
-		<key>comma</key>
-		<integer>-349</integer>
-		<key>e</key>
-		<integer>-235</integer>
-		<key>ecircumflex</key>
-		<integer>-173</integer>
-		<key>edieresis</key>
-		<integer>-114</integer>
-		<key>egrave</key>
-		<integer>-173</integer>
-		<key>guillemotleft</key>
-		<integer>-384</integer>
-		<key>guillemotright</key>
-		<integer>-384</integer>
-		<key>guilsinglleft</key>
-		<integer>-325</integer>
-		<key>guilsinglright</key>
-		<integer>-278</integer>
-		<key>h</key>
-		<integer>-37</integer>
-		<key>hyphen</key>
-		<integer>-303</integer>
-		<key>o</key>
-		<integer>-235</integer>
-		<key>odieresis</key>
-		<integer>-195</integer>
-		<key>ograve</key>
-		<integer>-114</integer>
-		<key>period</key>
-		<integer>-349</integer>
-		<key>r</key>
-		<integer>-231</integer>
-		<key>semicolon</key>
-		<integer>-285</integer>
-		<key>u</key>
-		<integer>-231</integer>
-		<key>udieresis</key>
-		<integer>-113</integer>
-		<key>w</key>
-		<integer>-235</integer>
-		<key>y</key>
-		<integer>-235</integer>
-	</dict>
-	<key>U</key>
-	<dict>
-		<key>A</key>
-		<integer>-50</integer>
-		<key>T</key>
-		<integer>-84</integer>
-		<key>comma</key>
-		<integer>-56</integer>
-		<key>period</key>
-		<integer>-56</integer>
-	</dict>
-	<key>V</key>
-	<dict>
-		<key>A</key>
-		<integer>-117</integer>
-		<key>C</key>
-		<integer>-103</integer>
-		<key>G</key>
-		<integer>-108</integer>
-		<key>O</key>
-		<integer>-28</integer>
-		<key>Y</key>
-		<integer>37</integer>
-		<key>a</key>
-		<integer>-113</integer>
-		<key>acircumflex</key>
-		<integer>-55</integer>
-		<key>adieresis</key>
-		<integer>-55</integer>
-		<key>agrave</key>
-		<integer>-55</integer>
-		<key>aring</key>
-		<integer>-55</integer>
-		<key>atilde</key>
-		<integer>-55</integer>
-		<key>colon</key>
-		<integer>-117</integer>
-		<key>comma</key>
-		<integer>-282</integer>
-		<key>e</key>
-		<integer>-154</integer>
-		<key>ecircumflex</key>
-		<integer>-75</integer>
-		<key>edieresis</key>
-		<integer>-75</integer>
-		<key>egrave</key>
-		<integer>-75</integer>
-		<key>guillemotleft</key>
-		<integer>-192</integer>
-		<key>guillemotright</key>
-		<integer>-145</integer>
-		<key>guilsinglleft</key>
-		<integer>-93</integer>
-		<key>guilsinglright</key>
-		<integer>-46</integer>
-		<key>hyphen</key>
-		<integer>-113</integer>
-		<key>i</key>
-		<integer>-41</integer>
-		<key>icircumflex</key>
-		<integer>8</integer>
-		<key>o</key>
-		<integer>-154</integer>
-		<key>ocircumflex</key>
-		<integer>-113</integer>
-		<key>odieresis</key>
-		<integer>-75</integer>
-		<key>period</key>
-		<integer>-282</integer>
-		<key>semicolon</key>
-		<integer>-117</integer>
-		<key>u</key>
-		<integer>-72</integer>
-	</dict>
-	<key>W</key>
-	<dict>
-		<key>A</key>
-		<integer>-81</integer>
-		<key>O</key>
-		<integer>-45</integer>
-		<key>Y</key>
-		<integer>37</integer>
-		<key>a</key>
-		<integer>-81</integer>
-		<key>adieresis</key>
-		<integer>-60</integer>
-		<key>colon</key>
-		<integer>-69</integer>
-		<key>comma</key>
-		<integer>-160</integer>
-		<key>e</key>
-		<integer>-81</integer>
-		<key>ecircumflex</key>
-		<integer>-60</integer>
-		<key>guillemotleft</key>
-		<integer>-145</integer>
-		<key>guillemotright</key>
-		<integer>-96</integer>
-		<key>guilsinglleft</key>
-		<integer>-93</integer>
-		<key>guilsinglright</key>
-		<integer>-46</integer>
-		<key>hyphen</key>
-		<integer>-41</integer>
-		<key>i</key>
-		<integer>37</integer>
-		<key>o</key>
-		<integer>-80</integer>
-		<key>odieresis</key>
-		<integer>-59</integer>
-		<key>period</key>
-		<integer>-160</integer>
-		<key>r</key>
-		<integer>-75</integer>
-		<key>semicolon</key>
-		<integer>-69</integer>
-		<key>u</key>
-		<integer>-78</integer>
-		<key>udieresis</key>
-		<integer>-58</integer>
-		<key>y</key>
-		<integer>-75</integer>
-	</dict>
-	<key>X</key>
-	<dict>
-		<key>C</key>
-		<integer>-36</integer>
-		<key>O</key>
-		<integer>-75</integer>
-	</dict>
-	<key>Y</key>
-	<dict>
-		<key>A</key>
-		<integer>-203</integer>
-		<key>C</key>
-		<integer>-93</integer>
-		<key>O</key>
-		<integer>-66</integer>
-		<key>S</key>
-		<integer>-98</integer>
-		<key>a</key>
-		<integer>-235</integer>
-		<key>colon</key>
-		<integer>-203</integer>
-		<key>comma</key>
-		<integer>-354</integer>
-		<key>e</key>
-		<integer>-271</integer>
-		<key>guillemotleft</key>
-		<integer>-335</integer>
-		<key>guillemotright</key>
-		<integer>-192</integer>
-		<key>guilsinglleft</key>
-		<integer>-232</integer>
-		<key>guilsinglright</key>
-		<integer>-187</integer>
-		<key>hyphen</key>
-		<integer>-346</integer>
-		<key>i</key>
-		<integer>-72</integer>
-		<key>o</key>
-		<integer>-271</integer>
-		<key>odieresis</key>
-		<integer>-201</integer>
-		<key>period</key>
-		<integer>-354</integer>
-		<key>semicolon</key>
-		<integer>-203</integer>
-		<key>u</key>
-		<integer>-203</integer>
-		<key>udieresis</key>
-		<integer>-151</integer>
+		<integer>-382</integer>
 	</dict>
 	<key>a</key>
 	<dict>
 		<key>@MMK_R_v_Left</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_w_Left</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>1</integer>
-		<key>v</key>
-		<integer>-37</integer>
-		<key>w</key>
-		<integer>-37</integer>
-		<key>y</key>
-		<integer>-37</integer>
-	</dict>
-	<key>b</key>
-	<dict>
-		<key>comma</key>
-		<integer>-11</integer>
-		<key>period</key>
-		<integer>-11</integer>
-		<key>v</key>
-		<integer>-37</integer>
-		<key>y</key>
-		<integer>-37</integer>
+		<integer>-29</integer>
 	</dict>
 	<key>c</key>
 	<dict>
 		<key>@MMK_R_o_Right</key>
-		<integer>1</integer>
-		<key>comma</key>
-		<integer>-8</integer>
+		<integer>-14</integer>
 		<key>k</key>
-		<integer>-93</integer>
-		<key>period</key>
-		<integer>-8</integer>
-	</dict>
-	<key>colon</key>
-	<dict>
-		<key>space</key>
-		<integer>-8</integer>
-	</dict>
-	<key>comma</key>
-	<dict>
-		<key>quotedblleft</key>
-		<integer>-479</integer>
-		<key>quotedblright</key>
-		<integer>-487</integer>
-		<key>quoteleft</key>
-		<integer>-335</integer>
-		<key>quoteright</key>
-		<integer>-343</integer>
-		<key>space</key>
-		<integer>-8</integer>
+		<integer>-71</integer>
 	</dict>
 	<key>e</key>
 	<dict>
 		<key>@MMK_R_v_Left</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_w_Left</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>1</integer>
-		<key>comma</key>
-		<integer>-6</integer>
-		<key>period</key>
-		<integer>-6</integer>
+		<integer>-29</integer>
 		<key>quotedblleft</key>
-		<integer>-140</integer>
+		<integer>-108</integer>
 		<key>quotedblright</key>
-		<integer>-140</integer>
+		<integer>-108</integer>
 		<key>quoteright</key>
-		<integer>-46</integer>
-		<key>v</key>
-		<integer>-37</integer>
-		<key>w</key>
-		<integer>-37</integer>
+		<integer>-36</integer>
 		<key>x</key>
-		<integer>-37</integer>
-		<key>y</key>
-		<integer>-37</integer>
+		<integer>-29</integer>
 	</dict>
 	<key>f</key>
 	<dict>
 		<key>@MMK_R_a_Right</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>2</integer>
-		<key>a</key>
-		<integer>-37</integer>
-		<key>comma</key>
-		<integer>-122</integer>
-		<key>e</key>
-		<integer>-75</integer>
+		<integer>-57</integer>
 		<key>f</key>
-		<integer>-87</integer>
+		<integer>-76</integer>
 		<key>o</key>
-		<integer>-37</integer>
-		<key>period</key>
-		<integer>-122</integer>
+		<integer>-29</integer>
 		<key>quotedblright</key>
-		<integer>-89</integer>
+		<integer>-60</integer>
 		<key>quoteright</key>
-		<integer>-43</integer>
+		<integer>-25</integer>
 		<key>t</key>
-		<integer>-93</integer>
-	</dict>
-	<key>g</key>
-	<dict>
-		<key>comma</key>
-		<integer>30</integer>
-		<key>period</key>
-		<integer>30</integer>
+		<integer>-71</integer>
 	</dict>
 	<key>guillemetleft</key>
 	<dict>
@@ -1171,499 +566,143 @@
 		<key>@MMK_R_Y_Right</key>
 		<integer>10</integer>
 	</dict>
-	<key>guillemotleft</key>
-	<dict>
-		<key>A</key>
-		<integer>-96</integer>
-		<key>T</key>
-		<integer>-384</integer>
-		<key>V</key>
-		<integer>-145</integer>
-		<key>W</key>
-		<integer>-96</integer>
-		<key>Y</key>
-		<integer>-192</integer>
-		<key>comma</key>
-		<integer>-96</integer>
-		<key>period</key>
-		<integer>-96</integer>
-	</dict>
-	<key>guillemotright</key>
-	<dict>
-		<key>A</key>
-		<integer>-96</integer>
-		<key>T</key>
-		<integer>-384</integer>
-		<key>V</key>
-		<integer>-192</integer>
-		<key>W</key>
-		<integer>-145</integer>
-		<key>Y</key>
-		<integer>-335</integer>
-		<key>comma</key>
-		<integer>-145</integer>
-		<key>period</key>
-		<integer>-145</integer>
-	</dict>
 	<key>guilsinglleft</key>
 	<dict>
 		<key>@MMK_R_T_Right</key>
-		<integer>10</integer>
+		<integer>-251</integer>
 		<key>@MMK_R_V_Right</key>
-		<integer>1</integer>
+		<integer>-36</integer>
 		<key>@MMK_R_W_Right</key>
-		<integer>1</integer>
+		<integer>-36</integer>
 		<key>@MMK_R_Y_Right</key>
-		<integer>6</integer>
-		<key>T</key>
-		<integer>-325</integer>
-		<key>V</key>
-		<integer>-46</integer>
-		<key>W</key>
-		<integer>-46</integer>
-		<key>Y</key>
-		<integer>-187</integer>
-		<key>comma</key>
-		<integer>-48</integer>
-		<key>period</key>
-		<integer>-48</integer>
+		<integer>-144</integer>
 	</dict>
 	<key>guilsinglright</key>
 	<dict>
 		<key>@MMK_R_T_Right</key>
-		<integer>10</integer>
+		<integer>-251</integer>
 		<key>@MMK_R_V_Right</key>
-		<integer>3</integer>
+		<integer>-71</integer>
 		<key>@MMK_R_W_Right</key>
-		<integer>3</integer>
+		<integer>-71</integer>
 		<key>@MMK_R_Y_Right</key>
-		<integer>7</integer>
-		<key>T</key>
-		<integer>-325</integer>
-		<key>V</key>
-		<integer>-93</integer>
-		<key>W</key>
-		<integer>-93</integer>
-		<key>Y</key>
-		<integer>-232</integer>
-		<key>comma</key>
-		<integer>-96</integer>
-		<key>period</key>
-		<integer>-96</integer>
-	</dict>
-	<key>h</key>
-	<dict>
-		<key>quoteright</key>
-		<integer>-140</integer>
-		<key>y</key>
-		<integer>-37</integer>
-	</dict>
-	<key>k</key>
-	<dict>
-		<key>e</key>
-		<integer>-37</integer>
-		<key>g</key>
-		<integer>-37</integer>
-		<key>o</key>
-		<integer>-37</integer>
-		<key>y</key>
-		<integer>37</integer>
-	</dict>
-	<key>m</key>
-	<dict>
-		<key>y</key>
-		<integer>-37</integer>
+		<integer>-179</integer>
 	</dict>
 	<key>n</key>
 	<dict>
-		<key>quotedblright</key>
-		<integer>-140</integer>
 		<key>quoteright</key>
-		<integer>-103</integer>
-		<key>v</key>
-		<integer>-37</integer>
-		<key>w</key>
-		<integer>-37</integer>
-		<key>y</key>
-		<integer>-37</integer>
-	</dict>
-	<key>o</key>
-	<dict>
-		<key>comma</key>
-		<integer>-6</integer>
-		<key>period</key>
-		<integer>-6</integer>
-		<key>quotedblleft</key>
-		<integer>-140</integer>
-		<key>quotedblright</key>
-		<integer>-140</integer>
-		<key>quoteright</key>
-		<integer>-46</integer>
-		<key>v</key>
-		<integer>-37</integer>
-		<key>w</key>
-		<integer>-37</integer>
-		<key>x</key>
-		<integer>-37</integer>
-		<key>y</key>
-		<integer>-37</integer>
+		<integer>-79</integer>
 	</dict>
 	<key>one</key>
 	<dict>
 		<key>eight</key>
-		<integer>-66</integer>
+		<integer>-50</integer>
 		<key>five</key>
-		<integer>-93</integer>
+		<integer>-71</integer>
 		<key>four</key>
-		<integer>-93</integer>
+		<integer>-71</integer>
 		<key>hyphen</key>
-		<integer>-140</integer>
+		<integer>-108</integer>
 		<key>nine</key>
-		<integer>-93</integer>
+		<integer>-71</integer>
 		<key>one</key>
-		<integer>-214</integer>
-		<key>period</key>
-		<integer>-268</integer>
+		<integer>-165</integer>
 		<key>seven</key>
-		<integer>-130</integer>
+		<integer>-100</integer>
 		<key>six</key>
-		<integer>-93</integer>
+		<integer>-71</integer>
 		<key>three</key>
-		<integer>-93</integer>
-		<key>two</key>
-		<integer>-96</integer>
+		<integer>-71</integer>
 		<key>zero</key>
-		<integer>-140</integer>
-	</dict>
-	<key>p</key>
-	<dict>
-		<key>comma</key>
-		<integer>-6</integer>
-		<key>period</key>
-		<integer>-6</integer>
-		<key>y</key>
-		<integer>-37</integer>
-	</dict>
-	<key>period</key>
-	<dict>
-		<key>quotedblleft</key>
-		<integer>-432</integer>
-		<key>quotedblright</key>
-		<integer>-443</integer>
-		<key>quoteleft</key>
-		<integer>-335</integer>
-		<key>quoteright</key>
-		<integer>-347</integer>
-		<key>space</key>
-		<integer>-8</integer>
+		<integer>-108</integer>
 	</dict>
 	<key>quotedblbase</key>
 	<dict>
 		<key>@MMK_R_T_Right</key>
-		<integer>11</integer>
+		<integer>-287</integer>
 		<key>@MMK_R_V_Right</key>
-		<integer>10</integer>
+		<integer>-251</integer>
 		<key>@MMK_R_W_Right</key>
-		<integer>7</integer>
+		<integer>-179</integer>
 		<key>@MMK_R_Y_Right</key>
-		<integer>13</integer>
-		<key>T</key>
-		<integer>-372</integer>
-		<key>V</key>
-		<integer>-325</integer>
-		<key>W</key>
-		<integer>-232</integer>
-		<key>Y</key>
-		<integer>-419</integer>
+		<integer>-323</integer>
 	</dict>
 	<key>quotedblleft</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>13</integer>
+		<integer>-318</integer>
 		<key>@MMK_R_O_Right</key>
-		<integer>4</integer>
+		<integer>-108</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>7</integer>
-		<key>A</key>
-		<integer>-367</integer>
-		<key>O</key>
-		<integer>-140</integer>
-		<key>comma</key>
-		<integer>-766</integer>
-		<key>e</key>
-		<integer>-232</integer>
-		<key>o</key>
-		<integer>-232</integer>
-		<key>period</key>
-		<integer>-766</integer>
+		<integer>-179</integer>
 	</dict>
 	<key>quotedblright</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>11</integer>
+		<integer>-272</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>8</integer>
-		<key>A</key>
-		<integer>-353</integer>
-		<key>comma</key>
-		<integer>-766</integer>
-		<key>o</key>
-		<integer>-260</integer>
-		<key>period</key>
-		<integer>-766</integer>
-		<key>space</key>
-		<integer>-8</integer>
+		<integer>-201</integer>
 	</dict>
 	<key>quoteleft</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>12</integer>
+		<integer>-296</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>4</integer>
-		<key>A</key>
-		<integer>-339</integer>
-		<key>comma</key>
-		<integer>-335</integer>
-		<key>e</key>
-		<integer>-140</integer>
-		<key>o</key>
-		<integer>-140</integer>
-		<key>period</key>
-		<integer>-335</integer>
+		<integer>-108</integer>
 		<key>quoteleft</key>
-		<integer>-191</integer>
+		<integer>-183</integer>
 	</dict>
 	<key>quoteright</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>11</integer>
+		<integer>-272</integer>
 		<key>@MMK_R_v_Left</key>
-		<integer>2</integer>
-		<key>A</key>
-		<integer>-353</integer>
-		<key>comma</key>
-		<integer>-192</integer>
+		<integer>-59</integer>
 		<key>d</key>
-		<integer>-229</integer>
-		<key>period</key>
-		<integer>-192</integer>
+		<integer>-211</integer>
 		<key>quoteright</key>
-		<integer>-191</integer>
+		<integer>-183</integer>
 		<key>r</key>
-		<integer>-66</integer>
-		<key>s</key>
-		<integer>-199</integer>
-		<key>t</key>
-		<integer>-41</integer>
-		<key>v</key>
-		<integer>-54</integer>
-	</dict>
-	<key>r</key>
-	<dict>
-		<key>c</key>
-		<integer>-4</integer>
-		<key>comma</key>
-		<integer>-163</integer>
-		<key>d</key>
-		<integer>-4</integer>
-		<key>e</key>
-		<integer>-4</integer>
-		<key>hyphen</key>
-		<integer>-197</integer>
-		<key>n</key>
-		<integer>4</integer>
-		<key>o</key>
-		<integer>-4</integer>
-		<key>period</key>
-		<integer>-163</integer>
-		<key>q</key>
-		<integer>-4</integer>
-		<key>quoteright</key>
-		<integer>46</integer>
-		<key>r</key>
-		<integer>-18</integer>
-		<key>semicolon</key>
-		<integer>-4</integer>
-		<key>u</key>
-		<integer>-46</integer>
-		<key>v</key>
-		<integer>75</integer>
-		<key>w</key>
-		<integer>105</integer>
-		<key>x</key>
-		<integer>37</integer>
-		<key>y</key>
-		<integer>75</integer>
-		<key>z</key>
-		<integer>37</integer>
-	</dict>
-	<key>s</key>
-	<dict>
-		<key>comma</key>
-		<integer>-6</integer>
-		<key>period</key>
-		<integer>-6</integer>
-		<key>quoteright</key>
 		<integer>-77</integer>
-	</dict>
-	<key>semicolon</key>
-	<dict>
-		<key>space</key>
-		<integer>-8</integer>
+		<key>t</key>
+		<integer>-40</integer>
 	</dict>
 	<key>seven</key>
 	<dict>
-		<key>comma</key>
-		<integer>-402</integer>
 		<key>four</key>
-		<integer>-250</integer>
+		<integer>-193</integer>
 		<key>hyphen</key>
-		<integer>-75</integer>
-		<key>period</key>
-		<integer>-402</integer>
+		<integer>-57</integer>
 		<key>six</key>
-		<integer>-140</integer>
-	</dict>
-	<key>space</key>
-	<dict>
-		<key>A</key>
-		<integer>-56</integer>
-		<key>T</key>
-		<integer>-238</integer>
-		<key>V</key>
-		<integer>-152</integer>
-		<key>W</key>
-		<integer>-152</integer>
-		<key>Y</key>
-		<integer>-238</integer>
-		<key>quotedblbase</key>
-		<integer>-96</integer>
-		<key>quotedblleft</key>
-		<integer>-103</integer>
-		<key>quoteleft</key>
-		<integer>-8</integer>
-	</dict>
-	<key>t</key>
-	<dict>
-		<key>a</key>
-		<integer>37</integer>
-		<key>t</key>
-		<integer>-93</integer>
-		<key>u</key>
-		<integer>-46</integer>
-		<key>w</key>
-		<integer>37</integer>
-		<key>y</key>
-		<integer>37</integer>
+		<integer>-108</integer>
 	</dict>
 	<key>u</key>
 	<dict>
 		<key>@MMK_R_v_Left</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_w_Left</key>
-		<integer>1</integer>
+		<integer>-29</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>1</integer>
-		<key>v</key>
-		<integer>-37</integer>
-		<key>w</key>
-		<integer>-37</integer>
-		<key>y</key>
-		<integer>-37</integer>
-	</dict>
-	<key>v</key>
-	<dict>
-		<key>a</key>
-		<integer>-37</integer>
-		<key>c</key>
-		<integer>-37</integer>
-		<key>comma</key>
-		<integer>-160</integer>
-		<key>e</key>
-		<integer>-37</integer>
-		<key>hyphen</key>
-		<integer>-18</integer>
-		<key>o</key>
-		<integer>-37</integer>
-		<key>period</key>
-		<integer>-160</integer>
-		<key>v</key>
-		<integer>37</integer>
-		<key>y</key>
-		<integer>37</integer>
-	</dict>
-	<key>w</key>
-	<dict>
-		<key>a</key>
-		<integer>-37</integer>
-		<key>c</key>
-		<integer>-38</integer>
-		<key>comma</key>
-		<integer>-156</integer>
-		<key>d</key>
-		<integer>-38</integer>
-		<key>e</key>
-		<integer>-38</integer>
-		<key>hyphen</key>
-		<integer>-75</integer>
-		<key>o</key>
-		<integer>-38</integer>
-		<key>period</key>
-		<integer>-156</integer>
-		<key>y</key>
-		<integer>37</integer>
+		<integer>-29</integer>
 	</dict>
 	<key>x</key>
 	<dict>
 		<key>@MMK_R_o_Right</key>
-		<integer>1</integer>
-		<key>c</key>
-		<integer>-37</integer>
-		<key>e</key>
-		<integer>-37</integer>
+		<integer>-29</integer>
 		<key>hyphen</key>
-		<integer>-149</integer>
-		<key>o</key>
-		<integer>-37</integer>
-	</dict>
-	<key>y</key>
-	<dict>
-		<key>a</key>
-		<integer>-37</integer>
-		<key>c</key>
-		<integer>-37</integer>
-		<key>comma</key>
-		<integer>-163</integer>
-		<key>d</key>
-		<integer>-37</integer>
-		<key>e</key>
-		<integer>-37</integer>
-		<key>g</key>
-		<integer>-37</integer>
-		<key>hyphen</key>
-		<integer>-37</integer>
-		<key>o</key>
-		<integer>-37</integer>
-		<key>period</key>
-		<integer>-163</integer>
-		<key>s</key>
-		<integer>-38</integer>
+		<integer>-115</integer>
 	</dict>
 	<key>z</key>
 	<dict>
 		<key>@MMK_R_o_Right</key>
-		<integer>1</integer>
-		<key>e</key>
-		<integer>-38</integer>
-		<key>o</key>
-		<integer>-38</integer>
+		<integer>-21</integer>
 	</dict>
 	<key>zero</key>
 	<dict>
 		<key>one</key>
-		<integer>-140</integer>
+		<integer>-108</integer>
 		<key>zero</key>
-		<integer>37</integer>
+		<integer>29</integer>
 	</dict>
 </dict>
 </plist>

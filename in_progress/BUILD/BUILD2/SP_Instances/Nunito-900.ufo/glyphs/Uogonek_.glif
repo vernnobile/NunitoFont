@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uogonek" format="1">
-  <advance width="1539"/>
+  <advance width="1528"/>
   <unicode hex="0172"/>
   <outline>
-    <component base="ogonek" xOffset="704" yOffset="9"/>
+    <component base="ogonek" xOffset="698" yOffset="9"/>
     <component base="U"/>
   </outline>
   <lib>
@@ -13,17 +13,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>Uogonek</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1490</integer>
         </dict>

@@ -50,7 +50,7 @@
       <point x="991" y="1177" type="move" name="mid"/>
     </contour>
     <contour>
-      <point x="1015" y="991" type="move" name="caron.alt"/>
+      <point x="944" y="991" type="move" name="caron.alt"/>
     </contour>
     <contour>
       <point x="528" y="1119" type="move" name="top"/>

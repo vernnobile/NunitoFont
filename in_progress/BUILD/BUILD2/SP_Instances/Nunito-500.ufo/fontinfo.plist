@@ -5,13 +5,13 @@
 	<key>ascender</key>
 	<integer>2030</integer>
 	<key>capHeight</key>
-	<integer>1447</integer>
+	<integer>1445</integer>
 	<key>descender</key>
 	<integer>-675</integer>
 	<key>familyName</key>
 	<string>Nunito</string>
 	<key>openTypeHeadLowestRecPPEM</key>
-	<integer>11</integer>
+	<integer>12</integer>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
@@ -51,7 +51,7 @@
 	<key>openTypeOS2SuperscriptYSize</key>
 	<integer>5155</integer>
 	<key>openTypeOS2WeightClass</key>
-	<integer>307</integer>
+	<integer>334</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>postscriptBlueFuzz</key>
@@ -62,34 +62,38 @@
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-26</integer>
-		<integer>1</integer>
-		<integer>995</integer>
+		<integer>-28</integer>
+		<integer>2</integer>
+		<integer>997</integer>
 		<integer>1013</integer>
-		<integer>1429</integer>
-		<integer>1450</integer>
+		<integer>1430</integer>
+		<integer>1456</integer>
 	</array>
 	<key>postscriptDefaultWidthX</key>
 	<integer>500</integer>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
 	<key>postscriptFullName</key>
 	<string>Nunito 500</string>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-428</integer>
-		<integer>-378</integer>
+		<integer>-432</integer>
+		<integer>-379</integer>
 	</array>
 	<key>postscriptSlantAngle</key>
 	<real>0.0</real>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>138</integer>
-		<integer>170</integer>
-		<integer>220</integer>
+		<integer>145</integer>
+		<integer>181</integer>
+		<integer>231</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>221</integer>
-		<integer>255</integer>
 	</array>
 	<key>postscriptWeightName</key>
 	<string>Light</string>
@@ -98,6 +102,6 @@
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>xHeight</key>
-	<integer>1010</integer>
+	<integer>1018</integer>
 </dict>
 </plist>

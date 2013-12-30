@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dollar" format="1">
-  <advance width="1235"/>
+  <advance width="1217"/>
   <unicode hex="0024"/>
   <outline>
     <contour>
-      <point x="567" y="0" type="line"/>
-      <point x="567" y="-87"/>
-      <point x="693" y="-81"/>
-      <point x="693" y="0" type="curve" smooth="yes"/>
-      <point x="693" y="261" type="line"/>
-      <point x="567" y="261" type="line"/>
+      <point x="554" y="0" type="line"/>
+      <point x="554" y="-88"/>
+      <point x="682" y="-82"/>
+      <point x="682" y="0" type="curve" smooth="yes"/>
+      <point x="682" y="260" type="line"/>
+      <point x="554" y="260" type="line"/>
     </contour>
     <contour>
-      <point x="560" y="1195" type="line"/>
-      <point x="686" y="1195" type="line"/>
-      <point x="686" y="1438" type="line" smooth="yes"/>
-      <point x="686" y="1519"/>
-      <point x="560" y="1525"/>
-      <point x="560" y="1438" type="curve" smooth="yes"/>
+      <point x="546" y="1194" type="line"/>
+      <point x="674" y="1194" type="line"/>
+      <point x="674" y="1438" type="line" smooth="yes"/>
+      <point x="674" y="1520"/>
+      <point x="546" y="1526"/>
+      <point x="546" y="1438" type="curve" smooth="yes"/>
     </contour>
-    <component base="s" xOffset="108" yOffset="220"/>
+    <component base="s" xOffset="95" yOffset="218"/>
   </outline>
   <lib>
     <dict>

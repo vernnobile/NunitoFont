@@ -25,7 +25,7 @@
       <point x="537" y="1391"/>
       <point x="488" y="1300" type="curve" smooth="yes"/>
       <point x="75" y="533" type="line" smooth="yes"/>
-      <point x="5" y="380"/>
+      <point x="5" y="379"/>
       <point x="77" y="307"/>
       <point x="214" y="307" type="curve" smooth="yes"/>
       <point x="687" y="307" type="line"/>
@@ -46,17 +46,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>four</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1160</integer>
         </dict>

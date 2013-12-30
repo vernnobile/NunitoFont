@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Racute" format="1">
-  <advance width="1459"/>
+  <advance width="1449"/>
   <unicode hex="0154"/>
   <outline>
     <component base="R"/>
@@ -25,7 +25,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1361</integer>
+          <integer>1363</integer>
         </dict>
       </dict>
     </dict>

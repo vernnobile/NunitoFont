@@ -8,8 +8,8 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="48.0" />
-<data name="previewtext" value="123456789!HOH?H" />
+<data name="previewTypeSize" value="24.0" />
+<data name="previewtext" value="konkon Tokyo Hotel" />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
@@ -46,12 +46,12 @@
 </instance>
 <instance familyname="Nunito" sequence="" stylename="400">
 <location>
-<dimension name="new_axis_1" xvalue="120" />
+<dimension name="new_axis_1" xvalue="140" />
 </location>
 </instance>
 <instance familyname="Nunito" sequence="" stylename="500">
 <location>
-<dimension name="new_axis_1" xvalue="190" />
+<dimension name="new_axis_1" xvalue="280" />
 </location>
 </instance>
 <instance familyname="Nunito" sequence="" stylename="600">

@@ -1,47 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Udieresis" format="1">
-  <advance width="1539"/>
+  <advance width="1528"/>
   <unicode hex="00DC"/>
   <outline>
-    <component base="dieresis" xOffset="489" yOffset="398"/>
+    <component base="dieresis" xOffset="483" yOffset="398"/>
     <component base="U"/>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
-      <array/>
+      <array>
+      </array>
       <key>b</key>
-      <dict/>
+      <dict>
+      </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>Udieresis</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1490</integer>
         </dict>
       </dict>
       <key>components</key>
-      <array/>
+      <array>
+      </array>
       <key>contours</key>
-      <array/>
+      <array>
+      </array>
       <key>lib</key>
-      <dict/>
+      <dict>
+      </dict>
       <key>name</key>
       <string>Udieresis</string>
       <key>unicodes</key>
-      <array/>
+      <array>
+      </array>
       <key>width</key>
       <integer>1513</integer>
     </dict>

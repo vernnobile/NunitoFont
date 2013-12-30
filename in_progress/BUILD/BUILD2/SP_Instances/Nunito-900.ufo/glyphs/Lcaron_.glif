@@ -3,7 +3,7 @@
   <advance width="1189"/>
   <unicode hex="013D"/>
   <outline>
-    <component base="caron.alt" xOffset="438" yOffset="694"/>
+    <component base="caron.alt" xOffset="527" yOffset="691"/>
     <component base="L"/>
   </outline>
   <lib>
@@ -13,17 +13,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>Lcaron</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1095</integer>
         </dict>

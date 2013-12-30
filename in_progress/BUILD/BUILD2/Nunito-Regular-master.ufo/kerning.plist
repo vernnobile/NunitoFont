@@ -150,7 +150,7 @@
 		<key>@MMK_R_a_Right</key>
 		<integer>-205</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>-233</integer>
+		<integer>-103</integer>
 		<key>@MMK_R_u_Left</key>
 		<integer>-222</integer>
 		<key>@MMK_R_w_Left</key>
@@ -159,8 +159,6 @@
 		<integer>-233</integer>
 		<key>J</key>
 		<integer>-179</integer>
-		<key>colon</key>
-		<integer>-257</integer>
 		<key>guillemetleft</key>
 		<integer>-287</integer>
 		<key>guillemetright</key>
@@ -175,8 +173,6 @@
 		<integer>-294</integer>
 		<key>r</key>
 		<integer>-222</integer>
-		<key>semicolon</key>
-		<integer>-257</integer>
 	</dict>
 	<key>@MMK_L_U_Left</key>
 	<dict>
@@ -196,13 +192,11 @@
 		<key>@MMK_R_a_Right</key>
 		<integer>-113</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>-153</integer>
+		<integer>-53</integer>
 		<key>@MMK_R_u_Left</key>
 		<integer>-73</integer>
 		<key>C</key>
 		<integer>-79</integer>
-		<key>colon</key>
-		<integer>-125</integer>
 		<key>guillemetleft</key>
 		<integer>-144</integer>
 		<key>guillemetright</key>
@@ -215,8 +209,6 @@
 		<integer>-113</integer>
 		<key>i</key>
 		<integer>-40</integer>
-		<key>semicolon</key>
-		<integer>-125</integer>
 	</dict>
 	<key>@MMK_L_W_Left</key>
 	<dict>
@@ -229,13 +221,11 @@
 		<key>@MMK_R_a_Right</key>
 		<integer>-80</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>-80</integer>
+		<integer>-20</integer>
 		<key>@MMK_R_u_Left</key>
 		<integer>-69</integer>
 		<key>@MMK_R_y_Left</key>
 		<integer>-57</integer>
-		<key>colon</key>
-		<integer>-62</integer>
 		<key>guillemetleft</key>
 		<integer>-108</integer>
 		<key>guillemetright</key>
@@ -250,8 +240,6 @@
 		<integer>29</integer>
 		<key>r</key>
 		<integer>-57</integer>
-		<key>semicolon</key>
-		<integer>-62</integer>
 	</dict>
 	<key>@MMK_L_X_Left</key>
 	<dict>
@@ -269,10 +257,8 @@
 		<key>@MMK_R_a_Right</key>
 		<integer>-233</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>-261</integer>
+		<integer>-101</integer>
 		<key>@MMK_R_u_Left</key>
-		<integer>-200</integer>
-		<key>colon</key>
 		<integer>-200</integer>
 		<key>guillemetleft</key>
 		<integer>-251</integer>
@@ -286,8 +272,6 @@
 		<integer>-319</integer>
 		<key>i</key>
 		<integer>-73</integer>
-		<key>semicolon</key>
-		<integer>-200</integer>
 	</dict>
 	<key>@MMK_L_k_Left</key>
 	<dict>
@@ -348,8 +332,6 @@
 		<integer>36</integer>
 		<key>r</key>
 		<integer>-14</integer>
-		<key>semicolon</key>
-		<integer>-11</integer>
 		<key>x</key>
 		<integer>29</integer>
 		<key>z</key>
@@ -435,7 +417,7 @@
 		<key>@MMK_R_a_Right</key>
 		<integer>-29</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>-57</integer>
+		<integer>-17</integer>
 		<key>@MMK_R_u_Left</key>
 		<integer>-79</integer>
 		<key>J</key>
@@ -482,7 +464,7 @@
 		<key>@MMK_R_O_Right</key>
 		<integer>-80</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>-40</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_u_Left</key>
 		<integer>-29</integer>
 		<key>@MMK_R_w_Left</key>

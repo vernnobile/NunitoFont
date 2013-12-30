@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scedilla" format="1">
-  <advance width="1332"/>
+  <advance width="1310"/>
   <unicode hex="015E"/>
   <outline>
     <component base="S"/>
-    <component base="cedilla" xOffset="391" yOffset="4"/>
+    <component base="cedilla" xOffset="377" yOffset="4"/>
   </outline>
   <lib>
     <dict>

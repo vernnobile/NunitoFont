@@ -9,15 +9,9 @@
 	<key>descender</key>
 	<integer>-675</integer>
 	<key>familyName</key>
-	<string>Nunito 900</string>
-	<key>openTypeHeadCreated</key>
-	<string>2013/12/29 22:16:58</string>
+	<string>Nunito</string>
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>8</integer>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Nunito</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>900</string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
@@ -57,13 +51,13 @@
 	<key>openTypeOS2SuperscriptYSize</key>
 	<integer>5155</integer>
 	<key>openTypeOS2WeightClass</key>
-	<integer>300</integer>
+	<integer>253</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.039600000000000003</real>
+	<real>0.0396</real>
 	<key>postscriptBlueShift</key>
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
@@ -77,6 +71,12 @@
 	</array>
 	<key>postscriptDefaultWidthX</key>
 	<integer>500</integer>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
 	<key>postscriptFullName</key>
 	<string>Nunito 900</string>
 	<key>postscriptOtherBlues</key>
@@ -94,19 +94,13 @@
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>320</integer>
-		<integer>370</integer>
 	</array>
-	<key>styleMapStyleName</key>
-	<string>regular</string>
+	<key>postscriptWeightName</key>
+	<string>Light</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>900</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
-	<key>versionMajor</key>
-	<integer>1</integer>
-	<key>versionMinor</key>
-	<integer>0</integer>
 	<key>xHeight</key>
 	<integer>992</integer>
 </dict>

@@ -4,7 +4,7 @@
   <unicode hex="010F"/>
   <outline>
     <component base="d"/>
-    <component base="caron.alt" xOffset="1015" yOffset="691"/>
+    <component base="caron.alt" xOffset="1034" yOffset="691"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +25,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1162</integer>
+          <integer>1181</integer>
         </dict>
       </dict>
     </dict>

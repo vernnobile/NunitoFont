@@ -21,7 +21,6 @@
 		<string>D</string>
 		<string>O</string>
 		<string>Q</string>
-		<string>Eth</string>
 		<string>Oslash</string>
 	</array>
 	<key>@MMK_L_P_Left</key>
@@ -59,7 +58,6 @@
 	<key>@MMK_L_Y_Left</key>
 	<array>
 		<string>Y</string>
-		<string>Ydieresis</string>
 	</array>
 	<key>@MMK_L_k_Left</key>
 	<array>
@@ -149,7 +147,6 @@
 	<key>@MMK_R_Y_Right</key>
 	<array>
 		<string>Y</string>
-		<string>Ydieresis</string>
 	</array>
 	<key>@MMK_R_a_Right</key>
 	<array>
