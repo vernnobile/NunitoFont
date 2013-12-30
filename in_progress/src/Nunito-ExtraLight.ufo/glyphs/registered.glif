@@ -38,7 +38,7 @@
       <point x="1061" y="946" type="curve" smooth="yes"/>
       <point x="1061" y="824"/>
       <point x="965" y="829"/>
-      <point x="879" y="829" type="curve" smooth="yes"/>
+      <point x="879" y="829" type="curve"/>
       <point x="914" y="829"/>
       <point x="643" y="827"/>
     </contour>

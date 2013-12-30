@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="1477"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="83" y="497" type="curve" smooth="yes"/>
+      <point x="976" y="497" type="line" smooth="yes"/>
+      <point x="1063" y="497"/>
+      <point x="1063" y="630"/>
+      <point x="971" y="630" type="curve" smooth="yes"/>
+      <point x="83" y="630" type="line" smooth="yes"/>
+      <point x="-3" y="630"/>
+      <point x="-3" y="497"/>
+    </contour>
+    <contour>
+      <point x="83" y="810" type="curve" smooth="yes"/>
+      <point x="976" y="810" type="line" smooth="yes"/>
+      <point x="1063" y="810"/>
+      <point x="1063" y="943"/>
+      <point x="971" y="943" type="curve" smooth="yes"/>
+      <point x="83" y="943" type="line" smooth="yes"/>
+      <point x="-3" y="943"/>
+      <point x="-3" y="810"/>
+    </contour>
+    <component base="C" xOffset="87"/>
+  </outline>
+</glyph>

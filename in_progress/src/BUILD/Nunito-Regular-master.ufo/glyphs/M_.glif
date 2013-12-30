@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="1924"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="953" y="48" type="curve"/>
+      <point x="953" y="373" type="line"/>
+      <point x="590" y="1241" type="line" smooth="yes"/>
+      <point x="495" y="1468"/>
+      <point x="173" y="1406"/>
+      <point x="173" y="1222" type="curve" smooth="yes"/>
+      <point x="173" y="116" type="line" smooth="yes"/>
+      <point x="173" y="-1"/>
+      <point x="419" y="-1"/>
+      <point x="419" y="116" type="curve" smooth="yes"/>
+      <point x="419" y="1089" type="line"/>
+      <point x="801" y="163" type="line" smooth="yes"/>
+      <point x="832" y="88"/>
+      <point x="894" y="48"/>
+    </contour>
+    <contour>
+      <point x="954" y="48" type="line"/>
+      <point x="1013" y="48"/>
+      <point x="1075" y="88"/>
+      <point x="1106" y="163" type="curve" smooth="yes"/>
+      <point x="1488" y="1089" type="line"/>
+      <point x="1488" y="116" type="line" smooth="yes"/>
+      <point x="1488" y="-1"/>
+      <point x="1734" y="-1"/>
+      <point x="1734" y="116" type="curve" smooth="yes"/>
+      <point x="1734" y="1222" type="line" smooth="yes"/>
+      <point x="1734" y="1406"/>
+      <point x="1412" y="1468"/>
+      <point x="1317" y="1241" type="curve" smooth="yes"/>
+      <point x="954" y="373" type="line"/>
+    </contour>
+    <contour>
+      <point x="976" y="1438" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>b</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>M</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1924</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>lib</key>
+      <dict>
+      </dict>
+      <key>name</key>
+      <string>M</string>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

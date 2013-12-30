@@ -43,62 +43,62 @@
   </outline>
   <lib>
     <dict>
-      <key>anchors</key>
-      <array>
-      </array>
-      <key>b</key>
-      <dict>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>h</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1148</integer>
-        </dict>
-      </dict>
-      <key>components</key>
-      <array>
-      </array>
-      <key>contours</key>
-      <dict>
-      </dict>
-      <key>lib</key>
-      <dict>
-      </dict>
-      <key>name</key>
-      <string>h</string>
-      <key>points</key>
-      <dict>
-      </dict>
-      <key>segmentType</key>
+    <key>segmentType</key>
       <string>curve</string>
-      <key>unicodes</key>
+    <key>b</key>
+      <dict>
+      </dict>
+    <key>anchors</key>
       <array>
       </array>
-      <key>width</key>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
       <integer>1195</integer>
-      <key>x</key>
-      <integer>137</integer>
-      <key>y</key>
+    <key>points</key>
+      <dict>
+      </dict>
+    <key>contours</key>
+      <dict>
+      </dict>
+    <key>components</key>
+      <array>
+      </array>
+    <key>y</key>
       <integer>113</integer>
+    <key>x</key>
+      <integer>137</integer>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>h</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1148</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>name</key>
+      <string>h</string>
     </dict>
   </lib>
 </glyph>

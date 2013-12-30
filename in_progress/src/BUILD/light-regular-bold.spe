@@ -1,0 +1,82 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="131028_2106_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="new_axis_1" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="100.0" />
+<data name="previewtext" value="Mohawk Monmouth" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.68561525327" />
+<!-- axis definitions -->
+<axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="Nunito-Regular-master.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="500" />
+</location>
+<!-- color for Nunito-Regular-master.ufo -->
+<color a="1.000000" b="0.500000" g="0.500000" r="1.000000" />
+</master>
+<master filename="Nunito-Bold.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1000" />
+</location>
+<!-- color for Nunito-Bold.ufo -->
+<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
+</master>
+<master filename="Nunito-Light.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="0" />
+</location>
+<!-- color for Nunito-Light.ufo -->
+<color a="1.000000" b="0.500000" g="1.000000" r="1.000000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Nunito" sequence="" stylename="200">
+<location>
+<dimension name="new_axis_1" xvalue="-300" />
+</location>
+</instance>
+<instance familyname="Nunito" sequence="" stylename="400">
+<location>
+<dimension name="new_axis_1" xvalue="140" />
+</location>
+</instance>
+<instance familyname="Nunito" sequence="" stylename="500">
+<location>
+<dimension name="new_axis_1" xvalue="280" />
+</location>
+</instance>
+<instance familyname="Nunito" sequence="" stylename="600">
+<location>
+<dimension name="new_axis_1" xvalue="400" />
+</location>
+</instance>
+<instance familyname="Nunito" sequence="" stylename="700">
+<location>
+<dimension name="new_axis_1" xvalue="600" yvalue="650" />
+</location>
+</instance>
+<instance familyname="Nunito" sequence="" stylename="800">
+<location>
+<dimension name="new_axis_1" xvalue="760" yvalue="800" />
+</location>
+</instance>
+<instance familyname="Nunito" sequence="" stylename="900">
+<location>
+<dimension name="new_axis_1" xvalue="990" yvalue="1100" />
+</location>
+</instance>
+<instance familyname="Nunito" sequence="" stylename="300">
+<location>
+<dimension name="new_axis_1" xvalue="-90" />
+</location>
+</instance>
+</designspace>

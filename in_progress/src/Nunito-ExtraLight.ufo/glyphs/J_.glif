@@ -24,7 +24,7 @@
       <point x="421" y="88" type="curve" smooth="yes"/>
       <point x="313" y="88"/>
       <point x="242" y="135"/>
-      <point x="215" y="170" type="curve" smooth="yes"/>
+      <point x="215" y="170" type="curve"/>
       <point x="182" y="199"/>
       <point x="154" y="210"/>
       <point x="132" y="210" type="curve" smooth="yes"/>
@@ -33,63 +33,63 @@
       <point x="85" y="157" type="curve" smooth="yes"/>
       <point x="85" y="152"/>
       <point x="85" y="146"/>
-      <point x="86" y="143" type="curve"/>
+      <point x="86" y="143" type="curve" smooth="yes"/>
       <point x="88" y="139"/>
       <point x="87" y="136"/>
-      <point x="80" y="130" type="curve" smooth="yes"/>
+      <point x="80" y="130" type="curve"/>
       <point x="101" y="82"/>
       <point x="243" y="-17"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>anchors</key>
-      <array>
-      </array>
-      <key>b</key>
+    <key>b</key>
       <dict>
       </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>J</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1003</integer>
-        </dict>
-      </dict>
-      <key>components</key>
+    <key>anchors</key>
       <array>
       </array>
-      <key>contours</key>
-      <array>
-      </array>
-      <key>lib</key>
+    <key>lib</key>
       <dict>
       </dict>
-      <key>name</key>
-      <string>J</string>
-      <key>unicodes</key>
+    <key>unicodes</key>
       <array>
       </array>
-      <key>width</key>
+    <key>width</key>
       <integer>1126</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>J</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1003</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>name</key>
+      <string>J</string>
     </dict>
   </lib>
 </glyph>

@@ -3,6 +3,7 @@
   <advance width="1108"/>
   <unicode hex="00F8"/>
   <outline>
+    <component base="o"/>
     <contour>
       <point x="561" y="991" type="move" name="top"/>
     </contour>
@@ -10,7 +11,7 @@
       <point x="374" y="-185" type="curve" smooth="yes"/>
       <point x="400" y="-185"/>
       <point x="423" y="-173"/>
-      <point x="434" y="-141" type="curve"/>
+      <point x="434" y="-141" type="curve" smooth="yes"/>
       <point x="842" y="1113" type="line"/>
       <point x="842" y="1118"/>
       <point x="839" y="1118"/>
@@ -28,6 +29,5 @@
       <point x="314" y="-164"/>
       <point x="343" y="-185"/>
     </contour>
-    <component base="o"/>
   </outline>
 </glyph>
