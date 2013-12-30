@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cent" format="1">
-  <advance width="1034.6"/>
+  <advance width="1035"/>
   <unicode hex="00A2"/>
   <outline>
     <contour>
-      <point x="554.48" y="-268.04" type="curve" smooth="yes"/>
-      <point x="581.12" y="-268.04"/>
-      <point x="607.04" y="-250.6"/>
-      <point x="607.04" y="-213.96" type="curve" smooth="yes"/>
-      <point x="607.04" y="41.56" type="line"/>
-      <point x="500.92" y="42.32" type="line"/>
-      <point x="500.92" y="-213.96" type="line" smooth="yes"/>
-      <point x="500.92" y="-249.6"/>
-      <point x="527.84" y="-268.04"/>
+      <point x="556" y="-268" type="curve" smooth="yes"/>
+      <point x="583" y="-268"/>
+      <point x="609" y="-250"/>
+      <point x="609" y="-213" type="curve" smooth="yes"/>
+      <point x="609" y="43" type="line"/>
+      <point x="501" y="44" type="line"/>
+      <point x="501" y="-213" type="line" smooth="yes"/>
+      <point x="501" y="-249"/>
+      <point x="528" y="-268"/>
     </contour>
     <contour>
-      <point x="500.92" y="956.36" type="line"/>
-      <point x="607.04" y="957.12" type="line"/>
-      <point x="607.04" y="1212.64" type="line" smooth="yes"/>
-      <point x="607.04" y="1249.28"/>
-      <point x="581.12" y="1266.72"/>
-      <point x="554.48" y="1266.72" type="curve" smooth="yes"/>
-      <point x="527.84" y="1266.72"/>
-      <point x="500.92" y="1248.28"/>
-      <point x="500.92" y="1212.64" type="curve" smooth="yes"/>
+      <point x="501" y="956" type="line"/>
+      <point x="609" y="957" type="line"/>
+      <point x="609" y="1213" type="line" smooth="yes"/>
+      <point x="609" y="1250"/>
+      <point x="583" y="1268"/>
+      <point x="556" y="1268" type="curve" smooth="yes"/>
+      <point x="528" y="1268"/>
+      <point x="501" y="1249"/>
+      <point x="501" y="1213" type="curve" smooth="yes"/>
     </contour>
     <component base="c"/>
   </outline>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1031</integer>
+          <integer>1046</integer>
         </dict>
       </dict>
     </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="space" format="1">
-  <advance width="478.28"/>
+  <advance width="581"/>
   <unicode hex="0020"/>
   <outline>
   </outline>
@@ -34,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>455</integer>
+          <integer>584</integer>
         </dict>
       </dict>
       <key>components</key>

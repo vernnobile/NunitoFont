@@ -5,19 +5,13 @@
 	<key>ascender</key>
 	<integer>2030</integer>
 	<key>capHeight</key>
-	<integer>1438</integer>
+	<integer>1449</integer>
 	<key>descender</key>
 	<integer>-675</integer>
 	<key>familyName</key>
 	<string>Nunito</string>
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>10</integer>
-	<key>openTypeHheaAscender</key>
-	<integer>427</integer>
-	<key>openTypeHheaDescender</key>
-	<integer>-162</integer>
-	<key>openTypeHheaLineGap</key>
-	<integer>0</integer>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
@@ -56,20 +50,10 @@
 	<integer>3006</integer>
 	<key>openTypeOS2SuperscriptYSize</key>
 	<integer>5155</integer>
-	<key>openTypeOS2TypoAscender</key>
-	<integer>427</integer>
-	<key>openTypeOS2TypoDescender</key>
-	<integer>-162</integer>
-	<key>openTypeOS2TypoLineGap</key>
-	<integer>0</integer>
 	<key>openTypeOS2WeightClass</key>
-	<integer>286</integer>
+	<integer>292</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
-	<key>openTypeOS2WinAscent</key>
-	<integer>427</integer>
-	<key>openTypeOS2WinDescent</key>
-	<integer>162</integer>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
@@ -80,10 +64,10 @@
 	<array>
 		<integer>-25</integer>
 		<integer>1</integer>
-		<integer>993</integer>
+		<integer>994</integer>
 		<integer>1013</integer>
 		<integer>1428</integer>
-		<integer>1446</integer>
+		<integer>1447</integer>
 	</array>
 	<key>postscriptDefaultWidthX</key>
 	<integer>500</integer>
@@ -104,9 +88,9 @@
 	<real>0.0</real>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>133</integer>
-		<integer>161</integer>
-		<integer>211</integer>
+		<integer>135</integer>
+		<integer>163</integer>
+		<integer>213</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
@@ -118,6 +102,6 @@
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>xHeight</key>
-	<integer>1040</integer>
+	<integer>1005</integer>
 </dict>
 </plist>

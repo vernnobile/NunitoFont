@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V" format="1">
-  <advance width="1307.24"/>
+  <advance width="1310"/>
   <unicode hex="0056"/>
   <outline>
     <contour>
-      <point x="659.64" y="-7.64" type="curve"/>
-      <point x="659.64" y="209.28" type="line"/>
-      <point x="241.12" y="1368.32" type="line" smooth="yes"/>
-      <point x="199.45" y="1485.5712"/>
-      <point x="16.64" y="1422.68"/>
-      <point x="57.24" y="1312.24" type="curve" smooth="yes"/>
-      <point x="493.2" y="130.44" type="line" smooth="yes"/>
-      <point x="529.0" y="32.12"/>
-      <point x="585.6" y="-7.64"/>
+      <point x="661" y="-8" type="curve"/>
+      <point x="661" y="212" type="line"/>
+      <point x="246" y="1368" type="line" smooth="yes"/>
+      <point x="204" y="1487"/>
+      <point x="17" y="1424"/>
+      <point x="58" y="1311" type="curve" smooth="yes"/>
+      <point x="491" y="133" type="line" smooth="yes"/>
+      <point x="528" y="32"/>
+      <point x="585" y="-8"/>
     </contour>
     <contour>
-      <point x="659.64" y="-7.64" type="line"/>
-      <point x="733.68" y="-7.64"/>
-      <point x="790.28" y="32.12"/>
-      <point x="826.08" y="130.44" type="curve" smooth="yes"/>
-      <point x="1262.04" y="1312.24" type="line" smooth="yes"/>
-      <point x="1302.64" y="1422.68"/>
-      <point x="1119.8" y="1485.6"/>
-      <point x="1078.16" y="1368.32" type="curve" smooth="yes"/>
-      <point x="659.64" y="209.28" type="line"/>
+      <point x="661" y="-8" type="line"/>
+      <point x="737" y="-8"/>
+      <point x="794" y="32"/>
+      <point x="831" y="133" type="curve" smooth="yes"/>
+      <point x="1264" y="1311" type="line" smooth="yes"/>
+      <point x="1305" y="1424"/>
+      <point x="1119" y="1487"/>
+      <point x="1077" y="1368" type="curve" smooth="yes"/>
+      <point x="661" y="212" type="line"/>
     </contour>
   </outline>
   <lib>

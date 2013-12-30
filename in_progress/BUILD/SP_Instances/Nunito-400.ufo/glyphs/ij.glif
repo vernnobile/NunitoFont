@@ -1,38 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ij" format="1">
-  <advance width="963.52"/>
+  <advance width="1013"/>
   <unicode hex="0133"/>
   <outline>
     <component base="i"/>
-    <component base="j" xOffset="468.32"/>
+    <component base="j" xOffset="502"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ij</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>950</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
