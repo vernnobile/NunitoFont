@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="1">
+  <advance width="1190"/>
+  <unicode hex="013F"/>
+  <outline>
+    <component base="L"/>
+    <component base="periodcentered" xOffset="474" yOffset="230"/>
+    <contour>
+      <point x="646" y="1438" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="674" y="0" type="move" name="bot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>Ldot</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1093</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

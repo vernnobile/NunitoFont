@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="1338"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <component base="Y"/>
+    <contour>
+      <point x="230" y="290" type="curve" smooth="yes"/>
+      <point x="1161" y="290" type="line" smooth="yes"/>
+      <point x="1205" y="290"/>
+      <point x="1226" y="331"/>
+      <point x="1226" y="366" type="curve" smooth="yes"/>
+      <point x="1226" y="398"/>
+      <point x="1204" y="442"/>
+      <point x="1161" y="442" type="curve" smooth="yes"/>
+      <point x="230" y="442" type="line" smooth="yes"/>
+      <point x="185" y="442"/>
+      <point x="165" y="399"/>
+      <point x="165" y="367" type="curve" smooth="yes"/>
+      <point x="165" y="332"/>
+      <point x="185" y="290"/>
+    </contour>
+    <contour>
+      <point x="230" y="529" type="curve" smooth="yes"/>
+      <point x="1161" y="529" type="line" smooth="yes"/>
+      <point x="1205" y="529"/>
+      <point x="1226" y="570"/>
+      <point x="1226" y="605" type="curve" smooth="yes"/>
+      <point x="1226" y="637"/>
+      <point x="1204" y="681"/>
+      <point x="1161" y="681" type="curve" smooth="yes"/>
+      <point x="230" y="681" type="line" smooth="yes"/>
+      <point x="185" y="681"/>
+      <point x="165" y="638"/>
+      <point x="165" y="606" type="curve" smooth="yes"/>
+      <point x="165" y="571"/>
+      <point x="185" y="529"/>
+    </contour>
+  </outline>
+</glyph>
