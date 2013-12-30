@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eng" format="1">
+  <advance width="1510"/>
+  <unicode hex="014A"/>
+  <outline>
+    <contour>
+      <point x="635" y="-410" type="curve" smooth="yes"/>
+      <point x="1080" y="-509"/>
+      <point x="1337" y="-457"/>
+      <point x="1337" y="49" type="curve"/>
+      <point x="1337" y="350" type="line"/>
+      <point x="1154" y="353" type="line"/>
+      <point x="1154" y="-7" type="line" smooth="yes"/>
+      <point x="1154" y="-302"/>
+      <point x="1048" y="-365"/>
+      <point x="662" y="-265" type="curve" smooth="yes"/>
+      <point x="555" y="-237"/>
+      <point x="506" y="-382"/>
+    </contour>
+    <component base="N" xOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eng</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1495</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -9,7 +9,7 @@
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
 <data name="previewTypeSize" value="48.0" />
-<data name="previewtext" value="Bonneville Dagenham Raleigh Pacemaker" />
+<data name="previewtext" value="123456789!HOH?H" />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
@@ -23,18 +23,18 @@
 <!-- color for Nunito-Regular-master.ufo -->
 <color a="1.000000" b="0.500000" g="0.500000" r="1.000000" />
 </master>
-<master filename="Nunito-bold-master.ufo">
+<master filename="Nunito-Bold.ufo">
 <location>
 <dimension name="new_axis_1" xvalue="1000" />
 </location>
-<!-- color for Nunito-bold-master.ufo -->
+<!-- color for Nunito-Bold.ufo -->
 <color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
 </master>
-<master filename="Nunito-light-master.ufo">
+<master filename="Nunito-Light.ufo">
 <location>
 <dimension name="new_axis_1" xvalue="0" />
 </location>
-<!-- color for Nunito-light-master.ufo -->
+<!-- color for Nunito-Light.ufo -->
 <color a="1.000000" b="0.500000" g="1.000000" r="1.000000" />
 </master>
 
@@ -66,12 +66,12 @@
 </instance>
 <instance familyname="Nunito" sequence="" stylename="800">
 <location>
-<dimension name="new_axis_1" xvalue="700" yvalue="800" />
+<dimension name="new_axis_1" xvalue="760" yvalue="800" />
 </location>
 </instance>
 <instance familyname="Nunito" sequence="" stylename="900">
 <location>
-<dimension name="new_axis_1" xvalue="900" yvalue="1000" />
+<dimension name="new_axis_1" xvalue="990" yvalue="1100" />
 </location>
 </instance>
 <instance familyname="Nunito" sequence="" stylename="300">

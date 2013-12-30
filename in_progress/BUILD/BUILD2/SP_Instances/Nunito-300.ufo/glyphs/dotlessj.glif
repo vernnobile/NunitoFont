@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj" format="1">
+  <advance width="474"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="240" y="991" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1" y="-377" type="curve" smooth="yes"/>
+      <point x="303" y="-377"/>
+      <point x="317" y="-283"/>
+      <point x="317" y="-34" type="curve" smooth="yes"/>
+      <point x="317" y="913" type="line" smooth="yes"/>
+      <point x="317" y="964"/>
+      <point x="277" y="991"/>
+      <point x="240" y="991" type="curve" smooth="yes"/>
+      <point x="200" y="991"/>
+      <point x="160" y="964"/>
+      <point x="160" y="913" type="curve" smooth="yes"/>
+      <point x="160" y="-74" type="line" smooth="yes"/>
+      <point x="160" y="-238"/>
+      <point x="142" y="-253"/>
+      <point x="1" y="-253" type="curve" smooth="yes"/>
+      <point x="-74" y="-253"/>
+      <point x="-77" y="-377"/>
+    </contour>
+  </outline>
+</glyph>

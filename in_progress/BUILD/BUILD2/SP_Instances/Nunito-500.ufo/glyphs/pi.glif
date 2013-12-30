@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pi" format="1">
+  <advance width="1231"/>
+  <unicode hex="03C0"/>
+  <outline>
+    <contour>
+      <point x="964" y="-19" type="curve" smooth="yes"/>
+      <point x="1137" y="8"/>
+      <point x="997" y="112"/>
+      <point x="997" y="392" type="curve" smooth="yes"/>
+      <point x="997" y="919" type="line"/>
+      <point x="1078" y="919" type="line" smooth="yes"/>
+      <point x="1129" y="919"/>
+      <point x="1154" y="956"/>
+      <point x="1154" y="995" type="curve" smooth="yes"/>
+      <point x="1154" y="1033"/>
+      <point x="1129" y="1071"/>
+      <point x="1078" y="1071" type="curve" smooth="yes"/>
+      <point x="211" y="1071" type="line" smooth="yes"/>
+      <point x="148" y="1071"/>
+      <point x="118" y="1033"/>
+      <point x="118" y="995" type="curve" smooth="yes"/>
+      <point x="118" y="956"/>
+      <point x="148" y="919"/>
+      <point x="211" y="919" type="curve" smooth="yes"/>
+      <point x="286" y="919" type="line"/>
+      <point x="286" y="611"/>
+      <point x="207" y="308"/>
+      <point x="128" y="89" type="curve" smooth="yes"/>
+      <point x="81" y="-34"/>
+      <point x="270" y="-76"/>
+      <point x="321" y="51" type="curve" smooth="yes"/>
+      <point x="396" y="238"/>
+      <point x="452" y="652"/>
+      <point x="463" y="919" type="curve"/>
+      <point x="815" y="919" type="line"/>
+      <point x="815" y="355" type="line" smooth="yes"/>
+      <point x="815" y="58"/>
+      <point x="843" y="-39"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>pi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1285</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

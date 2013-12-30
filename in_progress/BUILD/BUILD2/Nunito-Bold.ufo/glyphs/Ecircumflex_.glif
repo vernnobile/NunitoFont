@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex" format="1">
+  <advance width="1249"/>
+  <unicode hex="00CA"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflex" xOffset="372" yOffset="398"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>b</key>
+      <dict/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>Ecircumflex</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1232</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>lib</key>
+      <dict/>
+      <key>name</key>
+      <string>Ecircumflex</string>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1263</integer>
+    </dict>
+  </lib>
+</glyph>
