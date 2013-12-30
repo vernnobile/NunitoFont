@@ -1,69 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-	<key>familyName</key>
-	<string>Nunito</string>
-	<key>styleName</key>
-	<string>ExtraLight</string>
-	<key>copyright</key>
-	<string>Font Data Copyright (c) 2013, vernon adams</string>
-	<key>unitsPerEm</key>
-	<integer>2048</integer>
-	<key>xHeight</key>
-	<integer>1028</integer>
-	<key>capHeight</key>
-	<integer>1426</integer>
+<dict>
 	<key>ascender</key>
 	<integer>2030</integer>
+	<key>capHeight</key>
+	<integer>1462</integer>
 	<key>descender</key>
 	<integer>-675</integer>
-	<key>italicAngle</key>
-	<real>0</real>
-	<key>note</key>
-	<string></string>
-	<key>openTypeHeadCreated</key>
-	<string>2013/12/30 20:54:33</string>
-	<key>openTypeNameLicense</key>
-	<string>Copyright (c) 2013, vernon adams
-
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL</string>
-	<key>openTypeNameLicenseURL</key>
-	<string>http://scripts.sil.org/OFL</string>
-	<key>openTypeNameVersion</key>
-	<string>Version 2</string>
-	<key>openTypeOS2WidthClass</key>
-	<integer>5</integer>
-	<key>openTypeOS2WeightClass</key>
-	<integer>200</integer>
-	<key>openTypeOS2VendorID</key>
-	<string>NeWT</string>
+	<key>familyName</key>
+	<string>Nunito</string>
+	<key>openTypeHeadLowestRecPPEM</key>
+	<integer>3</integer>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
 		<integer>0</integer>
 	</array>
-	<key>openTypeOS2TypoAscender</key>
-	<integer>1638</integer>
-	<key>openTypeOS2TypoDescender</key>
-	<integer>-410</integer>
-	<key>openTypeOS2TypoLineGap</key>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>2</integer>
+		<integer>0</integer>
+		<integer>5</integer>
+		<integer>3</integer>
+		<integer>3</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>2</integer>
+		<integer>0</integer>
+		<integer>3</integer>
+	</array>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>512</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>102</integer>
+	<key>openTypeOS2SubscriptXOffset</key>
 	<integer>0</integer>
-	<key>openTypeOS2WinAscent</key>
-	<integer>1995</integer>
-	<key>openTypeOS2WinDescent</key>
-	<integer>579</integer>
-	<key>postscriptFontName</key>
-	<string>Nunito-ExtraLight</string>
+	<key>openTypeOS2SubscriptXSize</key>
+	<integer>5583</integer>
+	<key>openTypeOS2SubscriptYOffset</key>
+	<integer>645</integer>
+	<key>openTypeOS2SubscriptYSize</key>
+	<integer>5155</integer>
+	<key>openTypeOS2SuperscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SuperscriptXSize</key>
+	<integer>5583</integer>
+	<key>openTypeOS2SuperscriptYOffset</key>
+	<integer>3006</integer>
+	<key>openTypeOS2SuperscriptYSize</key>
+	<integer>5155</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>160</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueFuzz</key>
+	<integer>1</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.0396</real>
+	<key>postscriptBlueShift</key>
+	<integer>7</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-15</integer>
+		<integer>-2</integer>
+		<integer>985</integer>
+		<integer>1013</integer>
+		<integer>1421</integer>
+		<integer>1419</integer>
+	</array>
+	<key>postscriptDefaultWidthX</key>
+	<integer>500</integer>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
 	<key>postscriptFullName</key>
-	<string>Nunito ExtraLight</string>
+	<string>Nunito 200</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-405</integer>
+		<integer>-375</integer>
+	</array>
+	<key>postscriptSlantAngle</key>
+	<real>0.0</real>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>104</integer>
+		<integer>106</integer>
+		<integer>156</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+	</array>
 	<key>postscriptWeightName</key>
-	<string>ExtraLight</string>
-	<key>postscriptUnderlineThickness</key>
-	<integer>0</integer>
-	<key>postscriptUnderlinePosition</key>
-	<integer>0</integer>
-    </dict>
+	<string>Extra-light</string>
+	<key>styleName</key>
+	<string>200</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>xHeight</key>
+	<integer>962</integer>
+</dict>
 </plist>

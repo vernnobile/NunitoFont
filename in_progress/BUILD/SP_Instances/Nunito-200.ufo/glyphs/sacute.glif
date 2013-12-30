@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sacute" format="1">
-  <advance width="1009"/>
+  <advance width="1010"/>
   <unicode hex="015B"/>
   <outline>
-    <component base="acute" xOffset="360" yOffset="-40"/>
+    <component base="acute" xOffset="356" yOffset="-41"/>
     <component base="s"/>
   </outline>
   <lib>

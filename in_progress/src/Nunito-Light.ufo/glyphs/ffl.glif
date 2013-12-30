@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ffl" format="1">
-  <advance width="1805"/>
+  <advance width="1791"/>
   <outline>
+    <component base="l" xOffset="1306"/>
     <component base="f"/>
-    <component base="f" xOffset="619"/>
-    <component base="l" xOffset="1314"/>
+    <component base="f" xOffset="615"/>
   </outline>
 </glyph>

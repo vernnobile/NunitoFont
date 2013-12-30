@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclamdown" format="1">
-  <advance width="796"/>
+  <advance width="798"/>
   <unicode hex="00A1"/>
   <outline>
-    <component base="exclam" yScale="-1.0" xOffset="25" yOffset="1111"/>
+    <component base="exclam" yScale="-1.0" xOffset="26" yOffset="1112"/>
   </outline>
   <lib>
     <dict>

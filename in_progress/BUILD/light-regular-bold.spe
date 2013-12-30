@@ -8,8 +8,8 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="400.0" />
-<data name="previewtext" value="/threesuperior /scommaaccent/uni2113" />
+<data name="previewTypeSize" value="100.0" />
+<data name="previewtext" value="Mohawk Monmouth" />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
@@ -41,7 +41,7 @@
 <!-- instance definitions -->
 <instance familyname="Nunito" sequence="" stylename="200">
 <location>
-<dimension name="new_axis_1" xvalue="-200" />
+<dimension name="new_axis_1" xvalue="-300" />
 </location>
 </instance>
 <instance familyname="Nunito" sequence="" stylename="400">
@@ -76,7 +76,7 @@
 </instance>
 <instance familyname="Nunito" sequence="" stylename="300">
 <location>
-<dimension name="new_axis_1" xvalue="-20" />
+<dimension name="new_axis_1" xvalue="-90" />
 </location>
 </instance>
 </designspace>

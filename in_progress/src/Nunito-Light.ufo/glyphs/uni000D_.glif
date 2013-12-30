@@ -2,4 +2,6 @@
 <glyph name="uni000D" format="1">
   <advance width="600"/>
   <unicode hex="000D"/>
+  <outline>
+  </outline>
 </glyph>

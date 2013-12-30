@@ -31,9 +31,9 @@
 		<key>g</key>
 		<integer>-29</integer>
 		<key>guillemetleft</key>
-		<integer>3</integer>
+		<integer>13</integer>
 		<key>guillemetright</key>
-		<integer>3</integer>
+		<integer>13</integer>
 		<key>p</key>
 		<integer>6</integer>
 		<key>quotedblleft</key>
@@ -151,9 +151,9 @@
 		<key>J</key>
 		<integer>-179</integer>
 		<key>guillemetleft</key>
-		<integer>11</integer>
+		<integer>52</integer>
 		<key>guillemetright</key>
-		<integer>11</integer>
+		<integer>52</integer>
 		<key>guilsinglleft</key>
 		<integer>-251</integer>
 		<key>guilsinglright</key>
@@ -189,9 +189,9 @@
 		<key>C</key>
 		<integer>-79</integer>
 		<key>guillemetleft</key>
-		<integer>6</integer>
+		<integer>26</integer>
 		<key>guillemetright</key>
-		<integer>4</integer>
+		<integer>19</integer>
 		<key>guilsinglleft</key>
 		<integer>-71</integer>
 		<key>guilsinglright</key>
@@ -218,9 +218,9 @@
 		<key>@MMK_R_y_Left</key>
 		<integer>-57</integer>
 		<key>guillemetleft</key>
-		<integer>4</integer>
+		<integer>19</integer>
 		<key>guillemetright</key>
-		<integer>3</integer>
+		<integer>13</integer>
 		<key>guilsinglleft</key>
 		<integer>-71</integer>
 		<key>guilsinglright</key>
@@ -252,9 +252,9 @@
 		<key>@MMK_R_u_Left</key>
 		<integer>-200</integer>
 		<key>guillemetleft</key>
-		<integer>10</integer>
+		<integer>45</integer>
 		<key>guillemetright</key>
-		<integer>6</integer>
+		<integer>26</integer>
 		<key>guilsinglleft</key>
 		<integer>-179</integer>
 		<key>guilsinglright</key>
@@ -543,28 +543,28 @@
 	<key>guillemetleft</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>3</integer>
+		<integer>13</integer>
 		<key>@MMK_R_T_Right</key>
-		<integer>11</integer>
+		<integer>52</integer>
 		<key>@MMK_R_V_Right</key>
-		<integer>4</integer>
+		<integer>19</integer>
 		<key>@MMK_R_W_Right</key>
-		<integer>3</integer>
+		<integer>13</integer>
 		<key>@MMK_R_Y_Right</key>
-		<integer>6</integer>
+		<integer>26</integer>
 	</dict>
 	<key>guillemetright</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
-		<integer>3</integer>
+		<integer>13</integer>
 		<key>@MMK_R_T_Right</key>
-		<integer>11</integer>
+		<integer>52</integer>
 		<key>@MMK_R_V_Right</key>
-		<integer>6</integer>
+		<integer>26</integer>
 		<key>@MMK_R_W_Right</key>
-		<integer>4</integer>
+		<integer>19</integer>
 		<key>@MMK_R_Y_Right</key>
-		<integer>10</integer>
+		<integer>45</integer>
 	</dict>
 	<key>guilsinglleft</key>
 	<dict>
