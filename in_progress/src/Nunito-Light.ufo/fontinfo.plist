@@ -27,7 +27,7 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2013/12/30 21:56:54</string>
+	<string>2013/12/30 22:27:19</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
@@ -46,7 +46,7 @@ http://scripts.sil.org/OFL
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 2</string>
+	<string>Version 2.0</string>
 	<key>openTypeNameCompatibleFullName</key>
 	<string>Nunito-Light</string>
 	<key>openTypeOS2WidthClass</key>
@@ -61,9 +61,9 @@ http://scripts.sil.org/OFL
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>1638</integer>
+	<integer>1999</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>410</integer>
+	<integer>572</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WinAscent</key>
