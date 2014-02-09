@@ -4,10 +4,10 @@
   <unicode hex="0052"/>
   <outline>
     <contour>
-      <point x="735" y="1438" type="move" name="top"/>
+      <point x="762" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="762" y="0" type="move" name="bot"/>
+      <point x="735" y="1438" type="move" name="top"/>
     </contour>
     <contour>
       <point x="513" y="830" type="line"/>
@@ -378,9 +378,8 @@
     <key>unicodes</key>
       <array>
       </array>
-    <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
+    <key>name</key>
+      <string>R</string>
     <key>width</key>
       <integer>1408</integer>
     <key>contours</key>
@@ -392,8 +391,9 @@
     <key>lib</key>
       <dict>
       </dict>
-    <key>name</key>
-      <string>R</string>
+    <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -3,8 +3,8 @@
   <advance width="1145"/>
   <unicode hex="0207"/>
   <outline>
-    <component base="breveinvertedcomb" xOffset="312" yOffset="-75"/>
     <component base="e"/>
+    <component base="uni0311" xOffset="312" yOffset="-75"/>
   </outline>
   <lib>
     <dict>

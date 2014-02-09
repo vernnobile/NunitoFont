@@ -2,8 +2,8 @@
 <glyph name="ff" format="1">
   <advance width="1431"/>
   <outline>
-    <component base="f"/>
     <component base="f" xOffset="677"/>
+    <component base="f"/>
   </outline>
   <lib>
     <dict>

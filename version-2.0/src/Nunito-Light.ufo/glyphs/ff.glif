@@ -2,7 +2,7 @@
 <glyph name="ff" format="1">
   <advance width="1306"/>
   <outline>
-    <component base="f" xOffset="615"/>
     <component base="f"/>
+    <component base="f" xOffset="615"/>
   </outline>
 </glyph>

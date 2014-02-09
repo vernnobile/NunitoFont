@@ -4,10 +4,10 @@
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="742" y="1438" type="move" name="top"/>
+      <point x="1264" y="19" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="1264" y="19" type="move" name="ogonek"/>
+      <point x="742" y="1438" type="move" name="top"/>
     </contour>
     <contour>
       <point x="1104" y="143" type="line"/>
@@ -36,8 +36,6 @@
   </outline>
   <lib>
     <dict>
-    <key>segmentType</key>
-      <string>line</string>
     <key>b</key>
       <dict>
       </dict>
@@ -50,6 +48,8 @@
     <key>unicodes</key>
       <array>
       </array>
+    <key>y</key>
+      <integer>1232</integer>
     <key>width</key>
       <integer>1445</integer>
     <key>points</key>
@@ -61,8 +61,8 @@
     <key>components</key>
       <array>
       </array>
-    <key>y</key>
-      <integer>1232</integer>
+    <key>segmentType</key>
+      <string>line</string>
     <key>x</key>
       <integer>718</integer>
     <key>com.typemytype.robofont.layerData</key>
