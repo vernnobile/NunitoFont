@@ -9,12 +9,21 @@
     <contour>
       <point x="437" y="-419" type="curve"/>
       <point x="437" y="-334" type="line"/>
-      <point x="289" y="-334"/>
-      <point x="145" y="-272"/>
+      <point x="333" y="-334"/>
+      <point x="231" y="-304"/>
+      <point x="231" y="-191" type="curve" smooth="yes"/>
+      <point x="231" y="-143"/>
+      <point x="249" y="-81"/>
       <point x="293" y="0" type="curve"/>
       <point x="210" y="0" type="line"/>
-      <point x="-64" y="-321"/>
-      <point x="119" y="-528"/>
+      <point x="117" y="-109"/>
+      <point x="76" y="-205"/>
+      <point x="76" y="-280" type="curve" smooth="yes"/>
+      <point x="76" y="-385"/>
+      <point x="155" y="-448"/>
+      <point x="278" y="-448" type="curve" smooth="yes"/>
+      <point x="325" y="-448"/>
+      <point x="379" y="-439"/>
     </contour>
   </outline>
 </glyph>

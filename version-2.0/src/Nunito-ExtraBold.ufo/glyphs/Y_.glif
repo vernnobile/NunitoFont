@@ -8,19 +8,34 @@
     </contour>
     <contour>
       <point x="493" y="162" type="line" smooth="yes"/>
-      <point x="493" y="-56"/>
-      <point x="814" y="-55"/>
+      <point x="493" y="53.1253"/>
+      <point x="573.066" y="-1.12522"/>
+      <point x="653.223" y="-1.12522" type="curve" smooth="yes"/>
+      <point x="733.565" y="-1.12522"/>
+      <point x="814" y="53.3753"/>
       <point x="814" y="162" type="curve" smooth="yes"/>
       <point x="814" y="574" type="line"/>
       <point x="1221" y="1232" type="line" smooth="yes"/>
-      <point x="1322" y="1401"/>
-      <point x="1084" y="1529"/>
+      <point x="1238.09" y="1260.6"/>
+      <point x="1245.48" y="1288.03"/>
+      <point x="1245.48" y="1313.01" type="curve" smooth="yes"/>
+      <point x="1245.48" y="1385.72"/>
+      <point x="1182.95" y="1437.72"/>
+      <point x="1115.25" y="1437.72" type="curve" smooth="yes"/>
+      <point x="1068.75" y="1437.72"/>
+      <point x="1019.81" y="1413.19"/>
       <point x="987" y="1354" type="curve"/>
       <point x="669" y="820" type="line"/>
       <point x="365" y="1341" type="line"/>
-      <point x="248" y="1554"/>
-      <point x="-13" y="1392"/>
-      <point x="96" y="1206" type="curve"/>
+      <point x="325.545" y="1412.83"/>
+      <point x="269.715" y="1442.01"/>
+      <point x="217.221" y="1442.01" type="curve" smooth="yes"/>
+      <point x="139.976" y="1442.01"/>
+      <point x="69.9537" y="1378.82"/>
+      <point x="69.9537" y="1295.33" type="curve" smooth="yes"/>
+      <point x="69.9537" y="1267.3"/>
+      <point x="77.844" y="1236.98"/>
+      <point x="96" y="1206" type="curve" smooth="yes"/>
       <point x="493" y="566" type="line"/>
     </contour>
   </outline>
@@ -271,8 +286,9 @@
     <key>unicodes</key>
       <array>
       </array>
-    <key>name</key>
-      <string>Y</string>
+    <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
     <key>width</key>
       <integer>1321</integer>
     <key>contours</key>
@@ -284,9 +300,8 @@
     <key>lib</key>
       <dict>
       </dict>
-    <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
+    <key>name</key>
+      <string>Y</string>
     </dict>
   </lib>
 </glyph>

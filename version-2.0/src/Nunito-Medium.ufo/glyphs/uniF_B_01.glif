@@ -4,20 +4,6 @@
   <unicode hex="FB01"/>
   <outline>
     <contour>
-      <point x="953" y="1231" type="curve" smooth="yes"/>
-      <point x="1028" y="1231"/>
-      <point x="1078" y="1276"/>
-      <point x="1078" y="1334" type="curve" smooth="yes"/>
-      <point x="1078" y="1392"/>
-      <point x="1028" y="1438"/>
-      <point x="953" y="1438" type="curve" smooth="yes"/>
-      <point x="878" y="1438"/>
-      <point x="827" y="1392"/>
-      <point x="827" y="1334" type="curve" smooth="yes"/>
-      <point x="827" y="1277"/>
-      <point x="878" y="1231"/>
-    </contour>
-    <contour>
       <point x="323" y="1" type="curve" smooth="yes"/>
       <point x="374" y="1"/>
       <point x="424" y="34"/>
@@ -67,6 +53,20 @@
       <point x="222" y="100" type="line" smooth="yes"/>
       <point x="222" y="34"/>
       <point x="272" y="1"/>
+    </contour>
+    <contour>
+      <point x="953" y="1231" type="curve" smooth="yes"/>
+      <point x="1028" y="1231"/>
+      <point x="1078" y="1276"/>
+      <point x="1078" y="1334" type="curve" smooth="yes"/>
+      <point x="1078" y="1392"/>
+      <point x="1028" y="1438"/>
+      <point x="953" y="1438" type="curve" smooth="yes"/>
+      <point x="878" y="1438"/>
+      <point x="827" y="1392"/>
+      <point x="827" y="1334" type="curve" smooth="yes"/>
+      <point x="827" y="1277"/>
+      <point x="878" y="1231"/>
     </contour>
   </outline>
 </glyph>

@@ -9,13 +9,25 @@
       <point x="709" y="42"/>
       <point x="728" y="83" type="curve" smooth="yes"/>
       <point x="1223" y="1332" type="line" smooth="yes"/>
-      <point x="1251" y="1396"/>
-      <point x="1145" y="1452"/>
+      <point x="1226" y="1339"/>
+      <point x="1228" y="1347"/>
+      <point x="1228" y="1354" type="curve" smooth="yes"/>
+      <point x="1228" y="1387"/>
+      <point x="1196" y="1412"/>
+      <point x="1165" y="1412" type="curve" smooth="yes"/>
+      <point x="1145" y="1412"/>
+      <point x="1124" y="1401"/>
       <point x="1113" y="1374" type="curve" smooth="yes"/>
       <point x="629" y="149" type="line"/>
       <point x="146" y="1374" type="line" smooth="yes"/>
-      <point x="114" y="1452"/>
-      <point x="7" y="1396"/>
+      <point x="135" y="1401"/>
+      <point x="114" y="1412"/>
+      <point x="94" y="1412" type="curve" smooth="yes"/>
+      <point x="62" y="1412"/>
+      <point x="30" y="1386"/>
+      <point x="30" y="1353" type="curve" smooth="yes"/>
+      <point x="30" y="1346"/>
+      <point x="32" y="1339"/>
       <point x="35" y="1332" type="curve" smooth="yes"/>
       <point x="531" y="83" type="line" smooth="yes"/>
       <point x="550" y="42"/>
@@ -321,8 +333,9 @@
     <key>unicodes</key>
       <array>
       </array>
-    <key>name</key>
-      <string>V</string>
+    <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
     <key>width</key>
       <integer>1365</integer>
     <key>contours</key>
@@ -334,9 +347,8 @@
     <key>lib</key>
       <dict>
       </dict>
-    <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
+    <key>name</key>
+      <string>V</string>
     </dict>
   </lib>
 </glyph>

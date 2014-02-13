@@ -4,15 +4,26 @@
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="1266" y="19" type="move" name="ogonek"/>
-    </contour>
-    <contour>
       <point x="691" y="1438" type="move" name="top"/>
     </contour>
     <contour>
+      <point x="1266" y="19" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="1019" y="496" type="line"/>
+      <point x="360" y="496" type="line"/>
+      <point x="689" y="1318" type="line"/>
+    </contour>
+    <contour>
       <point x="1201" y="41" type="line" smooth="yes"/>
-      <point x="1236" y="-42"/>
-      <point x="1349" y="2"/>
+      <point x="1214" y="10"/>
+      <point x="1238" y="-3"/>
+      <point x="1261" y="-3" type="curve" smooth="yes"/>
+      <point x="1291" y="-3"/>
+      <point x="1321" y="19"/>
+      <point x="1321" y="54" type="curve" smooth="yes"/>
+      <point x="1321" y="63"/>
+      <point x="1319" y="74"/>
       <point x="1314" y="85" type="curve" smooth="yes"/>
       <point x="818" y="1300" type="line" smooth="yes"/>
       <point x="777" y="1402"/>
@@ -22,20 +33,23 @@
       <point x="601" y="1402"/>
       <point x="561" y="1300" type="curve" smooth="yes"/>
       <point x="65" y="85" type="line" smooth="yes"/>
-      <point x="30" y="2"/>
-      <point x="143" y="-42"/>
+      <point x="60" y="74"/>
+      <point x="58" y="63"/>
+      <point x="58" y="54" type="curve" smooth="yes"/>
+      <point x="58" y="19"/>
+      <point x="88" y="-3"/>
+      <point x="118" y="-3" type="curve" smooth="yes"/>
+      <point x="141" y="-3"/>
+      <point x="165" y="10"/>
       <point x="178" y="41" type="curve" smooth="yes"/>
-      <point x="322.457" y="402" type="line"/>
-      <point x="1056.26" y="402" type="line"/>
-    </contour>
-    <contour>
-      <point x="1018.57" y="496" type="line"/>
-      <point x="360.071" y="496" type="line"/>
-      <point x="689" y="1318" type="line"/>
+      <point x="322" y="402" type="line"/>
+      <point x="1056" y="402" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+    <key>segmentType</key>
+      <string>line</string>
     <key>b</key>
       <dict>
       </dict>
@@ -48,8 +62,6 @@
     <key>unicodes</key>
       <array>
       </array>
-    <key>y</key>
-      <integer>1232</integer>
     <key>width</key>
       <integer>1445</integer>
     <key>points</key>
@@ -61,8 +73,8 @@
     <key>components</key>
       <array>
       </array>
-    <key>segmentType</key>
-      <string>line</string>
+    <key>y</key>
+      <integer>1232</integer>
     <key>x</key>
       <integer>718</integer>
     <key>com.typemytype.robofont.layerData</key>

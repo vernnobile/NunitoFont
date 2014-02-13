@@ -4,16 +4,16 @@
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="277" y="712" type="move" name="mid"/>
-    </contour>
-    <contour>
-      <point x="662" y="0" type="move" name="bot"/>
+      <point x="428" y="1449" type="move" name="top"/>
     </contour>
     <contour>
       <point x="417" y="1005" type="move" name="caron.alt"/>
     </contour>
     <contour>
-      <point x="428" y="1449" type="move" name="top"/>
+      <point x="662" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="277" y="712" type="move" name="mid"/>
     </contour>
     <contour>
       <point x="279" y="0" type="curve" smooth="yes"/>

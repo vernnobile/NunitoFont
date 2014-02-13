@@ -4,18 +4,18 @@
   <unicode hex="0063"/>
   <outline>
     <contour>
-      <point x="554" y="999" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="534" y="11" type="move" name="bot"/>
-    </contour>
-    <contour>
       <point x="545" y="-24" type="curve" smooth="yes"/>
       <point x="676" y="-24"/>
       <point x="783" y="12"/>
       <point x="848" y="63" type="curve" smooth="yes"/>
-      <point x="920" y="120"/>
-      <point x="854" y="186"/>
+      <point x="871" y="81"/>
+      <point x="880" y="100"/>
+      <point x="880" y="116" type="curve" smooth="yes"/>
+      <point x="880" y="141"/>
+      <point x="858" y="160"/>
+      <point x="832" y="160" type="curve" smooth="yes"/>
+      <point x="822" y="160"/>
+      <point x="811" y="157"/>
       <point x="800" y="150" type="curve" smooth="yes"/>
       <point x="725" y="99"/>
       <point x="642" y="80"/>
@@ -29,8 +29,14 @@
       <point x="652" y="913"/>
       <point x="728" y="892"/>
       <point x="794" y="845" type="curve" smooth="yes"/>
-      <point x="851" y="802"/>
-      <point x="915" y="863"/>
+      <point x="807" y="835"/>
+      <point x="822" y="831"/>
+      <point x="834" y="831" type="curve" smooth="yes"/>
+      <point x="859" y="831"/>
+      <point x="878" y="848"/>
+      <point x="878" y="872" type="curve" smooth="yes"/>
+      <point x="878" y="887"/>
+      <point x="870" y="905"/>
       <point x="851" y="922" type="curve" smooth="yes"/>
       <point x="794" y="975"/>
       <point x="689" y="1013"/>

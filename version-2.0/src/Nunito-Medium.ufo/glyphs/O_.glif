@@ -7,20 +7,6 @@
       <point x="802" y="1438" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="801" y="-22" type="curve" smooth="yes"/>
-      <point x="1234" y="-22"/>
-      <point x="1485" y="272"/>
-      <point x="1485" y="720" type="curve" smooth="yes"/>
-      <point x="1485" y="1168"/>
-      <point x="1234" y="1462"/>
-      <point x="801" y="1462" type="curve" smooth="yes"/>
-      <point x="369" y="1462"/>
-      <point x="115" y="1168"/>
-      <point x="115" y="720" type="curve" smooth="yes"/>
-      <point x="115" y="272"/>
-      <point x="369" y="-22"/>
-    </contour>
-    <contour>
       <point x="801" y="159" type="curve" smooth="yes"/>
       <point x="510" y="159"/>
       <point x="356" y="380"/>
@@ -33,6 +19,20 @@
       <point x="1245" y="720" type="curve" smooth="yes"/>
       <point x="1245" y="380"/>
       <point x="1091" y="159"/>
+    </contour>
+    <contour>
+      <point x="801" y="-22" type="curve" smooth="yes"/>
+      <point x="1234" y="-22"/>
+      <point x="1485" y="272"/>
+      <point x="1485" y="720" type="curve" smooth="yes"/>
+      <point x="1485" y="1168"/>
+      <point x="1234" y="1462"/>
+      <point x="801" y="1462" type="curve" smooth="yes"/>
+      <point x="369" y="1462"/>
+      <point x="115" y="1168"/>
+      <point x="115" y="720" type="curve" smooth="yes"/>
+      <point x="115" y="272"/>
+      <point x="369" y="-22"/>
     </contour>
   </outline>
   <lib>
@@ -71,8 +71,9 @@
     <key>unicodes</key>
       <array>
       </array>
-    <key>name</key>
-      <string>O</string>
+    <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
     <key>width</key>
       <integer>1604</integer>
     <key>contours</key>
@@ -84,9 +85,8 @@
     <key>lib</key>
       <dict>
       </dict>
-    <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
+    <key>name</key>
+      <string>O</string>
     </dict>
   </lib>
 </glyph>
