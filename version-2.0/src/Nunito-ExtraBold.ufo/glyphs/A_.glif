@@ -7,9 +7,6 @@
       <point x="1265" y="19" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="737" y="1438" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="974.658" y="530" type="line"/>
       <point x="503.342" y="530" type="line"/>
       <point x="739" y="1177" type="line"/>
@@ -48,6 +45,8 @@
   </outline>
   <lib>
     <dict>
+    <key>segmentType</key>
+      <string>line</string>
     <key>b</key>
       <dict>
       </dict>
@@ -60,8 +59,6 @@
     <key>unicodes</key>
       <array>
       </array>
-    <key>y</key>
-      <integer>1232</integer>
     <key>width</key>
       <integer>1445</integer>
     <key>points</key>
@@ -73,8 +70,8 @@
     <key>components</key>
       <array>
       </array>
-    <key>segmentType</key>
-      <string>line</string>
+    <key>y</key>
+      <integer>1232</integer>
     <key>x</key>
       <integer>718</integer>
     <key>com.typemytype.robofont.layerData</key>

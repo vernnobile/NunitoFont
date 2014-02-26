@@ -4,9 +4,6 @@
   <unicode hex="004F"/>
   <outline>
     <contour>
-      <point x="811" y="1445" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="810" y="210" type="curve" smooth="yes"/>
       <point x="552" y="210"/>
       <point x="440" y="384"/>
@@ -71,8 +68,9 @@
     <key>unicodes</key>
       <array>
       </array>
-    <key>name</key>
-      <string>O</string>
+    <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
     <key>width</key>
       <integer>1604</integer>
     <key>contours</key>
@@ -84,9 +82,8 @@
     <key>lib</key>
       <dict>
       </dict>
-    <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
+    <key>name</key>
+      <string>O</string>
     </dict>
   </lib>
 </glyph>

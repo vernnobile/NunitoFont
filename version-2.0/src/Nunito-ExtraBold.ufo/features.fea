@@ -67,6 +67,7 @@ feature kern {
      language dflt ;
       lookup kernHorizontalKerninginLatinloo;
 } kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\A \AE \AEacute \uni01E2 \Aacute \Abreve \Acircumflex \Adieresis 
 	\Agrave \Amacron \Aogonek \Aring \Atilde \B \C \Cacute \Ccaron \Ccedilla 

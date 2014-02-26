@@ -4,12 +4,6 @@
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="265" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="368" y="1001" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="265" y="0" type="curve" smooth="yes"/>
       <point x="355" y="0"/>
       <point x="405" y="53"/>
