@@ -7,53 +7,53 @@ languagesystem latn dflt;
 
 lookup kernHorizontalKerninglookup0 {
   lookupflag 0;
-    pos \one \eight -50;
-    pos \one \five -71;
-    pos \one \four -71;
-    pos \one \hyphen -108;
-    pos \one \nine -71;
-    pos \one \one -165;
-    pos \one \seven -100;
-    pos \one \six -71;
-    pos \one \three -71;
     pos \one \zero -108;
+    pos \one \three -71;
+    pos \one \six -71;
+    pos \one \seven -100;
+    pos \one \one -165;
+    pos \one \nine -71;
+    pos \one \hyphen -108;
+    pos \one \four -71;
+    pos \one \five -71;
+    pos \one \eight -50;
     pos \quoteleft \quoteleft -183;
     pos \quoteright \quoteright -183;
-    pos \seven \four -193;
-    pos \seven \hyphen -57;
     pos \seven \six -108;
-    pos \zero \one -108;
+    pos \seven \hyphen -57;
+    pos \seven \four -193;
     pos \zero \zero 29;
+    pos \zero \one -108;
 } kernHorizontalKerninglookup0;
 
 lookup kernHorizontalKerninginLatinloo {
   lookupflag 0;
     pos \D \J -79;
-    pos \F \J -251;
-    pos \F \g -28;
-    pos \F \hyphen -179;
     pos \F \r -79;
-    pos \H \O -29;
+    pos \F \hyphen -179;
+    pos \F \g -28;
+    pos \F \J -251;
     pos \H \T -64;
-    pos \L \hyphen -287;
-    pos \L \quotedblleft -466;
-    pos \L \quotedblright -475;
-    pos \L \quoteleft -337;
+    pos \H \O -29;
     pos \L \quoteright -382;
+    pos \L \quoteleft -337;
+    pos \L \quotedblright -475;
+    pos \L \quotedblleft -466;
+    pos \L \hyphen -287;
     pos \c \k -71;
-    pos \e \quotedblleft -108;
-    pos \e \quotedblright -108;
-    pos \e \quoteright -36;
     pos \e \x -29;
-    pos \f \f -76;
-    pos \f \o -29;
-    pos \f \quotedblright -60;
-    pos \f \quoteright -25;
+    pos \e \quoteright -36;
+    pos \e \quotedblright -108;
+    pos \e \quotedblleft -108;
     pos \f \t -71;
+    pos \f \quoteright -25;
+    pos \f \quotedblright -60;
+    pos \f \o -29;
+    pos \f \f -76;
     pos \n \quoteright -79;
-    pos \quoteright \d -211;
-    pos \quoteright \r -77;
     pos \quoteright \t -40;
+    pos \quoteright \r -77;
+    pos \quoteright \d -211;
     pos \x \hyphen -115;
 } kernHorizontalKerninginLatinloo;
 
@@ -67,6 +67,7 @@ feature kern {
      language dflt ;
       lookup kernHorizontalKerninginLatinloo;
 } kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\A \AE \AEacute \uni01E2 \Aacute \Abreve \Acircumflex \Adieresis 
 	\Agrave \Amacron \Aogonek \Aring \Atilde \B \C \Cacute \Ccaron \Ccedilla 

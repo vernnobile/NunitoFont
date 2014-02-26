@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslashacute" format="1">
-  <advance width="1263"/>
+  <advance width="1215"/>
   <unicode hex="01FF"/>
   <outline>
+    <component base="acute" xOffset="463" yOffset="-49"/>
     <component base="oslash"/>
-    <component base="acute" xOffset="471" yOffset="-49"/>
   </outline>
 </glyph>

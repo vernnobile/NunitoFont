@@ -45,7 +45,7 @@
       <point x="1062" y="828"/>
       <point x="972" y="828"/>
       <point x="885" y="828" type="curve" smooth="yes"/>
-      <point x="735" y="828" type="line" smooth="yes"/>
+      <point x="735" y="828" type="line"/>
     </contour>
     <contour>
       <point x="831" y="205" type="curve" smooth="yes"/>

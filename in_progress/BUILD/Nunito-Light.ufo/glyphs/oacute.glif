@@ -1,49 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oacute" format="1">
-  <advance width="1144"/>
+  <advance width="1133"/>
   <unicode hex="00F3"/>
   <outline>
+    <component base="acute" xOffset="451" yOffset="-38"/>
     <component base="o"/>
-    <component base="acute" xOffset="456" yOffset="-39"/>
   </outline>
   <lib>
     <dict>
-      <key>anchors</key>
-      <array/>
-      <key>b</key>
-      <dict/>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>b</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>oacute</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>1144</integer>
-        </dict>
       </dict>
-      <key>components</key>
-      <array/>
-      <key>contours</key>
-      <array/>
-      <key>lib</key>
-      <dict/>
-      <key>name</key>
-      <string>oacute</string>
-      <key>unicodes</key>
-      <array/>
-      <key>width</key>
+    <key>anchors</key>
+      <array>
+      </array>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
       <integer>1207</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>oacute</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1144</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>name</key>
+      <string>oacute</string>
     </dict>
   </lib>
 </glyph>

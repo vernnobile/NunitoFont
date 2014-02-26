@@ -45,8 +45,6 @@
   </outline>
   <lib>
     <dict>
-    <key>segmentType</key>
-      <string>line</string>
     <key>b</key>
       <dict>
       </dict>
@@ -59,6 +57,8 @@
     <key>unicodes</key>
       <array>
       </array>
+    <key>y</key>
+      <integer>1232</integer>
     <key>width</key>
       <integer>1445</integer>
     <key>points</key>
@@ -70,8 +70,8 @@
     <key>components</key>
       <array>
       </array>
-    <key>y</key>
-      <integer>1232</integer>
+    <key>segmentType</key>
+      <string>line</string>
     <key>x</key>
       <integer>718</integer>
     <key>com.typemytype.robofont.layerData</key>

@@ -13,13 +13,11 @@
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>xHeight</key>
-	<integer>1020</integer>
+	<integer>1048</integer>
 	<key>capHeight</key>
-	<integer>1419</integer>
+	<integer>1446</integer>
 	<key>ascender</key>
 	<integer>2030</integer>
-	<key>capHeight</key>
-	<integer>1456</integer>
 	<key>descender</key>
 	<integer>-675</integer>
 	<key>italicAngle</key>
@@ -27,7 +25,7 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2013/12/30 22:27:19</string>
+	<string>2014/02/26 19:24:50</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>

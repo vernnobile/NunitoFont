@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcommaaccent" format="1">
   <advance width="1167"/>
-  <unicode hex="021A"/>
+  <unicode hex="0162"/>
   <outline>
     <component base="T"/>
-    <component base="commaaccent" xOffset="270" yOffset="8"/>
+    <component base="cedilla" xOffset="305" yOffset="8"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
     <key>b</key>
       <dict>
     <key>name</key>
-      <string>Tcommaaccent</string>
+      <string>Tcedilla</string>
     <key>lib</key>
       <dict>
       </dict>

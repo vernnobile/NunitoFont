@@ -4,10 +4,43 @@
   <unicode hex="0203"/>
   <outline>
     <component base="a"/>
-    <component base="breveinvertedcomb" xOffset="287" yOffset="-39"/>
+    <component base="uni0311" xOffset="287" yOffset="-39"/>
   </outline>
   <lib>
     <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>455</integer>
+	    <key>width</key>	    <integer>142</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>814</integer>
+	    <key>width</key>	    <integer>211</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1338</integer>
+	    <key>width</key>	    <integer>146</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>69</integer>
+	    <key>width</key>
+	    <integer>264</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>707</integer>
+	    <key>width</key>
+	    <integer>292</integer>
+	  </dict>
+	</array>
+      </dict>
     <key>b</key>
       <dict>
       </dict>

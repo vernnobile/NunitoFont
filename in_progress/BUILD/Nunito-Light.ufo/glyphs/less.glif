@@ -1,45 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="less" format="1">
-  <advance width="1340"/>
+  <advance width="1345"/>
   <unicode hex="003C"/>
   <outline>
     <contour>
-      <point x="1095" y="32" type="line" smooth="yes"/>
-      <point x="1154" y="6"/>
-      <point x="1194" y="115"/>
-      <point x="1142" y="138" type="curve" smooth="yes"/>
-      <point x="338" y="495" type="line"/>
-      <point x="1139" y="833" type="line" smooth="yes"/>
-      <point x="1210" y="863"/>
-      <point x="1149" y="963"/>
-      <point x="1091" y="938" type="curve" smooth="yes"/>
-      <point x="204" y="560" type="line" smooth="yes"/>
-      <point x="137" y="531"/>
-      <point x="145" y="455"/>
-      <point x="203" y="429" type="curve" smooth="yes"/>
+      <point x="1105" y="33" type="line" smooth="yes"/>
+      <point x="1162" y="7"/>
+      <point x="1198" y="107"/>
+      <point x="1150" y="129" type="curve" smooth="yes"/>
+      <point x="332" y="494" type="line"/>
+      <point x="1147" y="839" type="line" smooth="yes"/>
+      <point x="1214" y="868"/>
+      <point x="1157" y="959"/>
+      <point x="1101" y="934" type="curve" smooth="yes"/>
+      <point x="203" y="550" type="line" smooth="yes"/>
+      <point x="145" y="525"/>
+      <point x="152" y="459"/>
+      <point x="205" y="435" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>less</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>1340</integer>
-        </dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>less</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1340</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
       </dict>
     </dict>
   </lib>

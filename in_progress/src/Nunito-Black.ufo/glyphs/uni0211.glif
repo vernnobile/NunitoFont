@@ -3,11 +3,34 @@
   <advance width="823"/>
   <unicode hex="0211"/>
   <outline>
-    <component base="dblgravecmb" xOffset="-107" yOffset="-98"/>
     <component base="r"/>
+    <component base="uni030F" xOffset="-107" yOffset="-98"/>
   </outline>
   <lib>
     <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>766</integer>
+	    <key>width</key>	    <integer>262</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1140</integer>
+	    <key>width</key>	    <integer>490</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>117</integer>
+	    <key>width</key>
+	    <integer>318</integer>
+	  </dict>
+	</array>
+      </dict>
     <key>b</key>
       <dict>
       </dict>

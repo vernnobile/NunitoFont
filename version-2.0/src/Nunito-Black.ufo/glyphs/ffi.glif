@@ -2,8 +2,8 @@
 <glyph name="ffi" format="1">
   <advance width="2006"/>
   <outline>
-    <component base="f" xOffset="677"/>
     <component base="f"/>
+    <component base="f" xOffset="677"/>
     <component base="i" xOffset="1431"/>
   </outline>
   <lib>

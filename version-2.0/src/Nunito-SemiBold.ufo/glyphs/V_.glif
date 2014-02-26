@@ -333,9 +333,8 @@
     <key>unicodes</key>
       <array>
       </array>
-    <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
+    <key>name</key>
+      <string>V</string>
     <key>width</key>
       <integer>1365</integer>
     <key>contours</key>
@@ -347,8 +346,9 @@
     <key>lib</key>
       <dict>
       </dict>
-    <key>name</key>
-      <string>V</string>
+    <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

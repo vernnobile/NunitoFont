@@ -7,23 +7,33 @@
       <point x="543" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="812" y="28" type="line" smooth="yes"/>
-      <point x="894" y="-60"/>
-      <point x="1028" y="60"/>
-      <point x="947" y="145" type="curve" smooth="yes"/>
-      <point x="565" y="547" type="line"/>
-      <point x="909" y="864" type="line" smooth="yes"/>
-      <point x="986" y="935"/>
-      <point x="871" y="1062"/>
-      <point x="791" y="988" type="curve" smooth="yes"/>
-      <point x="348" y="571" type="line"/>
-      <point x="348" y="518" type="line"/>
-    </contour>
-    <contour>
       <point x="246" y="0" type="curve" smooth="yes"/>
       <point x="297" y="0"/>
       <point x="348" y="35"/>
       <point x="348" y="101" type="curve" smooth="yes"/>
+      <point x="348" y="518" type="line"/>
+      <point x="812" y="28" type="line" smooth="yes"/>
+      <point x="832.274" y="6.24223"/>
+      <point x="855.727" y="-2.80023"/>
+      <point x="878.324" y="-2.80023" type="curve" smooth="yes"/>
+      <point x="927.211" y="-2.80023"/>
+      <point x="972.087" y="39.5245"/>
+      <point x="972.087" y="86.9809" type="curve" smooth="yes"/>
+      <point x="972.087" y="106.307"/>
+      <point x="964.645" y="126.484"/>
+      <point x="947" y="145" type="curve" smooth="yes"/>
+      <point x="565" y="547" type="line"/>
+      <point x="909" y="864" type="line" smooth="yes"/>
+      <point x="926.9" y="880.505"/>
+      <point x="934.424" y="900.037"/>
+      <point x="934.424" y="919.366" type="curve" smooth="yes"/>
+      <point x="934.424" y="965.464"/>
+      <point x="891.628" y="1010.41"/>
+      <point x="844.719" y="1010.41" type="curve" smooth="yes"/>
+      <point x="826.688" y="1010.41"/>
+      <point x="808.049" y="1003.77"/>
+      <point x="791" y="988" type="curve" smooth="yes"/>
+      <point x="348" y="571" type="line"/>
       <point x="348" y="1332" type="line" smooth="yes"/>
       <point x="348" y="1397"/>
       <point x="298" y="1432"/>

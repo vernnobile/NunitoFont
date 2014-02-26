@@ -10,16 +10,22 @@
       <point x="283" y="-249"/>
       <point x="296" y="-217" type="curve" smooth="yes"/>
       <point x="444" y="150" type="line" smooth="yes"/>
-      <point x="449" y="164"/>
-      <point x="452" y="206"/>
+      <point x="445" y="154"/>
+      <point x="447" y="161"/>
+      <point x="447" y="168" type="curve" smooth="yes"/>
+      <point x="447" y="185"/>
+      <point x="439" y="206"/>
       <point x="410" y="206" type="curve" smooth="yes"/>
       <point x="301" y="206" type="line" smooth="yes"/>
       <point x="269" y="206"/>
       <point x="236" y="197"/>
       <point x="228" y="150" type="curve" smooth="yes"/>
       <point x="163" y="-217" type="line" smooth="yes"/>
-      <point x="161" y="-229"/>
-      <point x="159" y="-259"/>
+      <point x="162" y="-220"/>
+      <point x="162" y="-224"/>
+      <point x="162" y="-229" type="curve" smooth="yes"/>
+      <point x="162" y="-242"/>
+      <point x="166" y="-259"/>
     </contour>
   </outline>
   <lib>

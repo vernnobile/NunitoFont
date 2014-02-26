@@ -4,9 +4,6 @@
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="760" y="1438" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="259" y="0" type="curve" smooth="yes"/>
       <point x="300" y="0"/>
       <point x="341" y="24"/>
@@ -43,53 +40,53 @@
   </outline>
   <lib>
     <dict>
-      <key>anchors</key>
-      <array>
-      </array>
-      <key>b</key>
+    <key>b</key>
       <dict>
       </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>H</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1464</integer>
-        </dict>
-      </dict>
-      <key>components</key>
+    <key>anchors</key>
       <array>
       </array>
-      <key>contours</key>
-      <array>
-      </array>
-      <key>lib</key>
+    <key>lib</key>
       <dict>
       </dict>
-      <key>name</key>
-      <string>H</string>
-      <key>unicodes</key>
+    <key>unicodes</key>
       <array>
       </array>
-      <key>width</key>
+    <key>width</key>
       <integer>1524</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>H</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1464</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>name</key>
+      <string>H</string>
     </dict>
   </lib>
 </glyph>

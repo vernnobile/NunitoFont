@@ -4,10 +4,20 @@
   <unicode hex="0200"/>
   <outline>
     <component base="A"/>
-    <component base="dblgravecmb" xOffset="257" yOffset="339"/>
+    <component base="uni030F" xOffset="257" yOffset="339"/>
   </outline>
   <lib>
     <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1577</integer>
+	    <key>width</key>	    <integer>490</integer>
+	  </dict>
+	</array>
+      </dict>
     <key>b</key>
       <dict>
       </dict>

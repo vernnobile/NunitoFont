@@ -3,6 +3,7 @@
   <advance width="578"/>
   <unicode hex="003B"/>
   <outline>
+    <component base="comma" xOffset="5" yOffset="120"/>
     <contour>
       <point x="313" y="833" type="curve" smooth="yes"/>
       <point x="379" y="833"/>
@@ -17,6 +18,5 @@
       <point x="212" y="879"/>
       <point x="246" y="833"/>
     </contour>
-    <component base="comma" xOffset="5" yOffset="120"/>
   </outline>
 </glyph>

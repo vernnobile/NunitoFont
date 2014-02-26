@@ -4,10 +4,10 @@
   <unicode hex="006E"/>
   <outline>
     <contour>
-      <point x="617" y="991" type="move" name="top"/>
+      <point x="587" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="587" y="0" type="move" name="bot"/>
+      <point x="617" y="991" type="move" name="top"/>
     </contour>
     <contour>
       <point x="241" y="0" type="curve" smooth="yes"/>
@@ -49,8 +49,6 @@
   </outline>
   <lib>
     <dict>
-    <key>segmentType</key>
-      <string>curve</string>
     <key>b</key>
       <dict>
       </dict>
@@ -63,6 +61,8 @@
     <key>unicodes</key>
       <array>
       </array>
+    <key>y</key>
+      <integer>113</integer>
     <key>width</key>
       <integer>1195</integer>
     <key>points</key>
@@ -74,8 +74,8 @@
     <key>components</key>
       <array>
       </array>
-    <key>y</key>
-      <integer>113</integer>
+    <key>segmentType</key>
+      <string>curve</string>
     <key>x</key>
       <integer>137</integer>
     <key>com.typemytype.robofont.layerData</key>

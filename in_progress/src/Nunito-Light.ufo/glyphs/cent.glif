@@ -3,6 +3,7 @@
   <advance width="1028"/>
   <unicode hex="00A2"/>
   <outline>
+    <component base="c"/>
     <contour>
       <point x="543" y="-270" type="curve" smooth="yes"/>
       <point x="565" y="-270"/>
@@ -25,34 +26,33 @@
       <point x="498" y="1239"/>
       <point x="498" y="1208" type="curve" smooth="yes"/>
     </contour>
-    <component base="c"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>cent</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1046</integer>
-        </dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>cent</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1046</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
       </dict>
     </dict>
   </lib>

@@ -1,49 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scaron" format="1">
-  <advance width="997"/>
+  <advance width="679"/>
   <unicode hex="0161"/>
   <outline>
+    <component base="caron" xOffset="245" yOffset="-38"/>
     <component base="s"/>
-    <component base="caron" xOffset="243" yOffset="-34"/>
   </outline>
   <lib>
     <dict>
-      <key>anchors</key>
-      <array/>
-      <key>b</key>
-      <dict/>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>b</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>scaron</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>1007</integer>
-        </dict>
       </dict>
-      <key>components</key>
-      <array/>
-      <key>contours</key>
-      <array/>
-      <key>lib</key>
-      <dict/>
-      <key>name</key>
-      <string>scaron</string>
-      <key>unicodes</key>
-      <array/>
-      <key>width</key>
+    <key>anchors</key>
+      <array>
+      </array>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
       <integer>1054</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>scaron</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1007</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>name</key>
+      <string>scaron</string>
     </dict>
   </lib>
 </glyph>

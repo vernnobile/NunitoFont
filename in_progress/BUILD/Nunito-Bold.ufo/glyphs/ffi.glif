@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ffi" format="1">
-  <advance width="2008"/>
+  <advance width="1927"/>
   <outline>
     <component base="f"/>
-    <component base="f" xOffset="678"/>
-    <component base="i" xOffset="1432"/>
+    <component base="f" xOffset="655"/>
+    <component base="i" xOffset="1386"/>
   </outline>
 </glyph>
