@@ -1,0 +1,20 @@
+copyright_license: ''
+copyright_notice: Copyright (c) 2011 by vernon adams. All rights reserved.
+hinting_level: '2'
+license_file: version-2.0/src/ttfautohint.txt
+process_files: [version-2.0/BUILD/Nunito-Regular.ufo, version-2.0/BUILD/Nunito-ExtraBold.ufo,
+  version-2.0/BUILD/Nunito-Light.ufo, version-2.0/BUILD/Nunito-SemiBold.ufo, version-2.0/BUILD/Nunito-Black.ufo,
+  version-2.0/BUILD/Nunito-Bold.ufo, version-2.0/BUILD/Nunito-ExtraLight.ufo, version-2.0/BUILD/Nunito-Medium.ufo,
+  version-2.0/src/Nunito-Regular.ufo, version-2.0/src/Nunito-ExtraBold.ufo, version-2.0/src/Nunito-Light.ufo,
+  version-2.0/src/Nunito-SemiBold.ufo, version-2.0/src/Nunito-Black.ufo, version-2.0/src/Nunito-Bold.ufo,
+  version-2.0/src/Nunito-ExtraLight.ufo, version-2.0/src/Nunito-Medium.ufo, in_progress/BUILD/Nunito-Regular.ufo,
+rfn_asserted: 'no'
+rfn_permission: 'True'
+source_cff_filetype: ''
+source_drawing_filetype: 'UFO'
+source_ttf_filetype: ''
+subset: [menu, latin, latin-ext+latin]
+trademark_notice: Nunito is a trademark of vernon adams.
+trademark_permission: ''
+ttfautohint: -l 8 -r 50 -G 200 -x 0 -f none -w G -W
+txt_files_copied: [README.md]
