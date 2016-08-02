@@ -133619,7 +133619,7 @@ instanceInterpolations = {
 "E1B555A7-F4E1-459C-9C1A-AE952106EEF9" = 0.01;
 "8F6BE840-9356-4940-A488-AC64157678BA" = 0.99;
 };
-name = Bold;
+name = ExtraBold;
 weightClass = ExtraBold;
 },
 {
@@ -133628,7 +133628,7 @@ instanceInterpolations = {
 "E1B555A7-F4E1-459C-9C1A-AE952106EEF9" = 1.01;
 "8F6BE840-9356-4940-A488-AC64157678BA" = -0.01;
 };
-name = Bold;
+name = Black;
 weightClass = Black;
 }
 );
