@@ -1,21 +1,13 @@
 {
 .appVersion = "895";
-copyright = "Digitized data Copyright (c) 2011-2013, vernon adams.";
+copyright = "Nunito Font, Copyright (c) 2014, Vernon Adams (vern@newtypography.co.uk)";
 customParameters = (
 {
-name = note;
-value = "";
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
-name = openTypeNameCompatibleFullName;
-value = "Nunito-ExtraLight";
-},
-{
-name = openTypeNameLicense;
-value = "Copyright (c) 2013, vernon adams.\012\012This Font Software is licensed under the SIL Open Font License, Version 1.1.\012This license is copied below, and is also available with a FAQ at:\012http://scripts.sil.org/OFL\012";
-},
-{
-name = openTypeNameLicenseURL;
+name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
@@ -38,7 +30,7 @@ name = trademark;
 value = "Nunito is a trademark of Vernon Adams and may be registered in certain jurisdictions.";
 }
 );
-date = "2014-02-27 02:21:19 +0000";
+date = "2016-08-02 22:44:42 +0000";
 designer = "Vernon Adams";
 designerURL = newtypography.co.uk;
 familyName = Nunito;
@@ -134681,6 +134673,6 @@ zero = 29;
 manufacturer = newtypography;
 manufacturerURL = newtypography.co.uk;
 unitsPerEm = 2048;
-versionMajor = 1;
+versionMajor = 2;
 versionMinor = 0;
 }
