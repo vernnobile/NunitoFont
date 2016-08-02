@@ -37,7 +37,7 @@ value = (
 );
 date = "2016-08-02 22:44:42 +0000";
 designer = "Vernon Adams";
-designerURL = newtypography.co.uk;
+designerURL = "http://newtypography.co.uk";
 familyName = Nunito;
 featurePrefixes = (
 {
@@ -134676,7 +134676,7 @@ zero = 29;
 };
 };
 manufacturer = newtypography;
-manufacturerURL = newtypography.co.uk;
+manufacturerURL = "http://newtypography.co.uk";
 unitsPerEm = 1000;
 versionMajor = 2;
 versionMinor = 0;
